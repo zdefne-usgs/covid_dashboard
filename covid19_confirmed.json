@@ -1,8 +1,8 @@
 {
-//    "initialCamera":{"west":109,"south":-45,"east":158,"north":-8},
-//    "homeCamera":{"west":109,"south":-45,"east":158,"north":-8},
-//    "baseMapName":"Positron (Dark)",
-//    "viewerMode":"2d",
+    "initialCamera":{"west":109,"south":-45,"east":158,"north":-8},
+    "homeCamera":{"west":109,"south":-45,"east":158,"north":-8},
+    "baseMapName":"Positron (Dark)",
+    "viewerMode":"2d",
     "catalog": [
         {
             "name": "COVID19 Cases",
