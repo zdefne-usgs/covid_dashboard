@@ -1,7 +1,7 @@
 {
     "catalog": [
         {
-            "name": "COVID19 ases",
+            "name": "COVID19 Cases",
             "type": "csv",
             "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/covid_confirmed.csv",
             //"featureInfoTemplate" : {
@@ -9,7 +9,12 @@
             //},
             "description": "Global numbers for COVID19",
             "isEnabled": true,
-            "isLoading": true
+            "isLoading": true,
+            //"tableStyle": {
+                //"dataVariable": "Value",
+                //"colorBins": 9, 
+                //"scaleByValue": true,
+                //},
         }
     ]
 }
