@@ -1,0 +1,15 @@
+{
+    "catalog": [
+        {
+            "name": "COVID19 ases",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/covid_confirmed.csv",
+            //"featureInfoTemplate" : {
+            //    "template" : "<h3>{{terria.timeSeries.title}}</h3><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>",
+            //},
+            "description": "Global numbers for COVID19",
+            "isEnabled": true,
+            "isLoading": true
+        }
+    ]
+}
