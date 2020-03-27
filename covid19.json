@@ -1,20 +1,73 @@
 {
+    "initialCamera":{"west":109,"south":-45,"east":158,"north":-8},
+    "homeCamera":{"west":109,"south":-45,"east":158,"north":-8},
+    "baseMapName":"Positron (Dark)",
+    "viewerMode":"2d",
     "catalog": [
         {
             "name": "COVID19 Cases",
             "type": "csv",
-            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/covid_confirmed.csv",
-            //"featureInfoTemplate" : {
-            //    "template" : "<h3>{{terria.timeSeries.title}}</h3><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>",
-            //},
-            "description": "Global numbers for COVID19",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/covid_confirmed2.csv",
+            "description": "Confirmed cases of COVID19",
             "isEnabled": true,
             "isLoading": true,
             "tableStyle": {
-                //"dataVariable": "Value",
-                "colorBins": 9, 
+                "columns": {
+                    "id": {
+                        "name": "Location"
+                    },
+                    "lon": {
+                        "name": "Lon"
+                    },
+                    "lat": {
+                        "name": "Lat"
+                    },
+                    "Value": {
+                        "name": "Confirmed"
+                    },
+                    },
+                "dataVariable": "Value",
+                "colorMap": "white-yellow-red-black",
+                "colorBins": [20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000], 
+                "scale": 2,
                 "scaleByValue": true,
                 },
+        },
+        {
+            "name": "COVID19 Deaths",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/covid_deaths2.csv",
+            //"featureInfoTemplate" : {
+            //    "template" : "<h3>{{terria.timeSeries.title}}</h3><chart x-column={{terria.timeSeries.xName}} y-column={{terria.timeSeries.yName}} id={{terria.timeSeries.id}} column-units={{terria.timeSeries.units}}>{{terria.timeSeries.data}}</chart>",
+            //},
+            "description": "Deaths from COVID19",
+            "isEnabled": true,
+            "isLoading": true,
+            "tableStyle": {
+                "columns": {
+                    "id": {
+                        "name": "Location"
+                    },
+                    "lon": {
+                        "name": "Lon"
+                    },
+                    "lat": {
+                        "name": "Lat"
+                    },
+                    "Value": {
+                        "name": "Deaths"
+                    },
+                    },
+                "dataVariable": "Value",
+                "colorMap": "white-yellow-red-black",
+                //"colorBins": 9, 
+                //"colorBinMethod" : "quantile",
+                //colorBins": [5, 10, 20, 30, 40, 50, 75, 100, 250, 500, 1000, 2500, 5000, 10000], 
+                "colorBins": [2, 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000], 
+                "scale": 5,
+                "scaleByValue": false,
+                },
         }
+
     ]
 }
