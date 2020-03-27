@@ -10,11 +10,11 @@
             "description": "Global numbers for COVID19",
             "isEnabled": true,
             "isLoading": true,
-            //"tableStyle": {
+            "tableStyle": {
                 //"dataVariable": "Value",
-                //"colorBins": 9, 
-                //"scaleByValue": true,
-                //},
+                "colorBins": 9, 
+                "scaleByValue": true,
+                },
         }
     ]
 }
