@@ -2,7 +2,7 @@
 
 [World COVID-19 Cases](https://map.terria.io/#share=s-zBncSBSFO8gy7J6MbFEJ1baJFDe)
 
-[United Staes COVID-19 Cases](https://map.terria.io/#share=s-4NBg0dAFBq2weSovfS49DrvyCnu) 
+[United Staes COVID-19 Cases](https://map.terria.io/#share=s-2FromOrpwUDNXovgSAp5SgSlIAn) 
 
 # COVID-19 Interactive Jupyter Notebooks
 
