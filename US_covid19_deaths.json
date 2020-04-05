@@ -1,0 +1,54 @@
+{
+    "autoPlay": true,
+    "viewerMode": "2d",
+    "initialCamera": {
+    "west": -125,
+    "east": -67,
+    "north": 67,
+    "south": -67
+  },
+    "homeCamera": {
+    "west": -140,
+    "east": 180,
+    "north": 67,
+    "south": -67
+  },
+    "catalog": [
+        {
+            "name": "COVID19 Deaths in US",
+            "type": "csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/US_deat.csv",
+            "description": "A spatiotemporal map of deaths from COVID19. Thanks to these sources who provided the open source data and the tools: <p><a href=\"https://github.com/CSSEGISandData/COVID-19\">2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE</a></p> <p><a href=\"friedrichknuth/covid_dashboard\">COVID-19 Interactive Jupyter Notebooks </a></p>     <p><a href=\"https://terria.io\">TerriaJS</a></p>      <p> <a href=\"https://www.linkedin.com/in/zaferdefne/\">Zafer Defne</a> prepared this voluntarily, and during his free time while keeping social distance with fellow human beings. He still has hope.</p>",
+            "hideSource" : true,
+            "isPromoted": true,
+            "isEnabled": true,
+            "isLoading": true,
+//            "featureInfoTemplate" : {
+//                "template" : "<table style=width:100%><th><tr><td><body>{{terria.timeSeries.title}}<body></td></tr></th><tr><td><chart x-column=\"{{terria.timeSeries.xName}}\" y-column=\"{{terria.timeSeries.yName}}\" id=\"{{terria.timeSeries.id}}\" column-units=\"{{terria.timeSeries.units}}\">{{terria.timeSeries.data}}</chart></td></tr></table>",
+//            },
+            "idColumns": ["id"],
+            "tableStyle": {
+                "dataVariable": "Value",
+                "columns": {
+//                    "id": {
+//                        "name": "Location"
+//                    },
+                    "lon": {
+                        "name": "Lon"
+                    },
+                    "lat": {
+                        "name": "Lat"
+                    },
+                    "Value": {
+                        "name": "Deaths"
+                    },
+                },
+                "colorMap": "white-magenta-blue-black",
+//                "colorBins": [20, 50, 100, 200, 500, 1000, 2000, 5000, 10000, 20000, 50000, 100000], 
+                "colorBins": [2, 5, 10, 20, 50, 100, 200, 500, 1000, 2000, 5000, 10000], 
+                "scale": 2,
+                "scaleByValue": true,
+                },
+        },
+    ]
+}
