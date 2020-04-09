@@ -255,9 +255,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-22,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-22,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-22,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-22,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-22,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-22,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-22,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-22,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-22,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-22,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-23,0
@@ -516,9 +516,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-23,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-23,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-23,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-23,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-23,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-23,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-23,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-23,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-23,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-23,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-24,0
@@ -777,9 +777,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-24,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-24,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-24,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-24,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-24,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-24,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-24,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-24,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-24,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-24,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-25,0
@@ -1038,9 +1038,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-25,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-25,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-25,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-25,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-25,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-25,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-25,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-25,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-25,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-25,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-26,0
@@ -1299,9 +1299,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-26,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-26,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-26,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-26,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-26,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-26,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-26,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-26,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-26,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-26,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-27,0
@@ -1560,9 +1560,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-27,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-27,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-27,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-27,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-27,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-27,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-27,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-27,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-27,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-27,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-28,0
@@ -1821,9 +1821,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-28,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-28,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-28,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-28,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-28,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-28,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-28,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-28,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-28,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-28,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-29,0
@@ -2082,9 +2082,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-29,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-29,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-29,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-29,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-29,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-29,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-29,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-29,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-29,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-29,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-30,0
@@ -2343,9 +2343,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-30,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-30,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-30,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-30,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-30,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-30,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-30,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-30,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-30,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-30,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-01-31,0
@@ -2604,9 +2604,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-01-31,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-01-31,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-01-31,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-01-31,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-01-31,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-01-31,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-01-31,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-01-31,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-01-31,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-01-31,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-01,0
@@ -2865,9 +2865,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-01,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-01,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-01,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-01,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-01,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-01,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-01,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-01,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-01,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-01,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-02,0
@@ -3126,9 +3126,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-02,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-02,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-02,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-02,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-02,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-02,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-02,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-02,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-02,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-02,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-03,0
@@ -3387,9 +3387,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-03,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-03,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-03,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-03,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-03,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-03,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-03,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-03,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-03,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-03,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-04,0
@@ -3648,9 +3648,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-04,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-04,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-04,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-04,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-04,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-04,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-04,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-04,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-04,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-04,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-05,0
@@ -3909,9 +3909,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-05,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-05,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-05,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-05,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-05,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-05,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-05,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-05,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-05,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-05,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-06,0
@@ -4170,9 +4170,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-06,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-06,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-06,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-06,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-06,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-06,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-06,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-06,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-06,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-06,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-07,0
@@ -4431,9 +4431,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-07,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-07,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-07,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-07,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-07,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-07,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-07,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-07,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-07,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-07,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-08,0
@@ -4692,9 +4692,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-08,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-08,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-08,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-08,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-08,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-08,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-08,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-08,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-08,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-08,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-09,0
@@ -4953,9 +4953,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-09,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-09,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-09,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-09,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-09,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-09,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-09,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-09,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-09,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-09,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-10,0
@@ -5214,9 +5214,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-10,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-10,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-10,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-10,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-10,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-10,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-10,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-10,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-10,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-10,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-11,0
@@ -5475,9 +5475,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-11,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-11,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-11,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-11,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-11,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-11,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-11,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-11,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-11,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-11,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-12,0
@@ -5736,9 +5736,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-12,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-12,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-12,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-12,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-12,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-12,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-12,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-12,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-12,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-12,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-13,0
@@ -5997,9 +5997,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-13,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-13,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-13,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-13,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-13,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-13,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-13,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-13,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-13,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-13,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-14,0
@@ -6258,9 +6258,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-14,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-14,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-14,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-14,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-14,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-14,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-14,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-14,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-14,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-14,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-15,0
@@ -6519,9 +6519,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-15,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-15,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-15,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-15,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-15,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-15,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-15,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-15,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-15,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-15,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-16,0
@@ -6780,9 +6780,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-16,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-16,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-16,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-16,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-16,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-16,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-16,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-16,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-16,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-16,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-17,0
@@ -7041,9 +7041,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-17,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-17,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-17,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-17,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-17,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-17,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-17,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-17,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-17,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-17,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-18,0
@@ -7302,9 +7302,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-18,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-18,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-18,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-18,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-18,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-18,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-18,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-18,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-18,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-18,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-19,0
@@ -7563,9 +7563,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-19,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-19,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-19,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-19,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-19,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-19,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-19,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-19,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-19,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-19,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-20,0
@@ -7824,9 +7824,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-20,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-20,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-20,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-20,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-20,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-20,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-20,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-20,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-20,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-20,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-21,0
@@ -8085,9 +8085,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-21,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-21,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-21,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-21,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-21,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-21,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-21,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-21,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-21,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-21,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-22,0
@@ -8346,9 +8346,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-22,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-22,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-22,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-22,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-22,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-22,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-22,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-22,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-22,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-22,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-23,0
@@ -8607,9 +8607,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-23,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-23,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-23,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-23,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-23,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-23,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-23,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-23,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-23,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-23,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-24,0
@@ -8868,9 +8868,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-24,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-24,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-24,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-24,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-24,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-24,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-24,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-24,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-24,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-24,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-25,0
@@ -9129,9 +9129,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-25,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-25,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-25,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-25,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-25,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-25,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-25,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-25,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-25,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-25,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-26,0
@@ -9390,9 +9390,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-26,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-26,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-26,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-26,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-26,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-26,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-26,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-26,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-26,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-26,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-27,0
@@ -9651,9 +9651,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-27,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-27,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-27,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-27,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-27,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-27,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-27,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-27,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-27,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-27,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-28,0
@@ -9912,9 +9912,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-28,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-28,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-28,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-28,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-28,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-28,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-28,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-28,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-28,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-28,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-02-29,0
@@ -10173,9 +10173,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-02-29,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-02-29,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-02-29,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-02-29,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-02-29,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-02-29,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-02-29,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-02-29,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-02-29,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-02-29,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-01,0
@@ -10434,9 +10434,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-01,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-01,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-01,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-01,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-01,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-01,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-01,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-01,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-01,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-01,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-02,0
@@ -10695,9 +10695,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-02,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-02,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-02,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-02,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-02,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-02,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-02,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-02,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-02,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-02,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-03,0
@@ -10956,9 +10956,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-03,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-03,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-03,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-03,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-03,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-03,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-03,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-03,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-03,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-03,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-04,0
@@ -11217,9 +11217,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-04,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-04,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-04,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-04,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-04,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-04,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-04,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-04,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-04,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-04,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-05,0
@@ -11478,9 +11478,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-05,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-05,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-05,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-05,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-05,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-05,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-05,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-05,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-05,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-05,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-06,0
@@ -11739,9 +11739,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-06,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-06,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-06,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-06,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-06,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-06,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-06,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-06,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-06,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-06,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-07,0
@@ -12000,9 +12000,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-07,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-07,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-07,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-07,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-07,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-07,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-07,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-07,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-07,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-07,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-08,0
@@ -12261,9 +12261,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-08,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-08,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-08,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-08,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-08,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-08,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-08,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-08,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-08,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-08,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-09,0
@@ -12522,9 +12522,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-09,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-09,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-09,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-09,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-09,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-09,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-09,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-09,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-09,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-09,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-10,0
@@ -12783,9 +12783,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-10,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-10,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-10,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-10,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-10,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-10,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-10,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-10,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-10,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-10,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-11,0
@@ -13044,9 +13044,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-11,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-11,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-11,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-11,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-11,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-11,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-11,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-11,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-11,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-11,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-12,0
@@ -13305,9 +13305,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-12,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-12,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-12,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-12,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-12,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-12,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-12,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-12,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-12,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-12,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-13,0
@@ -13566,9 +13566,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-13,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-13,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-13,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-13,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-13,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-13,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-13,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-13,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-13,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-13,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-14,0
@@ -13827,9 +13827,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-14,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-14,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-14,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-14,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-14,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-14,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-14,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-14,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-14,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-14,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-15,0
@@ -14088,9 +14088,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-15,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-15,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-15,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-15,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-15,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-15,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-15,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-15,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-15,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-15,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-16,0
@@ -14349,9 +14349,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-16,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-16,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-16,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-16,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-16,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-16,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-16,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-16,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-16,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-16,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-17,0
@@ -14610,9 +14610,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-17,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-17,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-17,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-17,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-17,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-17,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-17,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-17,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-17,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-17,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-18,0
@@ -14871,9 +14871,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-18,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-18,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-18,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-18,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-18,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-18,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-18,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-18,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-18,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-18,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-19,0
@@ -15132,9 +15132,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-19,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-19,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-19,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-19,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-19,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-19,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-19,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-19,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-19,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-19,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-20,0
@@ -15393,9 +15393,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-20,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-20,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-20,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-20,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-20,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-20,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-20,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-20,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-20,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-20,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-21,0
@@ -15654,9 +15654,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-21,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-21,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-21,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-21,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-21,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-21,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-21,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-21,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-21,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-21,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-22,1
@@ -15915,9 +15915,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-22,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-22,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-22,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-22,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-22,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-22,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-22,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-22,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-22,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-22,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-23,1
@@ -16176,9 +16176,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-23,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-23,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-23,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-23,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-23,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-23,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-23,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-23,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-23,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-23,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-24,1
@@ -16437,9 +16437,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-24,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-24,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-24,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-24,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-24,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-24,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-24,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-24,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-24,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-24,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-25,2
@@ -16698,9 +16698,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-25,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-25,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-25,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-25,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-25,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-25,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-25,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-25,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-25,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-25,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-26,4
@@ -16959,9 +16959,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-26,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-26,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-26,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-26,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-26,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-26,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-26,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-26,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-26,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-26,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-27,4
@@ -17220,9 +17220,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-27,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-27,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-27,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-27,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-27,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-27,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-27,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-27,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-27,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-27,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-28,4
@@ -17481,9 +17481,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-28,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-28,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-28,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-28,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-28,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-28,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-28,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-28,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-28,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-28,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-29,4
@@ -17742,9 +17742,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-29,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-29,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-29,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-29,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-29,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-29,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-29,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-29,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-29,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-29,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-30,4
@@ -18003,9 +18003,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-30,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-30,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-30,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-30,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-30,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-30,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-30,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-30,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-30,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-30,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-03-31,4
@@ -18264,9 +18264,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-03-31,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-03-31,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-03-31,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-03-31,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-03-31,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-03-31,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-03-31,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-03-31,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-03-31,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-03-31,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-01,4
@@ -18525,9 +18525,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-01,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-01,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-01,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-01,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-01,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-01,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-01,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-01,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-01,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-01,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-02,6
@@ -18786,9 +18786,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-02,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-02,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-02,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-02,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-02,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-02,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-02,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-02,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-02,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-02,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-03,6
@@ -19047,9 +19047,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-03,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-03,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-03,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-03,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-03,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-03,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-03,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-03,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-03,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-03,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-04,7
@@ -19308,9 +19308,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-04,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-04,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-04,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-04,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-04,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-04,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-04,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-04,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-04,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-04,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-05,7
@@ -19569,9 +19569,9 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-05,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-05,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-05,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-05,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-05,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-05,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-05,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-05,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-05,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-05,0
 "('Afghanistan', 'Total')",33.0,65.0,2020-04-06,11
@@ -19830,8 +19830,530 @@ id,lat,lon,Date,Value
 "('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-06,0
 "('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-06,0
 "('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-06,0
-"('United Kingdom', 'Falkland Islands (Islas Malvinas)')",-51.7963,-59.5236,2020-04-06,0
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-06,0
 "('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-06,0
-"('South Sudan', 'Total')",6.877000000000002,31.307,2020-04-06,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-06,0
 "('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-06,0
 "('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-06,0
+"('Afghanistan', 'Total')",33.0,65.0,2020-04-07,14
+"('Albania', 'Total')",41.1533,20.1683,2020-04-07,22
+"('Algeria', 'Total')",28.0339,1.6596,2020-04-07,193
+"('Andorra', 'Total')",42.5063,1.5218,2020-04-07,22
+"('Angola', 'Total')",-11.2027,17.8739,2020-04-07,2
+"('Antigua and Barbuda', 'Total')",17.0608,-61.7964,2020-04-07,1
+"('Argentina', 'Total')",-38.4161,-63.6167,2020-04-07,56
+"('Armenia', 'Total')",40.0691,45.0382,2020-04-07,8
+"('Australia', 'Australian Capital Territory')",-35.4735,149.0124,2020-04-07,2
+"('Australia', 'New South Wales')",-33.8688,151.2093,2020-04-07,21
+"('Australia', 'Northern Territory')",-12.4634,130.8456,2020-04-07,0
+"('Australia', 'Queensland')",-28.0167,153.4,2020-04-07,4
+"('Australia', 'South Australia')",-34.9285,138.6007,2020-04-07,1
+"('Australia', 'Tasmania')",-41.4545,145.9707,2020-04-07,2
+"('Australia', 'Victoria')",-37.8136,144.9631,2020-04-07,11
+"('Australia', 'Western Australia')",-31.9505,115.8605,2020-04-07,4
+"('Austria', 'Total')",47.5162,14.5501,2020-04-07,243
+"('Azerbaijan', 'Total')",40.1431,47.5769,2020-04-07,8
+"('Bahamas', 'Total')",25.0343,-77.3963,2020-04-07,6
+"('Bahrain', 'Total')",26.0275,50.55,2020-04-07,5
+"('Bangladesh', 'Total')",23.685,90.3563,2020-04-07,17
+"('Barbados', 'Total')",13.1939,-59.5432,2020-04-07,3
+"('Belarus', 'Total')",53.7098,27.9534,2020-04-07,13
+"('Belgium', 'Total')",50.8333,4.0,2020-04-07,2035
+"('Benin', 'Total')",9.3077,2.3158,2020-04-07,1
+"('Bhutan', 'Total')",27.5142,90.4336,2020-04-07,0
+"('Bolivia', 'Total')",-16.2902,-63.5887,2020-04-07,14
+"('Bosnia and Herzegovina', 'Total')",43.9159,17.6791,2020-04-07,33
+"('Brazil', 'Total')",-14.235,-51.9253,2020-04-07,686
+"('Brunei', 'Total')",4.5353,114.7277,2020-04-07,1
+"('Bulgaria', 'Total')",42.7339,25.4858,2020-04-07,23
+"('Burkina Faso', 'Total')",12.2383,-1.5616,2020-04-07,19
+"('Cabo Verde', 'Total')",16.5388,-23.0418,2020-04-07,1
+"('Cambodia', 'Total')",11.55,104.9167,2020-04-07,0
+"('Cameroon', 'Total')",3.8480000000000003,11.5021,2020-04-07,9
+"('Canada', 'Alberta')",53.9333,-116.5765,2020-04-07,24
+"('Canada', 'British Columbia')",49.2827,-123.1207,2020-04-07,39
+"('Canada', 'Manitoba')",53.7609,-98.8139,2020-04-07,3
+"('Canada', 'New Brunswick')",46.5653,-66.4619,2020-04-07,0
+"('Canada', 'Newfoundland and Labrador')",53.1355,-57.6604,2020-04-07,1
+"('Canada', 'Nova Scotia')",44.681999999999995,-63.7443,2020-04-07,1
+"('Canada', 'Ontario')",51.2538,-85.3232,2020-04-07,153
+"('Canada', 'Prince Edward Island')",46.5107,-63.4168,2020-04-07,0
+"('Canada', 'Quebec')",52.9399,-73.5491,2020-04-07,150
+"('Canada', 'Saskatchewan')",52.9399,-106.4509,2020-04-07,3
+"('Central African Republic', 'Total')",6.6111,20.9394,2020-04-07,0
+"('Chad', 'Total')",15.4542,18.7322,2020-04-07,0
+"('Chile', 'Total')",-35.6751,-71.543,2020-04-07,43
+"('China', 'Anhui')",31.8257,117.2264,2020-04-07,6
+"('China', 'Beijing')",40.1824,116.4142,2020-04-07,8
+"('China', 'Chongqing')",30.0572,107.874,2020-04-07,6
+"('China', 'Fujian')",26.0789,117.9874,2020-04-07,1
+"('China', 'Gansu')",37.8099,101.0583,2020-04-07,2
+"('China', 'Guangdong')",23.3417,113.4244,2020-04-07,8
+"('China', 'Guangxi')",23.8298,108.7881,2020-04-07,2
+"('China', 'Guizhou')",26.8154,106.8748,2020-04-07,2
+"('China', 'Hainan')",19.1959,109.7453,2020-04-07,6
+"('China', 'Hebei')",39.549,116.1306,2020-04-07,6
+"('China', 'Heilongjiang')",47.861999999999995,127.7615,2020-04-07,13
+"('China', 'Henan')",33.882,113.61399999999999,2020-04-07,22
+"('China', 'Hong Kong')",22.3,114.2,2020-04-07,4
+"('China', 'Hubei')",30.9756,112.2707,2020-04-07,3212
+"('China', 'Hunan')",27.6104,111.7088,2020-04-07,4
+"('China', 'Inner Mongolia')",44.0935,113.9448,2020-04-07,1
+"('China', 'Jiangsu')",32.9711,119.455,2020-04-07,0
+"('China', 'Jiangxi')",27.614,115.7221,2020-04-07,1
+"('China', 'Jilin')",43.6661,126.1923,2020-04-07,1
+"('China', 'Liaoning')",41.2956,122.6085,2020-04-07,2
+"('China', 'Macau')",22.1667,113.55,2020-04-07,0
+"('China', 'Ningxia')",37.2692,106.1655,2020-04-07,0
+"('China', 'Qinghai')",35.7452,95.9956,2020-04-07,0
+"('China', 'Shaanxi')",35.1917,108.8701,2020-04-07,3
+"('China', 'Shandong')",36.3427,118.1498,2020-04-07,7
+"('China', 'Shanghai')",31.201999999999998,121.4491,2020-04-07,6
+"('China', 'Shanxi')",37.5777,112.2922,2020-04-07,0
+"('China', 'Sichuan')",30.6171,102.7103,2020-04-07,3
+"('China', 'Tianjin')",39.3054,117.323,2020-04-07,3
+"('China', 'Tibet')",31.6927,88.0924,2020-04-07,0
+"('China', 'Xinjiang')",41.1129,85.2401,2020-04-07,3
+"('China', 'Yunnan')",24.974,101.48700000000001,2020-04-07,2
+"('China', 'Zhejiang')",29.1832,120.0934,2020-04-07,1
+"('Colombia', 'Total')",4.5709,-74.2973,2020-04-07,50
+"('Congo (Brazzaville)', 'Total')",-4.0383,21.7587,2020-04-07,5
+"('Congo (Kinshasa)', 'Total')",-4.0383,21.7587,2020-04-07,18
+"('Costa Rica', 'Total')",9.7489,-83.7534,2020-04-07,2
+"(""Cote d'Ivoire"", 'Total')",7.54,-5.5471,2020-04-07,3
+"('Croatia', 'Total')",45.1,15.2,2020-04-07,18
+"('Diamond Princess', 'Total')",0.0,0.0,2020-04-07,11
+"('Cuba', 'Total')",22.0,-80.0,2020-04-07,11
+"('Cyprus', 'Total')",35.1264,33.4299,2020-04-07,9
+"('Czechia', 'Total')",49.8175,15.472999999999999,2020-04-07,88
+"('Denmark', 'Faroe Islands')",61.8926,-6.9118,2020-04-07,0
+"('Denmark', 'Greenland')",71.7069,-42.6043,2020-04-07,0
+"('Denmark', 'Total')",56.2639,9.5018,2020-04-07,203
+"('Djibouti', 'Total')",11.8251,42.5903,2020-04-07,0
+"('Dominican Republic', 'Total')",18.7357,-70.1627,2020-04-07,98
+"('Ecuador', 'Total')",-1.8312,-78.1834,2020-04-07,191
+"('Egypt', 'Total')",26.0,30.0,2020-04-07,94
+"('El Salvador', 'Total')",13.7942,-88.8965,2020-04-07,4
+"('Equatorial Guinea', 'Total')",1.5,10.0,2020-04-07,0
+"('Eritrea', 'Total')",15.1794,39.7823,2020-04-07,0
+"('Estonia', 'Total')",58.5953,25.0136,2020-04-07,21
+"('Eswatini', 'Total')",-26.5225,31.4659,2020-04-07,0
+"('Ethiopia', 'Total')",9.145,40.4897,2020-04-07,2
+"('Fiji', 'Total')",-17.7134,178.065,2020-04-07,0
+"('Finland', 'Total')",64.0,26.0,2020-04-07,34
+"('France', 'French Guiana')",3.9339,-53.1258,2020-04-07,0
+"('France', 'French Polynesia')",-17.6797,149.4068,2020-04-07,0
+"('France', 'Guadeloupe')",16.25,-61.5833,2020-04-07,7
+"('France', 'Mayotte')",-12.8275,45.1662,2020-04-07,2
+"('France', 'New Caledonia')",-20.9043,165.618,2020-04-07,0
+"('France', 'Reunion')",-21.1351,55.2471,2020-04-07,0
+"('France', 'Saint Barthelemy')",17.9,-62.8333,2020-04-07,0
+"('France', 'St Martin')",18.0708,-63.0501,2020-04-07,2
+"('France', 'Martinique')",14.6415,-61.0242,2020-04-07,4
+"('France', 'Total')",46.2276,2.2137,2020-04-07,10328
+"('Gabon', 'Total')",-0.8037,11.6094,2020-04-07,1
+"('Gambia', 'Total')",13.4432,-15.3101,2020-04-07,1
+"('Georgia', 'Total')",42.3154,43.3569,2020-04-07,3
+"('Germany', 'Total')",51.0,9.0,2020-04-07,2016
+"('Ghana', 'Total')",7.9465,-1.0232,2020-04-07,5
+"('Greece', 'Total')",39.0742,21.8243,2020-04-07,81
+"('Guatemala', 'Total')",15.7835,-90.2308,2020-04-07,3
+"('Guinea', 'Total')",9.9456,-9.6966,2020-04-07,0
+"('Guyana', 'Total')",5.0,-58.75,2020-04-07,5
+"('Haiti', 'Total')",18.9712,-72.2852,2020-04-07,1
+"('Holy See', 'Total')",41.9029,12.4534,2020-04-07,0
+"('Honduras', 'Total')",15.2,-86.2419,2020-04-07,22
+"('Hungary', 'Total')",47.1625,19.5033,2020-04-07,47
+"('Iceland', 'Total')",64.9631,-19.0208,2020-04-07,6
+"('India', 'Total')",21.0,78.0,2020-04-07,150
+"('Indonesia', 'Total')",-0.7893,113.9213,2020-04-07,221
+"('Iran', 'Total')",32.0,53.0,2020-04-07,3872
+"('Iraq', 'Total')",33.0,44.0,2020-04-07,65
+"('Ireland', 'Total')",53.1424,-7.6921,2020-04-07,210
+"('Israel', 'Total')",31.0,35.0,2020-04-07,65
+"('Italy', 'Total')",43.0,12.0,2020-04-07,17127
+"('Jamaica', 'Total')",18.1096,-77.2975,2020-04-07,3
+"('Japan', 'Total')",36.0,138.0,2020-04-07,92
+"('Jordan', 'Total')",31.24,36.51,2020-04-07,6
+"('Kazakhstan', 'Total')",48.0196,66.9237,2020-04-07,6
+"('Kenya', 'Total')",-0.0236,37.9062,2020-04-07,6
+"('Korea, South', 'Total')",36.0,128.0,2020-04-07,192
+"('Kuwait', 'Total')",29.5,47.75,2020-04-07,1
+"('Kyrgyzstan', 'Total')",41.2044,74.7661,2020-04-07,4
+"('Latvia', 'Total')",56.8796,24.6032,2020-04-07,2
+"('Lebanon', 'Total')",33.8547,35.8623,2020-04-07,19
+"('Liberia', 'Total')",6.4281,-9.4295,2020-04-07,3
+"('Liechtenstein', 'Total')",47.14,9.55,2020-04-07,1
+"('Lithuania', 'Total')",55.1694,23.8813,2020-04-07,15
+"('Luxembourg', 'Total')",49.8153,6.1296,2020-04-07,44
+"('Madagascar', 'Total')",-18.7669,46.8691,2020-04-07,0
+"('Malaysia', 'Total')",2.5,112.5,2020-04-07,63
+"('Maldives', 'Total')",3.2028,73.2207,2020-04-07,0
+"('Malta', 'Total')",35.9375,14.3754,2020-04-07,0
+"('Mauritania', 'Total')",21.0079,10.9408,2020-04-07,1
+"('Mauritius', 'Total')",-20.2,57.5,2020-04-07,7
+"('Mexico', 'Total')",23.6345,-102.5528,2020-04-07,125
+"('Moldova', 'Total')",47.4116,28.3699,2020-04-07,22
+"('Monaco', 'Total')",43.7333,7.4167,2020-04-07,1
+"('Mongolia', 'Total')",46.8625,103.8467,2020-04-07,0
+"('Montenegro', 'Total')",42.5,19.3,2020-04-07,2
+"('Morocco', 'Total')",31.7917,-7.0926,2020-04-07,90
+"('Namibia', 'Total')",-22.9576,18.4904,2020-04-07,0
+"('Nepal', 'Total')",28.1667,84.25,2020-04-07,0
+"('Netherlands', 'Aruba')",12.5186,-70.0358,2020-04-07,0
+"('Netherlands', 'Curacao')",12.1696,-68.99,2020-04-07,1
+"('Netherlands', 'Sint Maarten')",18.0425,-63.0548,2020-04-07,6
+"('Netherlands', 'Total')",52.1326,5.2913,2020-04-07,2101
+"('New Zealand', 'Total')",-40.9006,174.886,2020-04-07,1
+"('Nicaragua', 'Total')",12.8654,-85.2072,2020-04-07,1
+"('Niger', 'Total')",17.6078,8.0817,2020-04-07,11
+"('Nigeria', 'Total')",9.082,8.6753,2020-04-07,6
+"('North Macedonia', 'Total')",41.6086,21.7453,2020-04-07,26
+"('Norway', 'Total')",60.472,8.4689,2020-04-07,89
+"('Oman', 'Total')",21.0,57.0,2020-04-07,2
+"('Pakistan', 'Total')",30.3753,69.3451,2020-04-07,57
+"('Panama', 'Total')",8.538,-80.7821,2020-04-07,55
+"('Papua New Guinea', 'Total')",-6.315,143.9555,2020-04-07,0
+"('Paraguay', 'Total')",-23.4425,-58.4438,2020-04-07,5
+"('Peru', 'Total')",-9.19,-75.0152,2020-04-07,107
+"('Philippines', 'Total')",13.0,122.0,2020-04-07,177
+"('Poland', 'Total')",51.9194,19.1451,2020-04-07,129
+"('Portugal', 'Total')",39.3999,-8.2245,2020-04-07,345
+"('Qatar', 'Total')",25.3548,51.1839,2020-04-07,6
+"('Romania', 'Total')",45.9432,24.9668,2020-04-07,197
+"('Russia', 'Total')",60.0,90.0,2020-04-07,58
+"('Rwanda', 'Total')",-1.9403,29.8739,2020-04-07,0
+"('Saint Lucia', 'Total')",13.9094,-60.9789,2020-04-07,0
+"('Saint Vincent and the Grenadines', 'Total')",12.9843,-61.2872,2020-04-07,0
+"('San Marino', 'Total')",43.9424,12.4578,2020-04-07,34
+"('Saudi Arabia', 'Total')",24.0,45.0,2020-04-07,41
+"('Senegal', 'Total')",14.4974,-14.4524,2020-04-07,2
+"('Serbia', 'Total')",44.0165,21.0059,2020-04-07,61
+"('Seychelles', 'Total')",-4.6796,55.492,2020-04-07,0
+"('Singapore', 'Total')",1.2833,103.8333,2020-04-07,6
+"('Slovakia', 'Total')",48.669,19.699,2020-04-07,2
+"('Slovenia', 'Total')",46.1512,14.9955,2020-04-07,36
+"('Somalia', 'Total')",5.1521,46.1996,2020-04-07,0
+"('South Africa', 'Total')",-30.5595,22.9375,2020-04-07,13
+"('Spain', 'Total')",40.0,-4.0,2020-04-07,14045
+"('Sri Lanka', 'Total')",7.0,81.0,2020-04-07,6
+"('Sudan', 'Total')",12.8628,30.2176,2020-04-07,2
+"('Suriname', 'Total')",3.9193,-56.0278,2020-04-07,1
+"('Sweden', 'Total')",63.0,16.0,2020-04-07,591
+"('Switzerland', 'Total')",46.8182,8.2275,2020-04-07,821
+"('Taiwan*', 'Total')",23.7,121.0,2020-04-07,5
+"('Tanzania', 'Total')",-6.369,34.8888,2020-04-07,1
+"('Thailand', 'Total')",15.0,101.0,2020-04-07,27
+"('Togo', 'Total')",8.6195,0.8248,2020-04-07,3
+"('Trinidad and Tobago', 'Total')",10.6918,-61.2225,2020-04-07,8
+"('Tunisia', 'Total')",34.0,9.0,2020-04-07,23
+"('Turkey', 'Total')",38.9637,35.2433,2020-04-07,725
+"('Uganda', 'Total')",1.0,32.0,2020-04-07,0
+"('Ukraine', 'Total')",48.3794,31.1656,2020-04-07,45
+"('United Arab Emirates', 'Total')",24.0,54.0,2020-04-07,12
+"('United Kingdom', 'Bermuda')",32.3078,-64.7505,2020-04-07,2
+"('United Kingdom', 'Cayman Islands')",19.3133,-81.2546,2020-04-07,1
+"('United Kingdom', 'Channel Islands')",49.3723,-2.3644,2020-04-07,7
+"('United Kingdom', 'Gibraltar')",36.1408,-5.3536,2020-04-07,0
+"('United Kingdom', 'Isle of Man')",54.2361,-4.5481,2020-04-07,1
+"('United Kingdom', 'Montserrat')",16.7425,-62.1874,2020-04-07,0
+"('United Kingdom', 'Total')",55.3781,-3.4360000000000004,2020-04-07,6159
+"('Uruguay', 'Total')",-32.5228,-55.7658,2020-04-07,7
+"('US', 'Total')",37.0902,-95.7129,2020-04-07,12722
+"('Uzbekistan', 'Total')",41.3775,64.5853,2020-04-07,2
+"('Venezuela', 'Total')",6.4238,-66.5897,2020-04-07,7
+"('Vietnam', 'Total')",16.0,108.0,2020-04-07,0
+"('Zambia', 'Total')",-15.4167,28.2833,2020-04-07,1
+"('Zimbabwe', 'Total')",-20.0,30.0,2020-04-07,2
+"('Dominica', 'Total')",15.415,-61.371,2020-04-07,0
+"('Grenada', 'Total')",12.1165,-61.678999999999995,2020-04-07,0
+"('Mozambique', 'Total')",-18.665695,35.529562,2020-04-07,0
+"('Syria', 'Total')",34.802075,38.99681500000001,2020-04-07,2
+"('Timor-Leste', 'Total')",-8.874217,125.727539,2020-04-07,0
+"('Belize', 'Total')",13.1939,-59.5432,2020-04-07,1
+"('Canada', 'Recovered')",0.0,0.0,2020-04-07,0
+"('Laos', 'Total')",19.856270000000002,102.495496,2020-04-07,0
+"('Libya', 'Total')",26.3351,17.228331,2020-04-07,1
+"('West Bank and Gaza', 'Total')",31.9522,35.2332,2020-04-07,1
+"('Guinea-Bissau', 'Total')",11.8037,-15.1804,2020-04-07,0
+"('Mali', 'Total')",17.570692,-3.996166000000001,2020-04-07,5
+"('Saint Kitts and Nevis', 'Total')",17.357822,-62.782998,2020-04-07,0
+"('Canada', 'Northwest Territories')",64.8255,-124.8457,2020-04-07,0
+"('Canada', 'Yukon')",64.2823,-135.0,2020-04-07,0
+"('Kosovo', 'Total')",42.602636,20.902977,2020-04-07,4
+"('Burma', 'Total')",21.9162,95.956,2020-04-07,1
+"('United Kingdom', 'Anguilla')",18.2206,-63.0686,2020-04-07,0
+"('United Kingdom', 'British Virgin Islands')",18.4207,-64.64,2020-04-07,0
+"('United Kingdom', 'Turks and Caicos Islands')",21.69400000000001,-71.7979,2020-04-07,1
+"('MS Zaandam', 'Total')",0.0,0.0,2020-04-07,2
+"('Botswana', 'Total')",-22.3285,24.6849,2020-04-07,1
+"('Burundi', 'Total')",-3.3731,29.9189,2020-04-07,0
+"('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-07,0
+"('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-07,0
+"('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-07,1
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-07,0
+"('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-07,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-07,0
+"('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-07,0
+"('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-07,0
+"('Afghanistan', 'Total')",33.0,65.0,2020-04-08,14
+"('Albania', 'Total')",41.1533,20.1683,2020-04-08,22
+"('Algeria', 'Total')",28.0339,1.6596,2020-04-08,205
+"('Andorra', 'Total')",42.5063,1.5218,2020-04-08,23
+"('Angola', 'Total')",-11.2027,17.8739,2020-04-08,2
+"('Antigua and Barbuda', 'Total')",17.0608,-61.7964,2020-04-08,2
+"('Argentina', 'Total')",-38.4161,-63.6167,2020-04-08,63
+"('Armenia', 'Total')",40.0691,45.0382,2020-04-08,9
+"('Australia', 'Australian Capital Territory')",-35.4735,149.0124,2020-04-08,2
+"('Australia', 'New South Wales')",-33.8688,151.2093,2020-04-08,21
+"('Australia', 'Northern Territory')",-12.4634,130.8456,2020-04-08,0
+"('Australia', 'Queensland')",-28.0167,153.4,2020-04-08,4
+"('Australia', 'South Australia')",-34.9285,138.6007,2020-04-08,2
+"('Australia', 'Tasmania')",-41.4545,145.9707,2020-04-08,3
+"('Australia', 'Victoria')",-37.8136,144.9631,2020-04-08,12
+"('Australia', 'Western Australia')",-31.9505,115.8605,2020-04-08,6
+"('Austria', 'Total')",47.5162,14.5501,2020-04-08,273
+"('Azerbaijan', 'Total')",40.1431,47.5769,2020-04-08,8
+"('Bahamas', 'Total')",25.0343,-77.3963,2020-04-08,7
+"('Bahrain', 'Total')",26.0275,50.55,2020-04-08,5
+"('Bangladesh', 'Total')",23.685,90.3563,2020-04-08,20
+"('Barbados', 'Total')",13.1939,-59.5432,2020-04-08,3
+"('Belarus', 'Total')",53.7098,27.9534,2020-04-08,13
+"('Belgium', 'Total')",50.8333,4.0,2020-04-08,2240
+"('Benin', 'Total')",9.3077,2.3158,2020-04-08,1
+"('Bhutan', 'Total')",27.5142,90.4336,2020-04-08,0
+"('Bolivia', 'Total')",-16.2902,-63.5887,2020-04-08,15
+"('Bosnia and Herzegovina', 'Total')",43.9159,17.6791,2020-04-08,34
+"('Brazil', 'Total')",-14.235,-51.9253,2020-04-08,819
+"('Brunei', 'Total')",4.5353,114.7277,2020-04-08,1
+"('Bulgaria', 'Total')",42.7339,25.4858,2020-04-08,24
+"('Burkina Faso', 'Total')",12.2383,-1.5616,2020-04-08,23
+"('Cabo Verde', 'Total')",16.5388,-23.0418,2020-04-08,1
+"('Cambodia', 'Total')",11.55,104.9167,2020-04-08,0
+"('Cameroon', 'Total')",3.8480000000000003,11.5021,2020-04-08,10
+"('Canada', 'Alberta')",53.9333,-116.5765,2020-04-08,26
+"('Canada', 'British Columbia')",49.2827,-123.1207,2020-04-08,43
+"('Canada', 'Manitoba')",53.7609,-98.8139,2020-04-08,3
+"('Canada', 'New Brunswick')",46.5653,-66.4619,2020-04-08,0
+"('Canada', 'Newfoundland and Labrador')",53.1355,-57.6604,2020-04-08,1
+"('Canada', 'Nova Scotia')",44.681999999999995,-63.7443,2020-04-08,1
+"('Canada', 'Ontario')",51.2538,-85.3232,2020-04-08,153
+"('Canada', 'Prince Edward Island')",46.5107,-63.4168,2020-04-08,1
+"('Canada', 'Quebec')",52.9399,-73.5491,2020-04-08,175
+"('Canada', 'Saskatchewan')",52.9399,-106.4509,2020-04-08,3
+"('Central African Republic', 'Total')",6.6111,20.9394,2020-04-08,0
+"('Chad', 'Total')",15.4542,18.7322,2020-04-08,0
+"('Chile', 'Total')",-35.6751,-71.543,2020-04-08,48
+"('China', 'Anhui')",31.8257,117.2264,2020-04-08,6
+"('China', 'Beijing')",40.1824,116.4142,2020-04-08,8
+"('China', 'Chongqing')",30.0572,107.874,2020-04-08,6
+"('China', 'Fujian')",26.0789,117.9874,2020-04-08,1
+"('China', 'Gansu')",37.8099,101.0583,2020-04-08,2
+"('China', 'Guangdong')",23.3417,113.4244,2020-04-08,8
+"('China', 'Guangxi')",23.8298,108.7881,2020-04-08,2
+"('China', 'Guizhou')",26.8154,106.8748,2020-04-08,2
+"('China', 'Hainan')",19.1959,109.7453,2020-04-08,6
+"('China', 'Hebei')",39.549,116.1306,2020-04-08,6
+"('China', 'Heilongjiang')",47.861999999999995,127.7615,2020-04-08,13
+"('China', 'Henan')",33.882,113.61399999999999,2020-04-08,22
+"('China', 'Hong Kong')",22.3,114.2,2020-04-08,4
+"('China', 'Hubei')",30.9756,112.2707,2020-04-08,3213
+"('China', 'Hunan')",27.6104,111.7088,2020-04-08,4
+"('China', 'Inner Mongolia')",44.0935,113.9448,2020-04-08,1
+"('China', 'Jiangsu')",32.9711,119.455,2020-04-08,0
+"('China', 'Jiangxi')",27.614,115.7221,2020-04-08,1
+"('China', 'Jilin')",43.6661,126.1923,2020-04-08,1
+"('China', 'Liaoning')",41.2956,122.6085,2020-04-08,2
+"('China', 'Macau')",22.1667,113.55,2020-04-08,0
+"('China', 'Ningxia')",37.2692,106.1655,2020-04-08,0
+"('China', 'Qinghai')",35.7452,95.9956,2020-04-08,0
+"('China', 'Shaanxi')",35.1917,108.8701,2020-04-08,3
+"('China', 'Shandong')",36.3427,118.1498,2020-04-08,7
+"('China', 'Shanghai')",31.201999999999998,121.4491,2020-04-08,7
+"('China', 'Shanxi')",37.5777,112.2922,2020-04-08,0
+"('China', 'Sichuan')",30.6171,102.7103,2020-04-08,3
+"('China', 'Tianjin')",39.3054,117.323,2020-04-08,3
+"('China', 'Tibet')",31.6927,88.0924,2020-04-08,0
+"('China', 'Xinjiang')",41.1129,85.2401,2020-04-08,3
+"('China', 'Yunnan')",24.974,101.48700000000001,2020-04-08,2
+"('China', 'Zhejiang')",29.1832,120.0934,2020-04-08,1
+"('Colombia', 'Total')",4.5709,-74.2973,2020-04-08,54
+"('Congo (Brazzaville)', 'Total')",-4.0383,21.7587,2020-04-08,5
+"('Congo (Kinshasa)', 'Total')",-4.0383,21.7587,2020-04-08,18
+"('Costa Rica', 'Total')",9.7489,-83.7534,2020-04-08,3
+"(""Cote d'Ivoire"", 'Total')",7.54,-5.5471,2020-04-08,3
+"('Croatia', 'Total')",45.1,15.2,2020-04-08,19
+"('Diamond Princess', 'Total')",0.0,0.0,2020-04-08,11
+"('Cuba', 'Total')",22.0,-80.0,2020-04-08,12
+"('Cyprus', 'Total')",35.1264,33.4299,2020-04-08,9
+"('Czechia', 'Total')",49.8175,15.472999999999999,2020-04-08,99
+"('Denmark', 'Faroe Islands')",61.8926,-6.9118,2020-04-08,0
+"('Denmark', 'Greenland')",71.7069,-42.6043,2020-04-08,0
+"('Denmark', 'Total')",56.2639,9.5018,2020-04-08,218
+"('Djibouti', 'Total')",11.8251,42.5903,2020-04-08,0
+"('Dominican Republic', 'Total')",18.7357,-70.1627,2020-04-08,108
+"('Ecuador', 'Total')",-1.8312,-78.1834,2020-04-08,242
+"('Egypt', 'Total')",26.0,30.0,2020-04-08,103
+"('El Salvador', 'Total')",13.7942,-88.8965,2020-04-08,5
+"('Equatorial Guinea', 'Total')",1.5,10.0,2020-04-08,0
+"('Eritrea', 'Total')",15.1794,39.7823,2020-04-08,0
+"('Estonia', 'Total')",58.5953,25.0136,2020-04-08,24
+"('Eswatini', 'Total')",-26.5225,31.4659,2020-04-08,0
+"('Ethiopia', 'Total')",9.145,40.4897,2020-04-08,2
+"('Fiji', 'Total')",-17.7134,178.065,2020-04-08,0
+"('Finland', 'Total')",64.0,26.0,2020-04-08,40
+"('France', 'French Guiana')",3.9339,-53.1258,2020-04-08,0
+"('France', 'French Polynesia')",-17.6797,149.4068,2020-04-08,0
+"('France', 'Guadeloupe')",16.25,-61.5833,2020-04-08,8
+"('France', 'Mayotte')",-12.8275,45.1662,2020-04-08,2
+"('France', 'New Caledonia')",-20.9043,165.618,2020-04-08,0
+"('France', 'Reunion')",-21.1351,55.2471,2020-04-08,0
+"('France', 'Saint Barthelemy')",17.9,-62.8333,2020-04-08,0
+"('France', 'St Martin')",18.0708,-63.0501,2020-04-08,2
+"('France', 'Martinique')",14.6415,-61.0242,2020-04-08,6
+"('France', 'Total')",46.2276,2.2137,2020-04-08,10869
+"('Gabon', 'Total')",-0.8037,11.6094,2020-04-08,1
+"('Gambia', 'Total')",13.4432,-15.3101,2020-04-08,1
+"('Georgia', 'Total')",42.3154,43.3569,2020-04-08,3
+"('Germany', 'Total')",51.0,9.0,2020-04-08,2349
+"('Ghana', 'Total')",7.9465,-1.0232,2020-04-08,6
+"('Greece', 'Total')",39.0742,21.8243,2020-04-08,83
+"('Guatemala', 'Total')",15.7835,-90.2308,2020-04-08,3
+"('Guinea', 'Total')",9.9456,-9.6966,2020-04-08,0
+"('Guyana', 'Total')",5.0,-58.75,2020-04-08,6
+"('Haiti', 'Total')",18.9712,-72.2852,2020-04-08,1
+"('Holy See', 'Total')",41.9029,12.4534,2020-04-08,0
+"('Honduras', 'Total')",15.2,-86.2419,2020-04-08,22
+"('Hungary', 'Total')",47.1625,19.5033,2020-04-08,58
+"('Iceland', 'Total')",64.9631,-19.0208,2020-04-08,6
+"('India', 'Total')",21.0,78.0,2020-04-08,178
+"('Indonesia', 'Total')",-0.7893,113.9213,2020-04-08,240
+"('Iran', 'Total')",32.0,53.0,2020-04-08,3993
+"('Iraq', 'Total')",33.0,44.0,2020-04-08,69
+"('Ireland', 'Total')",53.1424,-7.6921,2020-04-08,235
+"('Israel', 'Total')",31.0,35.0,2020-04-08,73
+"('Italy', 'Total')",43.0,12.0,2020-04-08,17669
+"('Jamaica', 'Total')",18.1096,-77.2975,2020-04-08,4
+"('Japan', 'Total')",36.0,138.0,2020-04-08,93
+"('Jordan', 'Total')",31.24,36.51,2020-04-08,6
+"('Kazakhstan', 'Total')",48.0196,66.9237,2020-04-08,7
+"('Kenya', 'Total')",-0.0236,37.9062,2020-04-08,6
+"('Korea, South', 'Total')",36.0,128.0,2020-04-08,200
+"('Kuwait', 'Total')",29.5,47.75,2020-04-08,1
+"('Kyrgyzstan', 'Total')",41.2044,74.7661,2020-04-08,4
+"('Latvia', 'Total')",56.8796,24.6032,2020-04-08,2
+"('Lebanon', 'Total')",33.8547,35.8623,2020-04-08,19
+"('Liberia', 'Total')",6.4281,-9.4295,2020-04-08,4
+"('Liechtenstein', 'Total')",47.14,9.55,2020-04-08,1
+"('Lithuania', 'Total')",55.1694,23.8813,2020-04-08,15
+"('Luxembourg', 'Total')",49.8153,6.1296,2020-04-08,46
+"('Madagascar', 'Total')",-18.7669,46.8691,2020-04-08,0
+"('Malaysia', 'Total')",2.5,112.5,2020-04-08,65
+"('Maldives', 'Total')",3.2028,73.2207,2020-04-08,0
+"('Malta', 'Total')",35.9375,14.3754,2020-04-08,1
+"('Mauritania', 'Total')",21.0079,10.9408,2020-04-08,1
+"('Mauritius', 'Total')",-20.2,57.5,2020-04-08,7
+"('Mexico', 'Total')",23.6345,-102.5528,2020-04-08,141
+"('Moldova', 'Total')",47.4116,28.3699,2020-04-08,27
+"('Monaco', 'Total')",43.7333,7.4167,2020-04-08,1
+"('Mongolia', 'Total')",46.8625,103.8467,2020-04-08,0
+"('Montenegro', 'Total')",42.5,19.3,2020-04-08,2
+"('Morocco', 'Total')",31.7917,-7.0926,2020-04-08,93
+"('Namibia', 'Total')",-22.9576,18.4904,2020-04-08,0
+"('Nepal', 'Total')",28.1667,84.25,2020-04-08,0
+"('Netherlands', 'Aruba')",12.5186,-70.0358,2020-04-08,0
+"('Netherlands', 'Curacao')",12.1696,-68.99,2020-04-08,1
+"('Netherlands', 'Sint Maarten')",18.0425,-63.0548,2020-04-08,6
+"('Netherlands', 'Total')",52.1326,5.2913,2020-04-08,2248
+"('New Zealand', 'Total')",-40.9006,174.886,2020-04-08,1
+"('Nicaragua', 'Total')",12.8654,-85.2072,2020-04-08,1
+"('Niger', 'Total')",17.6078,8.0817,2020-04-08,11
+"('Nigeria', 'Total')",9.082,8.6753,2020-04-08,6
+"('North Macedonia', 'Total')",41.6086,21.7453,2020-04-08,29
+"('Norway', 'Total')",60.472,8.4689,2020-04-08,101
+"('Oman', 'Total')",21.0,57.0,2020-04-08,2
+"('Pakistan', 'Total')",30.3753,69.3451,2020-04-08,61
+"('Panama', 'Total')",8.538,-80.7821,2020-04-08,59
+"('Papua New Guinea', 'Total')",-6.315,143.9555,2020-04-08,0
+"('Paraguay', 'Total')",-23.4425,-58.4438,2020-04-08,5
+"('Peru', 'Total')",-9.19,-75.0152,2020-04-08,121
+"('Philippines', 'Total')",13.0,122.0,2020-04-08,182
+"('Poland', 'Total')",51.9194,19.1451,2020-04-08,159
+"('Portugal', 'Total')",39.3999,-8.2245,2020-04-08,380
+"('Qatar', 'Total')",25.3548,51.1839,2020-04-08,6
+"('Romania', 'Total')",45.9432,24.9668,2020-04-08,220
+"('Russia', 'Total')",60.0,90.0,2020-04-08,63
+"('Rwanda', 'Total')",-1.9403,29.8739,2020-04-08,0
+"('Saint Lucia', 'Total')",13.9094,-60.9789,2020-04-08,0
+"('Saint Vincent and the Grenadines', 'Total')",12.9843,-61.2872,2020-04-08,0
+"('San Marino', 'Total')",43.9424,12.4578,2020-04-08,34
+"('Saudi Arabia', 'Total')",24.0,45.0,2020-04-08,41
+"('Senegal', 'Total')",14.4974,-14.4524,2020-04-08,2
+"('Serbia', 'Total')",44.0165,21.0059,2020-04-08,65
+"('Seychelles', 'Total')",-4.6796,55.492,2020-04-08,0
+"('Singapore', 'Total')",1.2833,103.8333,2020-04-08,6
+"('Slovakia', 'Total')",48.669,19.699,2020-04-08,2
+"('Slovenia', 'Total')",46.1512,14.9955,2020-04-08,40
+"('Somalia', 'Total')",5.1521,46.1996,2020-04-08,1
+"('South Africa', 'Total')",-30.5595,22.9375,2020-04-08,18
+"('Spain', 'Total')",40.0,-4.0,2020-04-08,14792
+"('Sri Lanka', 'Total')",7.0,81.0,2020-04-08,7
+"('Sudan', 'Total')",12.8628,30.2176,2020-04-08,2
+"('Suriname', 'Total')",3.9193,-56.0278,2020-04-08,1
+"('Sweden', 'Total')",63.0,16.0,2020-04-08,687
+"('Switzerland', 'Total')",46.8182,8.2275,2020-04-08,895
+"('Taiwan*', 'Total')",23.7,121.0,2020-04-08,5
+"('Tanzania', 'Total')",-6.369,34.8888,2020-04-08,1
+"('Thailand', 'Total')",15.0,101.0,2020-04-08,30
+"('Togo', 'Total')",8.6195,0.8248,2020-04-08,3
+"('Trinidad and Tobago', 'Total')",10.6918,-61.2225,2020-04-08,8
+"('Tunisia', 'Total')",34.0,9.0,2020-04-08,24
+"('Turkey', 'Total')",38.9637,35.2433,2020-04-08,812
+"('Uganda', 'Total')",1.0,32.0,2020-04-08,0
+"('Ukraine', 'Total')",48.3794,31.1656,2020-04-08,52
+"('United Arab Emirates', 'Total')",24.0,54.0,2020-04-08,12
+"('United Kingdom', 'Bermuda')",32.3078,-64.7505,2020-04-08,3
+"('United Kingdom', 'Cayman Islands')",19.3133,-81.2546,2020-04-08,1
+"('United Kingdom', 'Channel Islands')",49.3723,-2.3644,2020-04-08,8
+"('United Kingdom', 'Gibraltar')",36.1408,-5.3536,2020-04-08,0
+"('United Kingdom', 'Isle of Man')",54.2361,-4.5481,2020-04-08,1
+"('United Kingdom', 'Montserrat')",16.7425,-62.1874,2020-04-08,0
+"('United Kingdom', 'Total')",55.3781,-3.4360000000000004,2020-04-08,7097
+"('Uruguay', 'Total')",-32.5228,-55.7658,2020-04-08,7
+"('US', 'Total')",37.0902,-95.7129,2020-04-08,14695
+"('Uzbekistan', 'Total')",41.3775,64.5853,2020-04-08,3
+"('Venezuela', 'Total')",6.4238,-66.5897,2020-04-08,9
+"('Vietnam', 'Total')",16.0,108.0,2020-04-08,0
+"('Zambia', 'Total')",-15.4167,28.2833,2020-04-08,1
+"('Zimbabwe', 'Total')",-20.0,30.0,2020-04-08,3
+"('Dominica', 'Total')",15.415,-61.371,2020-04-08,0
+"('Grenada', 'Total')",12.1165,-61.678999999999995,2020-04-08,0
+"('Mozambique', 'Total')",-18.665695,35.529562,2020-04-08,0
+"('Syria', 'Total')",34.802075,38.99681500000001,2020-04-08,2
+"('Timor-Leste', 'Total')",-8.874217,125.727539,2020-04-08,0
+"('Belize', 'Total')",13.1939,-59.5432,2020-04-08,1
+"('Canada', 'Recovered')",0.0,0.0,2020-04-08,0
+"('Laos', 'Total')",19.856270000000002,102.495496,2020-04-08,0
+"('Libya', 'Total')",26.3351,17.228331,2020-04-08,1
+"('West Bank and Gaza', 'Total')",31.9522,35.2332,2020-04-08,1
+"('Guinea-Bissau', 'Total')",11.8037,-15.1804,2020-04-08,0
+"('Mali', 'Total')",17.570692,-3.996166000000001,2020-04-08,7
+"('Saint Kitts and Nevis', 'Total')",17.357822,-62.782998,2020-04-08,0
+"('Canada', 'Northwest Territories')",64.8255,-124.8457,2020-04-08,0
+"('Canada', 'Yukon')",64.2823,-135.0,2020-04-08,0
+"('Kosovo', 'Total')",42.602636,20.902977,2020-04-08,5
+"('Burma', 'Total')",21.9162,95.956,2020-04-08,3
+"('United Kingdom', 'Anguilla')",18.2206,-63.0686,2020-04-08,0
+"('United Kingdom', 'British Virgin Islands')",18.4207,-64.64,2020-04-08,0
+"('United Kingdom', 'Turks and Caicos Islands')",21.69400000000001,-71.7979,2020-04-08,1
+"('MS Zaandam', 'Total')",0.0,0.0,2020-04-08,2
+"('Botswana', 'Total')",-22.3285,24.6849,2020-04-08,1
+"('Burundi', 'Total')",-3.3731,29.9189,2020-04-08,0
+"('Sierra Leone', 'Total')",8.460555000000001,-11.779889,2020-04-08,0
+"('Netherlands', 'Bonaire, Sint Eustatius and Saba')",12.1784,-68.2385,2020-04-08,0
+"('Malawi', 'Total')",-13.254307999999998,34.301525,2020-04-08,1
+"('United Kingdom', 'Falkland Islands (Malvinas)')",-51.7963,-59.5236,2020-04-08,0
+"('France', 'Saint Pierre and Miquelon')",46.8852,-56.3159,2020-04-08,0
+"('South Sudan', 'Total')",6.8770000000000024,31.307,2020-04-08,0
+"('Western Sahara', 'Total')",24.2155,-12.8858,2020-04-08,0
+"('Sao Tome and Principe', 'Total')",0.18636,6.613081,2020-04-08,0
