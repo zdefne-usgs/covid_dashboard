@@ -4,6 +4,9 @@
 
 [United Staes COVID-19 Cases](https://map.terria.io/#share=s-2FromOrpwUDNXovgSAp5SgSlIAn )
 
+https://github.com/zdefne-usgs/covid_dashboard/blob/master/Countries_normalized_cases.png?raw=true
+
+
 # COVID-19 Interactive Jupyter Notebooks
 
 You can run the Jupyter notebooks in the `notebooks` folder right now on the Cloud by clicking this button:
