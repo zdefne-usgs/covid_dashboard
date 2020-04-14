@@ -4,8 +4,8 @@
 
 [United Staes COVID-19 Cases](https://map.terria.io/#share=s-2FromOrpwUDNXovgSAp5SgSlIAn )
 
-https://github.com/zdefne-usgs/covid_dashboard/blob/master/Countries_normalized_cases.png?raw=true
-
+![Cases per million people for each country](https://github.com/zdefne-usgs/covid_dashboard/blob/master/Countries_normalized_cases.png?raw=true
+)
 
 # COVID-19 Interactive Jupyter Notebooks
 
