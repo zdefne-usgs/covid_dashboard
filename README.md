@@ -10,8 +10,8 @@
 ![Recoveries per million people for each country](https://github.com/zdefne-usgs/covid_dashboard/blob/master/Countries_normalized_Recoveries.png?raw=true)
 
 # US states
-![Cases per million people for each country](https://github.com/zdefne-usgs/covid_dashboard/blob/master/States_normalized_Cases.png?raw=true)
-![Deaths per million people for each country](https://github.com/zdefne-usgs/covid_dashboard/blob/master/States_normalized_Deaths.png?raw=true)
+![Cases per million people for each state](https://github.com/zdefne-usgs/covid_dashboard/blob/master/States_normalized_Cases.png?raw=true)
+![Deaths per million people for each state](https://github.com/zdefne-usgs/covid_dashboard/blob/master/States_normalized_Deaths.png?raw=true)
 
 
 
