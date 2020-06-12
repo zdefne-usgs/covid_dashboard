@@ -11558,7 +11558,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-07,0
 "Norway, Total",60.472,8.4689,2020-03-07,0
 "Oman, Total",21.0,57.0,2020-03-07,2
-"Pakistan, Total",30.3753,69.3451,2020-03-07,0
+"Pakistan, Total",30.3753,69.3451,2020-03-07,1
 "Panama, Total",8.538,-80.7821,2020-03-07,0
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-07,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-07,0
@@ -12093,7 +12093,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-09,1
 "Sudan, Total",12.8628,30.2176,2020-03-09,0
 "Suriname, Total",3.9193,-56.0278,2020-03-09,0
-"Sweden, Total",63.0,16.0,2020-03-09,1
+"Sweden, Total",63.0,16.0,2020-03-09,0
 "Switzerland, Total",46.8182,8.2275,2020-03-09,3
 "Syria, Total",34.8021,38.9968,2020-03-09,0
 "Taiwan*, Total",23.7,121.0,2020-03-09,15
@@ -12317,7 +12317,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-10,0
 "Norway, Total",60.472,8.4689,2020-03-10,1
 "Oman, Total",21.0,57.0,2020-03-10,9
-"Pakistan, Total",30.3753,69.3451,2020-03-10,1
+"Pakistan, Total",30.3753,69.3451,2020-03-10,2
 "Panama, Total",8.538,-80.7821,2020-03-10,0
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-10,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-10,0
@@ -12346,7 +12346,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-10,1
 "Sudan, Total",12.8628,30.2176,2020-03-10,0
 "Suriname, Total",3.9193,-56.0278,2020-03-10,0
-"Sweden, Total",63.0,16.0,2020-03-10,1
+"Sweden, Total",63.0,16.0,2020-03-10,0
 "Switzerland, Total",46.8182,8.2275,2020-03-10,3
 "Syria, Total",34.8021,38.9968,2020-03-10,0
 "Taiwan*, Total",23.7,121.0,2020-03-10,17
@@ -12599,7 +12599,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-11,1
 "Sudan, Total",12.8628,30.2176,2020-03-11,0
 "Suriname, Total",3.9193,-56.0278,2020-03-11,0
-"Sweden, Total",63.0,16.0,2020-03-11,1
+"Sweden, Total",63.0,16.0,2020-03-11,0
 "Switzerland, Total",46.8182,8.2275,2020-03-11,4
 "Syria, Total",34.8021,38.9968,2020-03-11,0
 "Taiwan*, Total",23.7,121.0,2020-03-11,17
@@ -12852,7 +12852,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-12,1
 "Sudan, Total",12.8628,30.2176,2020-03-12,0
 "Suriname, Total",3.9193,-56.0278,2020-03-12,0
-"Sweden, Total",63.0,16.0,2020-03-12,1
+"Sweden, Total",63.0,16.0,2020-03-12,0
 "Switzerland, Total",46.8182,8.2275,2020-03-12,4
 "Syria, Total",34.8021,38.9968,2020-03-12,0
 "Taiwan*, Total",23.7,121.0,2020-03-12,20
@@ -13105,7 +13105,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-13,1
 "Sudan, Total",12.8628,30.2176,2020-03-13,0
 "Suriname, Total",3.9193,-56.0278,2020-03-13,0
-"Sweden, Total",63.0,16.0,2020-03-13,1
+"Sweden, Total",63.0,16.0,2020-03-13,0
 "Switzerland, Total",46.8182,8.2275,2020-03-13,4
 "Syria, Total",34.8021,38.9968,2020-03-13,0
 "Taiwan*, Total",23.7,121.0,2020-03-13,20
@@ -13358,7 +13358,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-14,1
 "Sudan, Total",12.8628,30.2176,2020-03-14,0
 "Suriname, Total",3.9193,-56.0278,2020-03-14,0
-"Sweden, Total",63.0,16.0,2020-03-14,1
+"Sweden, Total",63.0,16.0,2020-03-14,0
 "Switzerland, Total",46.8182,8.2275,2020-03-14,4
 "Syria, Total",34.8021,38.9968,2020-03-14,0
 "Taiwan*, Total",23.7,121.0,2020-03-14,20
@@ -13611,7 +13611,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-15,1
 "Sudan, Total",12.8628,30.2176,2020-03-15,0
 "Suriname, Total",3.9193,-56.0278,2020-03-15,0
-"Sweden, Total",63.0,16.0,2020-03-15,1
+"Sweden, Total",63.0,16.0,2020-03-15,0
 "Switzerland, Total",46.8182,8.2275,2020-03-15,4
 "Syria, Total",34.8021,38.9968,2020-03-15,0
 "Taiwan*, Total",23.7,121.0,2020-03-15,20
@@ -13864,7 +13864,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-16,1
 "Sudan, Total",12.8628,30.2176,2020-03-16,0
 "Suriname, Total",3.9193,-56.0278,2020-03-16,0
-"Sweden, Total",63.0,16.0,2020-03-16,1
+"Sweden, Total",63.0,16.0,2020-03-16,0
 "Switzerland, Total",46.8182,8.2275,2020-03-16,4
 "Syria, Total",34.8021,38.9968,2020-03-16,0
 "Taiwan*, Total",23.7,121.0,2020-03-16,20
@@ -14117,7 +14117,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-17,1
 "Sudan, Total",12.8628,30.2176,2020-03-17,0
 "Suriname, Total",3.9193,-56.0278,2020-03-17,0
-"Sweden, Total",63.0,16.0,2020-03-17,1
+"Sweden, Total",63.0,16.0,2020-03-17,0
 "Switzerland, Total",46.8182,8.2275,2020-03-17,4
 "Syria, Total",34.8021,38.9968,2020-03-17,0
 "Taiwan*, Total",23.7,121.0,2020-03-17,22
@@ -14341,7 +14341,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-18,1
 "Norway, Total",60.472,8.4689,2020-03-18,1
 "Oman, Total",21.0,57.0,2020-03-18,12
-"Pakistan, Total",30.3753,69.3451,2020-03-18,2
+"Pakistan, Total",30.3753,69.3451,2020-03-18,13
 "Panama, Total",8.538,-80.7821,2020-03-18,0
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-18,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-18,0
@@ -14370,7 +14370,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-18,1
 "Sudan, Total",12.8628,30.2176,2020-03-18,0
 "Suriname, Total",3.9193,-56.0278,2020-03-18,0
-"Sweden, Total",63.0,16.0,2020-03-18,1
+"Sweden, Total",63.0,16.0,2020-03-18,0
 "Switzerland, Total",46.8182,8.2275,2020-03-18,15
 "Syria, Total",34.8021,38.9968,2020-03-18,0
 "Taiwan*, Total",23.7,121.0,2020-03-18,22
@@ -14623,7 +14623,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-19,3
 "Sudan, Total",12.8628,30.2176,2020-03-19,0
 "Suriname, Total",3.9193,-56.0278,2020-03-19,0
-"Sweden, Total",63.0,16.0,2020-03-19,16
+"Sweden, Total",63.0,16.0,2020-03-19,0
 "Switzerland, Total",46.8182,8.2275,2020-03-19,15
 "Syria, Total",34.8021,38.9968,2020-03-19,0
 "Taiwan*, Total",23.7,121.0,2020-03-19,26
@@ -14876,7 +14876,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-20,3
 "Sudan, Total",12.8628,30.2176,2020-03-20,0
 "Suriname, Total",3.9193,-56.0278,2020-03-20,0
-"Sweden, Total",63.0,16.0,2020-03-20,16
+"Sweden, Total",63.0,16.0,2020-03-20,0
 "Switzerland, Total",46.8182,8.2275,2020-03-20,15
 "Syria, Total",34.8021,38.9968,2020-03-20,0
 "Taiwan*, Total",23.7,121.0,2020-03-20,26
@@ -15100,7 +15100,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-21,1
 "Norway, Total",60.472,8.4689,2020-03-21,1
 "Oman, Total",21.0,57.0,2020-03-21,12
-"Pakistan, Total",30.3753,69.3451,2020-03-21,13
+"Pakistan, Total",30.3753,69.3451,2020-03-21,5
 "Panama, Total",8.538,-80.7821,2020-03-21,0
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-21,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-21,0
@@ -15129,7 +15129,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-21,1
 "Sudan, Total",12.8628,30.2176,2020-03-21,0
 "Suriname, Total",3.9193,-56.0278,2020-03-21,0
-"Sweden, Total",63.0,16.0,2020-03-21,16
+"Sweden, Total",63.0,16.0,2020-03-21,0
 "Switzerland, Total",46.8182,8.2275,2020-03-21,15
 "Syria, Total",34.8021,38.9968,2020-03-21,0
 "Taiwan*, Total",23.7,121.0,2020-03-21,28
@@ -15382,7 +15382,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-22,3
 "Sudan, Total",12.8628,30.2176,2020-03-22,0
 "Suriname, Total",3.9193,-56.0278,2020-03-22,0
-"Sweden, Total",63.0,16.0,2020-03-22,16
+"Sweden, Total",63.0,16.0,2020-03-22,0
 "Switzerland, Total",46.8182,8.2275,2020-03-22,131
 "Syria, Total",34.8021,38.9968,2020-03-22,0
 "Taiwan*, Total",23.7,121.0,2020-03-22,28
@@ -15606,7 +15606,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-23,1
 "Norway, Total",60.472,8.4689,2020-03-23,1
 "Oman, Total",21.0,57.0,2020-03-23,17
-"Pakistan, Total",30.3753,69.3451,2020-03-23,5
+"Pakistan, Total",30.3753,69.3451,2020-03-23,18
 "Panama, Total",8.538,-80.7821,2020-03-23,0
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-23,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-23,0
@@ -15635,7 +15635,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-23,3
 "Sudan, Total",12.8628,30.2176,2020-03-23,0
 "Suriname, Total",3.9193,-56.0278,2020-03-23,0
-"Sweden, Total",63.0,16.0,2020-03-23,16
+"Sweden, Total",63.0,16.0,2020-03-23,0
 "Switzerland, Total",46.8182,8.2275,2020-03-23,131
 "Syria, Total",34.8021,38.9968,2020-03-23,0
 "Taiwan*, Total",23.7,121.0,2020-03-23,28
@@ -15859,7 +15859,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-24,1
 "Norway, Total",60.472,8.4689,2020-03-24,6
 "Oman, Total",21.0,57.0,2020-03-24,17
-"Pakistan, Total",30.3753,69.3451,2020-03-24,18
+"Pakistan, Total",30.3753,69.3451,2020-03-24,21
 "Panama, Total",8.538,-80.7821,2020-03-24,1
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-24,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-24,0
@@ -15888,7 +15888,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-24,2
 "Sudan, Total",12.8628,30.2176,2020-03-24,0
 "Suriname, Total",3.9193,-56.0278,2020-03-24,0
-"Sweden, Total",63.0,16.0,2020-03-24,16
+"Sweden, Total",63.0,16.0,2020-03-24,0
 "Switzerland, Total",46.8182,8.2275,2020-03-24,131
 "Syria, Total",34.8021,38.9968,2020-03-24,0
 "Taiwan*, Total",23.7,121.0,2020-03-24,29
@@ -16141,7 +16141,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-25,3
 "Sudan, Total",12.8628,30.2176,2020-03-25,0
 "Suriname, Total",3.9193,-56.0278,2020-03-25,0
-"Sweden, Total",63.0,16.0,2020-03-25,16
+"Sweden, Total",63.0,16.0,2020-03-25,0
 "Switzerland, Total",46.8182,8.2275,2020-03-25,131
 "Syria, Total",34.8021,38.9968,2020-03-25,0
 "Taiwan*, Total",23.7,121.0,2020-03-25,29
@@ -16365,7 +16365,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-26,3
 "Norway, Total",60.472,8.4689,2020-03-26,6
 "Oman, Total",21.0,57.0,2020-03-26,23
-"Pakistan, Total",30.3753,69.3451,2020-03-26,21
+"Pakistan, Total",30.3753,69.3451,2020-03-26,23
 "Panama, Total",8.538,-80.7821,2020-03-26,2
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-26,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-26,0
@@ -16394,7 +16394,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-26,7
 "Sudan, Total",12.8628,30.2176,2020-03-26,0
 "Suriname, Total",3.9193,-56.0278,2020-03-26,0
-"Sweden, Total",63.0,16.0,2020-03-26,16
+"Sweden, Total",63.0,16.0,2020-03-26,0
 "Switzerland, Total",46.8182,8.2275,2020-03-26,131
 "Syria, Total",34.8021,38.9968,2020-03-26,0
 "Taiwan*, Total",23.7,121.0,2020-03-26,29
@@ -16618,7 +16618,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-27,3
 "Norway, Total",60.472,8.4689,2020-03-27,6
 "Oman, Total",21.0,57.0,2020-03-27,23
-"Pakistan, Total",30.3753,69.3451,2020-03-27,23
+"Pakistan, Total",30.3753,69.3451,2020-03-27,29
 "Panama, Total",8.538,-80.7821,2020-03-27,2
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-27,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-27,1
@@ -16647,7 +16647,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-27,7
 "Sudan, Total",12.8628,30.2176,2020-03-27,0
 "Suriname, Total",3.9193,-56.0278,2020-03-27,0
-"Sweden, Total",63.0,16.0,2020-03-27,16
+"Sweden, Total",63.0,16.0,2020-03-27,0
 "Switzerland, Total",46.8182,8.2275,2020-03-27,1530
 "Syria, Total",34.8021,38.9968,2020-03-27,0
 "Taiwan*, Total",23.7,121.0,2020-03-27,29
@@ -16900,7 +16900,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-28,9
 "Sudan, Total",12.8628,30.2176,2020-03-28,0
 "Suriname, Total",3.9193,-56.0278,2020-03-28,0
-"Sweden, Total",63.0,16.0,2020-03-28,16
+"Sweden, Total",63.0,16.0,2020-03-28,0
 "Switzerland, Total",46.8182,8.2275,2020-03-28,1530
 "Syria, Total",34.8021,38.9968,2020-03-28,0
 "Taiwan*, Total",23.7,121.0,2020-03-28,30
@@ -17124,7 +17124,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-29,3
 "Norway, Total",60.472,8.4689,2020-03-29,7
 "Oman, Total",21.0,57.0,2020-03-29,23
-"Pakistan, Total",30.3753,69.3451,2020-03-29,29
+"Pakistan, Total",30.3753,69.3451,2020-03-29,76
 "Panama, Total",8.538,-80.7821,2020-03-29,4
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-29,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-29,1
@@ -17153,7 +17153,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-29,11
 "Sudan, Total",12.8628,30.2176,2020-03-29,0
 "Suriname, Total",3.9193,-56.0278,2020-03-29,0
-"Sweden, Total",63.0,16.0,2020-03-29,16
+"Sweden, Total",63.0,16.0,2020-03-29,0
 "Switzerland, Total",46.8182,8.2275,2020-03-29,1595
 "Syria, Total",34.8021,38.9968,2020-03-29,0
 "Taiwan*, Total",23.7,121.0,2020-03-29,30
@@ -17406,7 +17406,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-30,15
 "Sudan, Total",12.8628,30.2176,2020-03-30,0
 "Suriname, Total",3.9193,-56.0278,2020-03-30,0
-"Sweden, Total",63.0,16.0,2020-03-30,16
+"Sweden, Total",63.0,16.0,2020-03-30,0
 "Switzerland, Total",46.8182,8.2275,2020-03-30,1823
 "Syria, Total",34.8021,38.9968,2020-03-30,0
 "Taiwan*, Total",23.7,121.0,2020-03-30,39
@@ -17630,7 +17630,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-03-31,12
 "Norway, Total",60.472,8.4689,2020-03-31,13
 "Oman, Total",21.0,57.0,2020-03-31,34
-"Pakistan, Total",30.3753,69.3451,2020-03-31,76
+"Pakistan, Total",30.3753,69.3451,2020-03-31,94
 "Panama, Total",8.538,-80.7821,2020-03-31,9
 "Papua New Guinea, Total",-6.315,143.9555,2020-03-31,0
 "Paraguay, Total",-23.4425,-58.4438,2020-03-31,1
@@ -17659,7 +17659,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-03-31,17
 "Sudan, Total",12.8628,30.2176,2020-03-31,1
 "Suriname, Total",3.9193,-56.0278,2020-03-31,0
-"Sweden, Total",63.0,16.0,2020-03-31,16
+"Sweden, Total",63.0,16.0,2020-03-31,0
 "Switzerland, Total",46.8182,8.2275,2020-03-31,1823
 "Syria, Total",34.8021,38.9968,2020-03-31,0
 "Taiwan*, Total",23.7,121.0,2020-03-31,39
@@ -17883,7 +17883,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-01,17
 "Norway, Total",60.472,8.4689,2020-04-01,13
 "Oman, Total",21.0,57.0,2020-04-01,34
-"Pakistan, Total",30.3753,69.3451,2020-04-01,94
+"Pakistan, Total",30.3753,69.3451,2020-04-01,125
 "Panama, Total",8.538,-80.7821,2020-04-01,9
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-01,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-01,1
@@ -17912,7 +17912,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-01,21
 "Sudan, Total",12.8628,30.2176,2020-04-01,2
 "Suriname, Total",3.9193,-56.0278,2020-04-01,0
-"Sweden, Total",63.0,16.0,2020-04-01,103
+"Sweden, Total",63.0,16.0,2020-04-01,0
 "Switzerland, Total",46.8182,8.2275,2020-04-01,2967
 "Syria, Total",34.8021,38.9968,2020-04-01,0
 "Taiwan*, Total",23.7,121.0,2020-04-01,39
@@ -18136,7 +18136,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-02,17
 "Norway, Total",60.472,8.4689,2020-04-02,32
 "Oman, Total",21.0,57.0,2020-04-02,57
-"Pakistan, Total",30.3753,69.3451,2020-04-02,125
+"Pakistan, Total",30.3753,69.3451,2020-04-02,126
 "Panama, Total",8.538,-80.7821,2020-04-02,9
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-02,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-02,2
@@ -18165,7 +18165,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-02,21
 "Sudan, Total",12.8628,30.2176,2020-04-02,2
 "Suriname, Total",3.9193,-56.0278,2020-04-02,0
-"Sweden, Total",63.0,16.0,2020-04-02,103
+"Sweden, Total",63.0,16.0,2020-04-02,0
 "Switzerland, Total",46.8182,8.2275,2020-04-02,4013
 "Syria, Total",34.8021,38.9968,2020-04-02,0
 "Taiwan*, Total",23.7,121.0,2020-04-02,45
@@ -18389,7 +18389,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-03,20
 "Norway, Total",60.472,8.4689,2020-04-03,32
 "Oman, Total",21.0,57.0,2020-04-03,57
-"Pakistan, Total",30.3753,69.3451,2020-04-03,126
+"Pakistan, Total",30.3753,69.3451,2020-04-03,131
 "Panama, Total",8.538,-80.7821,2020-04-03,10
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-03,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-03,6
@@ -18418,7 +18418,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-03,24
 "Sudan, Total",12.8628,30.2176,2020-04-03,2
 "Suriname, Total",3.9193,-56.0278,2020-04-03,0
-"Sweden, Total",63.0,16.0,2020-04-03,205
+"Sweden, Total",63.0,16.0,2020-04-03,0
 "Switzerland, Total",46.8182,8.2275,2020-04-03,4846
 "Syria, Total",34.8021,38.9968,2020-04-03,0
 "Taiwan*, Total",23.7,121.0,2020-04-03,50
@@ -18642,7 +18642,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-04,20
 "Norway, Total",60.472,8.4689,2020-04-04,32
 "Oman, Total",21.0,57.0,2020-04-04,61
-"Pakistan, Total",30.3753,69.3451,2020-04-04,131
+"Pakistan, Total",30.3753,69.3451,2020-04-04,211
 "Panama, Total",8.538,-80.7821,2020-04-04,13
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-04,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-04,12
@@ -18671,7 +18671,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-04,27
 "Sudan, Total",12.8628,30.2176,2020-04-04,2
 "Suriname, Total",3.9193,-56.0278,2020-04-04,0
-"Sweden, Total",63.0,16.0,2020-04-04,205
+"Sweden, Total",63.0,16.0,2020-04-04,0
 "Switzerland, Total",46.8182,8.2275,2020-04-04,6415
 "Syria, Total",34.8021,38.9968,2020-04-04,2
 "Taiwan*, Total",23.7,121.0,2020-04-04,50
@@ -18895,7 +18895,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-05,23
 "Norway, Total",60.472,8.4689,2020-04-05,32
 "Oman, Total",21.0,57.0,2020-04-05,61
-"Pakistan, Total",30.3753,69.3451,2020-04-05,211
+"Pakistan, Total",30.3753,69.3451,2020-04-05,259
 "Panama, Total",8.538,-80.7821,2020-04-05,13
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-05,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-05,12
@@ -18924,7 +18924,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-05,33
 "Sudan, Total",12.8628,30.2176,2020-04-05,2
 "Suriname, Total",3.9193,-56.0278,2020-04-05,0
-"Sweden, Total",63.0,16.0,2020-04-05,205
+"Sweden, Total",63.0,16.0,2020-04-05,0
 "Switzerland, Total",46.8182,8.2275,2020-04-05,6415
 "Syria, Total",34.8021,38.9968,2020-04-05,2
 "Taiwan*, Total",23.7,121.0,2020-04-05,50
@@ -19148,7 +19148,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-06,30
 "Norway, Total",60.472,8.4689,2020-04-06,32
 "Oman, Total",21.0,57.0,2020-04-06,61
-"Pakistan, Total",30.3753,69.3451,2020-04-06,259
+"Pakistan, Total",30.3753,69.3451,2020-04-06,429
 "Panama, Total",8.538,-80.7821,2020-04-06,13
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-06,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-06,12
@@ -19177,7 +19177,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-06,38
 "Sudan, Total",12.8628,30.2176,2020-04-06,2
 "Suriname, Total",3.9193,-56.0278,2020-04-06,0
-"Sweden, Total",63.0,16.0,2020-04-06,205
+"Sweden, Total",63.0,16.0,2020-04-06,0
 "Switzerland, Total",46.8182,8.2275,2020-04-06,8056
 "Syria, Total",34.8021,38.9968,2020-04-06,2
 "Taiwan*, Total",23.7,121.0,2020-04-06,57
@@ -19401,7 +19401,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-07,30
 "Norway, Total",60.472,8.4689,2020-04-07,32
 "Oman, Total",21.0,57.0,2020-04-07,67
-"Pakistan, Total",30.3753,69.3451,2020-04-07,429
+"Pakistan, Total",30.3753,69.3451,2020-04-07,467
 "Panama, Total",8.538,-80.7821,2020-04-07,14
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-07,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-07,15
@@ -19430,7 +19430,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-07,42
 "Sudan, Total",12.8628,30.2176,2020-04-07,2
 "Suriname, Total",3.9193,-56.0278,2020-04-07,0
-"Sweden, Total",63.0,16.0,2020-04-07,205
+"Sweden, Total",63.0,16.0,2020-04-07,0
 "Switzerland, Total",46.8182,8.2275,2020-04-07,8704
 "Syria, Total",34.8021,38.9968,2020-04-07,3
 "Taiwan*, Total",23.7,121.0,2020-04-07,57
@@ -19654,7 +19654,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-08,35
 "Norway, Total",60.472,8.4689,2020-04-08,32
 "Oman, Total",21.0,57.0,2020-04-08,72
-"Pakistan, Total",30.3753,69.3451,2020-04-08,467
+"Pakistan, Total",30.3753,69.3451,2020-04-08,572
 "Panama, Total",8.538,-80.7821,2020-04-08,16
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-08,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-08,15
@@ -19683,7 +19683,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-08,44
 "Sudan, Total",12.8628,30.2176,2020-04-08,2
 "Suriname, Total",3.9193,-56.0278,2020-04-08,3
-"Sweden, Total",63.0,16.0,2020-04-08,205
+"Sweden, Total",63.0,16.0,2020-04-08,0
 "Switzerland, Total",46.8182,8.2275,2020-04-08,9800
 "Syria, Total",34.8021,38.9968,2020-04-08,4
 "Taiwan*, Total",23.7,121.0,2020-04-08,61
@@ -19907,7 +19907,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-09,37
 "Norway, Total",60.472,8.4689,2020-04-09,32
 "Oman, Total",21.0,57.0,2020-04-09,109
-"Pakistan, Total",30.3753,69.3451,2020-04-09,572
+"Pakistan, Total",30.3753,69.3451,2020-04-09,727
 "Panama, Total",8.538,-80.7821,2020-04-09,16
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-09,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-09,18
@@ -19936,7 +19936,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-09,49
 "Sudan, Total",12.8628,30.2176,2020-04-09,2
 "Suriname, Total",3.9193,-56.0278,2020-04-09,4
-"Sweden, Total",63.0,16.0,2020-04-09,205
+"Sweden, Total",63.0,16.0,2020-04-09,0
 "Switzerland, Total",46.8182,8.2275,2020-04-09,10600
 "Syria, Total",34.8021,38.9968,2020-04-09,4
 "Taiwan*, Total",23.7,121.0,2020-04-09,67
@@ -20160,7 +20160,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-10,41
 "Norway, Total",60.472,8.4689,2020-04-10,32
 "Oman, Total",21.0,57.0,2020-04-10,109
-"Pakistan, Total",30.3753,69.3451,2020-04-10,727
+"Pakistan, Total",30.3753,69.3451,2020-04-10,762
 "Panama, Total",8.538,-80.7821,2020-04-10,16
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-10,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-10,18
@@ -20189,7 +20189,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-10,54
 "Sudan, Total",12.8628,30.2176,2020-04-10,2
 "Suriname, Total",3.9193,-56.0278,2020-04-10,4
-"Sweden, Total",63.0,16.0,2020-04-10,381
+"Sweden, Total",63.0,16.0,2020-04-10,0
 "Switzerland, Total",46.8182,8.2275,2020-04-10,11100
 "Syria, Total",34.8021,38.9968,2020-04-10,4
 "Taiwan*, Total",23.7,121.0,2020-04-10,91
@@ -20413,7 +20413,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-11,41
 "Norway, Total",60.472,8.4689,2020-04-11,32
 "Oman, Total",21.0,57.0,2020-04-11,109
-"Pakistan, Total",30.3753,69.3451,2020-04-11,762
+"Pakistan, Total",30.3753,69.3451,2020-04-11,1028
 "Panama, Total",8.538,-80.7821,2020-04-11,17
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-11,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-11,18
@@ -20442,7 +20442,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-11,54
 "Sudan, Total",12.8628,30.2176,2020-04-11,2
 "Suriname, Total",3.9193,-56.0278,2020-04-11,4
-"Sweden, Total",63.0,16.0,2020-04-11,381
+"Sweden, Total",63.0,16.0,2020-04-11,0
 "Switzerland, Total",46.8182,8.2275,2020-04-11,12100
 "Syria, Total",34.8021,38.9968,2020-04-11,5
 "Taiwan*, Total",23.7,121.0,2020-04-11,99
@@ -20666,7 +20666,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-12,41
 "Norway, Total",60.472,8.4689,2020-04-12,32
 "Oman, Total",21.0,57.0,2020-04-12,109
-"Pakistan, Total",30.3753,69.3451,2020-04-12,1028
+"Pakistan, Total",30.3753,69.3451,2020-04-12,1095
 "Panama, Total",8.538,-80.7821,2020-04-12,23
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-12,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-12,22
@@ -20695,7 +20695,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-12,56
 "Sudan, Total",12.8628,30.2176,2020-04-12,2
 "Suriname, Total",3.9193,-56.0278,2020-04-12,4
-"Sweden, Total",63.0,16.0,2020-04-12,381
+"Sweden, Total",63.0,16.0,2020-04-12,0
 "Switzerland, Total",46.8182,8.2275,2020-04-12,12700
 "Syria, Total",34.8021,38.9968,2020-04-12,5
 "Taiwan*, Total",23.7,121.0,2020-04-12,109
@@ -20919,7 +20919,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-13,44
 "Norway, Total",60.472,8.4689,2020-04-13,32
 "Oman, Total",21.0,57.0,2020-04-13,124
-"Pakistan, Total",30.3753,69.3451,2020-04-13,1095
+"Pakistan, Total",30.3753,69.3451,2020-04-13,1378
 "Panama, Total",8.538,-80.7821,2020-04-13,29
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-13,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-13,22
@@ -20948,7 +20948,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-13,56
 "Sudan, Total",12.8628,30.2176,2020-04-13,4
 "Suriname, Total",3.9193,-56.0278,2020-04-13,6
-"Sweden, Total",63.0,16.0,2020-04-13,381
+"Sweden, Total",63.0,16.0,2020-04-13,0
 "Switzerland, Total",46.8182,8.2275,2020-04-13,13700
 "Syria, Total",34.8021,38.9968,2020-04-13,5
 "Taiwan*, Total",23.7,121.0,2020-04-13,109
@@ -21172,7 +21172,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-14,86
 "Norway, Total",60.472,8.4689,2020-04-14,32
 "Oman, Total",21.0,57.0,2020-04-14,130
-"Pakistan, Total",30.3753,69.3451,2020-04-14,1378
+"Pakistan, Total",30.3753,69.3451,2020-04-14,1446
 "Panama, Total",8.538,-80.7821,2020-04-14,61
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-14,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-14,22
@@ -21201,7 +21201,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-14,61
 "Sudan, Total",12.8628,30.2176,2020-04-14,4
 "Suriname, Total",3.9193,-56.0278,2020-04-14,6
-"Sweden, Total",63.0,16.0,2020-04-14,381
+"Sweden, Total",63.0,16.0,2020-04-14,0
 "Switzerland, Total",46.8182,8.2275,2020-04-14,13700
 "Syria, Total",34.8021,38.9968,2020-04-14,5
 "Taiwan*, Total",23.7,121.0,2020-04-14,124
@@ -21425,7 +21425,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-15,98
 "Norway, Total",60.472,8.4689,2020-04-15,32
 "Oman, Total",21.0,57.0,2020-04-15,131
-"Pakistan, Total",30.3753,69.3451,2020-04-15,1446
+"Pakistan, Total",30.3753,69.3451,2020-04-15,1645
 "Panama, Total",8.538,-80.7821,2020-04-15,72
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-15,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-15,23
@@ -21454,7 +21454,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-15,63
 "Sudan, Total",12.8628,30.2176,2020-04-15,4
 "Suriname, Total",3.9193,-56.0278,2020-04-15,6
-"Sweden, Total",63.0,16.0,2020-04-15,381
+"Sweden, Total",63.0,16.0,2020-04-15,0
 "Switzerland, Total",46.8182,8.2275,2020-04-15,15400
 "Syria, Total",34.8021,38.9968,2020-04-15,5
 "Taiwan*, Total",23.7,121.0,2020-04-15,124
@@ -21678,7 +21678,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-16,121
 "Norway, Total",60.472,8.4689,2020-04-16,32
 "Oman, Total",21.0,57.0,2020-04-16,176
-"Pakistan, Total",30.3753,69.3451,2020-04-16,1645
+"Pakistan, Total",30.3753,69.3451,2020-04-16,1765
 "Panama, Total",8.538,-80.7821,2020-04-16,75
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-16,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-16,30
@@ -21707,7 +21707,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-16,68
 "Sudan, Total",12.8628,30.2176,2020-04-16,4
 "Suriname, Total",3.9193,-56.0278,2020-04-16,6
-"Sweden, Total",63.0,16.0,2020-04-16,550
+"Sweden, Total",63.0,16.0,2020-04-16,0
 "Switzerland, Total",46.8182,8.2275,2020-04-16,15900
 "Syria, Total",34.8021,38.9968,2020-04-16,5
 "Taiwan*, Total",23.7,121.0,2020-04-16,155
@@ -21931,7 +21931,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-17,139
 "Norway, Total",60.472,8.4689,2020-04-17,32
 "Oman, Total",21.0,57.0,2020-04-17,176
-"Pakistan, Total",30.3753,69.3451,2020-04-17,1765
+"Pakistan, Total",30.3753,69.3451,2020-04-17,1832
 "Panama, Total",8.538,-80.7821,2020-04-17,98
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-17,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-17,30
@@ -21960,7 +21960,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-17,77
 "Sudan, Total",12.8628,30.2176,2020-04-17,4
 "Suriname, Total",3.9193,-56.0278,2020-04-17,6
-"Sweden, Total",63.0,16.0,2020-04-17,550
+"Sweden, Total",63.0,16.0,2020-04-17,0
 "Switzerland, Total",46.8182,8.2275,2020-04-17,16400
 "Syria, Total",34.8021,38.9968,2020-04-17,5
 "Taiwan*, Total",23.7,121.0,2020-04-17,166
@@ -22184,7 +22184,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-18,164
 "Norway, Total",60.472,8.4689,2020-04-18,32
 "Oman, Total",21.0,57.0,2020-04-18,176
-"Pakistan, Total",30.3753,69.3451,2020-04-18,1832
+"Pakistan, Total",30.3753,69.3451,2020-04-18,1868
 "Panama, Total",8.538,-80.7821,2020-04-18,122
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-18,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-18,35
@@ -22213,7 +22213,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-18,86
 "Sudan, Total",12.8628,30.2176,2020-04-18,6
 "Suriname, Total",3.9193,-56.0278,2020-04-18,6
-"Sweden, Total",63.0,16.0,2020-04-18,550
+"Sweden, Total",63.0,16.0,2020-04-18,0
 "Switzerland, Total",46.8182,8.2275,2020-04-18,17100
 "Syria, Total",34.8021,38.9968,2020-04-18,5
 "Taiwan*, Total",23.7,121.0,2020-04-18,178
@@ -22437,7 +22437,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-19,179
 "Norway, Total",60.472,8.4689,2020-04-19,32
 "Oman, Total",21.0,57.0,2020-04-19,233
-"Pakistan, Total",30.3753,69.3451,2020-04-19,1868
+"Pakistan, Total",30.3753,69.3451,2020-04-19,1970
 "Panama, Total",8.538,-80.7821,2020-04-19,140
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-19,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-19,41
@@ -22466,7 +22466,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-19,96
 "Sudan, Total",12.8628,30.2176,2020-04-19,6
 "Suriname, Total",3.9193,-56.0278,2020-04-19,6
-"Sweden, Total",63.0,16.0,2020-04-19,550
+"Sweden, Total",63.0,16.0,2020-04-19,0
 "Switzerland, Total",46.8182,8.2275,2020-04-19,17800
 "Syria, Total",34.8021,38.9968,2020-04-19,5
 "Taiwan*, Total",23.7,121.0,2020-04-19,189
@@ -22690,7 +22690,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-20,200
 "Norway, Total",60.472,8.4689,2020-04-20,32
 "Oman, Total",21.0,57.0,2020-04-20,238
-"Pakistan, Total",30.3753,69.3451,2020-04-20,1970
+"Pakistan, Total",30.3753,69.3451,2020-04-20,2073
 "Panama, Total",8.538,-80.7821,2020-04-20,165
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-20,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-20,46
@@ -22719,7 +22719,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-20,98
 "Sudan, Total",12.8628,30.2176,2020-04-20,8
 "Suriname, Total",3.9193,-56.0278,2020-04-20,6
-"Sweden, Total",63.0,16.0,2020-04-20,550
+"Sweden, Total",63.0,16.0,2020-04-20,0
 "Switzerland, Total",46.8182,8.2275,2020-04-20,18600
 "Syria, Total",34.8021,38.9968,2020-04-20,5
 "Taiwan*, Total",23.7,121.0,2020-04-20,203
@@ -22943,7 +22943,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-21,224
 "Norway, Total",60.472,8.4689,2020-04-21,32
 "Oman, Total",21.0,57.0,2020-04-21,238
-"Pakistan, Total",30.3753,69.3451,2020-04-21,2073
+"Pakistan, Total",30.3753,69.3451,2020-04-21,2156
 "Panama, Total",8.538,-80.7821,2020-04-21,204
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-21,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-21,53
@@ -22972,7 +22972,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-21,102
 "Sudan, Total",12.8628,30.2176,2020-04-21,8
 "Suriname, Total",3.9193,-56.0278,2020-04-21,6
-"Sweden, Total",63.0,16.0,2020-04-21,550
+"Sweden, Total",63.0,16.0,2020-04-21,0
 "Switzerland, Total",46.8182,8.2275,2020-04-21,19400
 "Syria, Total",34.8021,38.9968,2020-04-21,6
 "Taiwan*, Total",23.7,121.0,2020-04-21,217
@@ -23196,7 +23196,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-22,272
 "Norway, Total",60.472,8.4689,2020-04-22,32
 "Oman, Total",21.0,57.0,2020-04-22,238
-"Pakistan, Total",30.3753,69.3451,2020-04-22,2156
+"Pakistan, Total",30.3753,69.3451,2020-04-22,2527
 "Panama, Total",8.538,-80.7821,2020-04-22,231
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-22,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-22,62
@@ -23225,7 +23225,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-22,105
 "Sudan, Total",12.8628,30.2176,2020-04-22,12
 "Suriname, Total",3.9193,-56.0278,2020-04-22,6
-"Sweden, Total",63.0,16.0,2020-04-22,550
+"Sweden, Total",63.0,16.0,2020-04-22,0
 "Switzerland, Total",46.8182,8.2275,2020-04-22,19900
 "Syria, Total",34.8021,38.9968,2020-04-22,6
 "Taiwan*, Total",23.7,121.0,2020-04-22,236
@@ -23449,7 +23449,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-23,301
 "Norway, Total",60.472,8.4689,2020-04-23,32
 "Oman, Total",21.0,57.0,2020-04-23,307
-"Pakistan, Total",30.3753,69.3451,2020-04-23,2527
+"Pakistan, Total",30.3753,69.3451,2020-04-23,2755
 "Panama, Total",8.538,-80.7821,2020-04-23,271
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-23,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-23,67
@@ -23478,7 +23478,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-23,107
 "Sudan, Total",12.8628,30.2176,2020-04-23,14
 "Suriname, Total",3.9193,-56.0278,2020-04-23,6
-"Sweden, Total",63.0,16.0,2020-04-23,550
+"Sweden, Total",63.0,16.0,2020-04-23,0
 "Switzerland, Total",46.8182,8.2275,2020-04-23,20600
 "Syria, Total",34.8021,38.9968,2020-04-23,6
 "Taiwan*, Total",23.7,121.0,2020-04-23,253
@@ -23702,7 +23702,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-24,337
 "Norway, Total",60.472,8.4689,2020-04-24,32
 "Oman, Total",21.0,57.0,2020-04-24,325
-"Pakistan, Total",30.3753,69.3451,2020-04-24,2755
+"Pakistan, Total",30.3753,69.3451,2020-04-24,2866
 "Panama, Total",8.538,-80.7821,2020-04-24,319
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-24,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-24,78
@@ -23731,7 +23731,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-24,109
 "Sudan, Total",12.8628,30.2176,2020-04-24,14
 "Suriname, Total",3.9193,-56.0278,2020-04-24,7
-"Sweden, Total",63.0,16.0,2020-04-24,1005
+"Sweden, Total",63.0,16.0,2020-04-24,0
 "Switzerland, Total",46.8182,8.2275,2020-04-24,21000
 "Syria, Total",34.8021,38.9968,2020-04-24,6
 "Taiwan*, Total",23.7,121.0,2020-04-24,264
@@ -23955,7 +23955,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-25,374
 "Norway, Total",60.472,8.4689,2020-04-25,32
 "Oman, Total",21.0,57.0,2020-04-25,329
-"Pakistan, Total",30.3753,69.3451,2020-04-25,2866
+"Pakistan, Total",30.3753,69.3451,2020-04-25,2936
 "Panama, Total",8.538,-80.7821,2020-04-25,338
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-25,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-25,85
@@ -23984,7 +23984,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-25,118
 "Sudan, Total",12.8628,30.2176,2020-04-25,19
 "Suriname, Total",3.9193,-56.0278,2020-04-25,7
-"Sweden, Total",63.0,16.0,2020-04-25,1005
+"Sweden, Total",63.0,16.0,2020-04-25,0
 "Switzerland, Total",46.8182,8.2275,2020-04-25,21300
 "Syria, Total",34.8021,38.9968,2020-04-25,11
 "Taiwan*, Total",23.7,121.0,2020-04-25,275
@@ -24208,7 +24208,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-26,500
 "Norway, Total",60.472,8.4689,2020-04-26,32
 "Oman, Total",21.0,57.0,2020-04-26,333
-"Pakistan, Total",30.3753,69.3451,2020-04-26,2936
+"Pakistan, Total",30.3753,69.3451,2020-04-26,3029
 "Panama, Total",8.538,-80.7821,2020-04-26,338
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-26,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-26,85
@@ -24237,7 +24237,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-26,120
 "Sudan, Total",12.8628,30.2176,2020-04-26,20
 "Suriname, Total",3.9193,-56.0278,2020-04-26,7
-"Sweden, Total",63.0,16.0,2020-04-26,1005
+"Sweden, Total",63.0,16.0,2020-04-26,0
 "Switzerland, Total",46.8182,8.2275,2020-04-26,21800
 "Syria, Total",34.8021,38.9968,2020-04-26,14
 "Taiwan*, Total",23.7,121.0,2020-04-26,281
@@ -24461,7 +24461,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-27,553
 "Norway, Total",60.472,8.4689,2020-04-27,32
 "Oman, Total",21.0,57.0,2020-04-27,364
-"Pakistan, Total",30.3753,69.3451,2020-04-27,3029
+"Pakistan, Total",30.3753,69.3451,2020-04-27,3233
 "Panama, Total",8.538,-80.7821,2020-04-27,455
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-27,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-27,93
@@ -24490,7 +24490,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-27,126
 "Sudan, Total",12.8628,30.2176,2020-04-27,21
 "Suriname, Total",3.9193,-56.0278,2020-04-27,7
-"Sweden, Total",63.0,16.0,2020-04-27,1005
+"Sweden, Total",63.0,16.0,2020-04-27,0
 "Switzerland, Total",46.8182,8.2275,2020-04-27,22200
 "Syria, Total",34.8021,38.9968,2020-04-27,19
 "Taiwan*, Total",23.7,121.0,2020-04-27,290
@@ -24714,7 +24714,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-28,589
 "Norway, Total",60.472,8.4689,2020-04-28,32
 "Oman, Total",21.0,57.0,2020-04-28,364
-"Pakistan, Total",30.3753,69.3451,2020-04-28,3233
+"Pakistan, Total",30.3753,69.3451,2020-04-28,3425
 "Panama, Total",8.538,-80.7821,2020-04-28,455
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-28,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-28,102
@@ -24743,7 +24743,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-28,134
 "Sudan, Total",12.8628,30.2176,2020-04-28,31
 "Suriname, Total",3.9193,-56.0278,2020-04-28,7
-"Sweden, Total",63.0,16.0,2020-04-28,1005
+"Sweden, Total",63.0,16.0,2020-04-28,0
 "Switzerland, Total",46.8182,8.2275,2020-04-28,22600
 "Syria, Total",34.8021,38.9968,2020-04-28,21
 "Taiwan*, Total",23.7,121.0,2020-04-28,307
@@ -24967,7 +24967,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-29,627
 "Norway, Total",60.472,8.4689,2020-04-29,32
 "Oman, Total",21.0,57.0,2020-04-29,364
-"Pakistan, Total",30.3753,69.3451,2020-04-29,3425
+"Pakistan, Total",30.3753,69.3451,2020-04-29,4315
 "Panama, Total",8.538,-80.7821,2020-04-29,527
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-29,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-29,102
@@ -24996,7 +24996,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-29,136
 "Sudan, Total",12.8628,30.2176,2020-04-29,32
 "Suriname, Total",3.9193,-56.0278,2020-04-29,8
-"Sweden, Total",63.0,16.0,2020-04-29,1005
+"Sweden, Total",63.0,16.0,2020-04-29,0
 "Switzerland, Total",46.8182,8.2275,2020-04-29,22600
 "Syria, Total",34.8021,38.9968,2020-04-29,21
 "Taiwan*, Total",23.7,121.0,2020-04-29,311
@@ -25220,7 +25220,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-04-30,738
 "Norway, Total",60.472,8.4689,2020-04-30,32
 "Oman, Total",21.0,57.0,2020-04-30,495
-"Pakistan, Total",30.3753,69.3451,2020-04-30,4315
+"Pakistan, Total",30.3753,69.3451,2020-04-30,4715
 "Panama, Total",8.538,-80.7821,2020-04-30,576
 "Papua New Guinea, Total",-6.315,143.9555,2020-04-30,0
 "Paraguay, Total",-23.4425,-58.4438,2020-04-30,113
@@ -25249,7 +25249,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-04-30,154
 "Sudan, Total",12.8628,30.2176,2020-04-30,39
 "Suriname, Total",3.9193,-56.0278,2020-04-30,8
-"Sweden, Total",63.0,16.0,2020-04-30,1005
+"Sweden, Total",63.0,16.0,2020-04-30,0
 "Switzerland, Total",46.8182,8.2275,2020-04-30,23400
 "Syria, Total",34.8021,38.9968,2020-04-30,21
 "Taiwan*, Total",23.7,121.0,2020-04-30,322
@@ -25473,7 +25473,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-01,807
 "Norway, Total",60.472,8.4689,2020-05-01,32
 "Oman, Total",21.0,57.0,2020-05-01,495
-"Pakistan, Total",30.3753,69.3451,2020-05-01,4715
+"Pakistan, Total",30.3753,69.3451,2020-05-01,4817
 "Panama, Total",8.538,-80.7821,2020-05-01,622
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-01,0
 "Paraguay, Total",-23.4425,-58.4438,2020-05-01,115
@@ -25502,7 +25502,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-01,162
 "Sudan, Total",12.8628,30.2176,2020-05-01,46
 "Suriname, Total",3.9193,-56.0278,2020-05-01,8
-"Sweden, Total",63.0,16.0,2020-05-01,1005
+"Sweden, Total",63.0,16.0,2020-05-01,0
 "Switzerland, Total",46.8182,8.2275,2020-05-01,23900
 "Syria, Total",34.8021,38.9968,2020-05-01,27
 "Taiwan*, Total",23.7,121.0,2020-05-01,324
@@ -25726,7 +25726,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-02,852
 "Norway, Total",60.472,8.4689,2020-05-02,32
 "Oman, Total",21.0,57.0,2020-05-02,750
-"Pakistan, Total",30.3753,69.3451,2020-05-02,4817
+"Pakistan, Total",30.3753,69.3451,2020-05-02,5114
 "Panama, Total",8.538,-80.7821,2020-05-02,641
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-02,0
 "Paraguay, Total",-23.4425,-58.4438,2020-05-02,119
@@ -25755,7 +25755,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-02,172
 "Sudan, Total",12.8628,30.2176,2020-05-02,52
 "Suriname, Total",3.9193,-56.0278,2020-05-02,8
-"Sweden, Total",63.0,16.0,2020-05-02,1005
+"Sweden, Total",63.0,16.0,2020-05-02,0
 "Switzerland, Total",46.8182,8.2275,2020-05-02,24200
 "Syria, Total",34.8021,38.9968,2020-05-02,27
 "Taiwan*, Total",23.7,121.0,2020-05-02,324
@@ -25979,7 +25979,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-03,945
 "Norway, Total",60.472,8.4689,2020-05-03,32
 "Oman, Total",21.0,57.0,2020-05-03,750
-"Pakistan, Total",30.3753,69.3451,2020-05-03,5114
+"Pakistan, Total",30.3753,69.3451,2020-05-03,5635
 "Panama, Total",8.538,-80.7821,2020-05-03,641
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-03,0
 "Paraguay, Total",-23.4425,-58.4438,2020-05-03,126
@@ -26008,7 +26008,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-03,184
 "Sudan, Total",12.8628,30.2176,2020-05-03,52
 "Suriname, Total",3.9193,-56.0278,2020-05-03,9
-"Sweden, Total",63.0,16.0,2020-05-03,1005
+"Sweden, Total",63.0,16.0,2020-05-03,0
 "Switzerland, Total",46.8182,8.2275,2020-05-03,24500
 "Syria, Total",34.8021,38.9968,2020-05-03,27
 "Taiwan*, Total",23.7,121.0,2020-05-03,332
@@ -26232,7 +26232,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-04,992
 "Norway, Total",60.472,8.4689,2020-05-04,32
 "Oman, Total",21.0,57.0,2020-05-04,816
-"Pakistan, Total",30.3753,69.3451,2020-05-04,5635
+"Pakistan, Total",30.3753,69.3451,2020-05-04,5801
 "Panama, Total",8.538,-80.7821,2020-05-04,641
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-04,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-04,130
@@ -26261,7 +26261,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-04,194
 "Sudan, Total",12.8628,30.2176,2020-05-04,61
 "Suriname, Total",3.9193,-56.0278,2020-05-04,9
-"Sweden, Total",63.0,16.0,2020-05-04,4074
+"Sweden, Total",63.0,16.0,2020-05-04,0
 "Switzerland, Total",46.8182,8.2275,2020-05-04,25200
 "Syria, Total",34.8021,38.9968,2020-05-04,27
 "Taiwan*, Total",23.7,121.0,2020-05-04,334
@@ -26485,7 +26485,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-05,1013
 "Norway, Total",60.472,8.4689,2020-05-05,32
 "Oman, Total",21.0,57.0,2020-05-05,858
-"Pakistan, Total",30.3753,69.3451,2020-05-05,5801
+"Pakistan, Total",30.3753,69.3451,2020-05-05,6464
 "Panama, Total",8.538,-80.7821,2020-05-05,823
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-05,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-05,135
@@ -26514,7 +26514,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-05,213
 "Sudan, Total",12.8628,30.2176,2020-05-05,70
 "Suriname, Total",3.9193,-56.0278,2020-05-05,9
-"Sweden, Total",63.0,16.0,2020-05-05,4074
+"Sweden, Total",63.0,16.0,2020-05-05,0
 "Switzerland, Total",46.8182,8.2275,2020-05-05,25400
 "Syria, Total",34.8021,38.9968,2020-05-05,27
 "Taiwan*, Total",23.7,121.0,2020-05-05,334
@@ -26767,7 +26767,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-06,215
 "Sudan, Total",12.8628,30.2176,2020-05-06,80
 "Suriname, Total",3.9193,-56.0278,2020-05-06,9
-"Sweden, Total",63.0,16.0,2020-05-06,4074
+"Sweden, Total",63.0,16.0,2020-05-06,0
 "Switzerland, Total",46.8182,8.2275,2020-05-06,25700
 "Syria, Total",34.8021,38.9968,2020-05-06,27
 "Taiwan*, Total",23.7,121.0,2020-05-06,339
@@ -26991,7 +26991,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-07,1079
 "Norway, Total",60.472,8.4689,2020-05-07,32
 "Oman, Total",21.0,57.0,2020-05-07,980
-"Pakistan, Total",30.3753,69.3451,2020-05-07,6464
+"Pakistan, Total",30.3753,69.3451,2020-05-07,7530
 "Panama, Total",8.538,-80.7821,2020-05-07,886
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-07,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-07,148
@@ -27020,7 +27020,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-07,232
 "Sudan, Total",12.8628,30.2176,2020-05-07,92
 "Suriname, Total",3.9193,-56.0278,2020-05-07,9
-"Sweden, Total",63.0,16.0,2020-05-07,4971
+"Sweden, Total",63.0,16.0,2020-05-07,0
 "Switzerland, Total",46.8182,8.2275,2020-05-07,25900
 "Syria, Total",34.8021,38.9968,2020-05-07,27
 "Taiwan*, Total",23.7,121.0,2020-05-07,347
@@ -27244,7 +27244,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-08,1099
 "Norway, Total",60.472,8.4689,2020-05-08,32
 "Oman, Total",21.0,57.0,2020-05-08,1025
-"Pakistan, Total",30.3753,69.3451,2020-05-08,7530
+"Pakistan, Total",30.3753,69.3451,2020-05-08,7809
 "Panama, Total",8.538,-80.7821,2020-05-08,886
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-08,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-08,152
@@ -27273,7 +27273,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-08,240
 "Sudan, Total",12.8628,30.2176,2020-05-08,102
 "Suriname, Total",3.9193,-56.0278,2020-05-08,9
-"Sweden, Total",63.0,16.0,2020-05-08,4971
+"Sweden, Total",63.0,16.0,2020-05-08,0
 "Switzerland, Total",46.8182,8.2275,2020-05-08,26100
 "Syria, Total",34.8021,38.9968,2020-05-08,29
 "Taiwan*, Total",23.7,121.0,2020-05-08,355
@@ -27497,7 +27497,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-09,1112
 "Norway, Total",60.472,8.4689,2020-05-09,32
 "Oman, Total",21.0,57.0,2020-05-09,1068
-"Pakistan, Total",30.3753,69.3451,2020-05-09,7809
+"Pakistan, Total",30.3753,69.3451,2020-05-09,8063
 "Panama, Total",8.538,-80.7821,2020-05-09,4501
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-09,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-09,155
@@ -27526,7 +27526,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-09,260
 "Sudan, Total",12.8628,30.2176,2020-05-09,119
 "Suriname, Total",3.9193,-56.0278,2020-05-09,9
-"Sweden, Total",63.0,16.0,2020-05-09,4971
+"Sweden, Total",63.0,16.0,2020-05-09,0
 "Switzerland, Total",46.8182,8.2275,2020-05-09,26400
 "Syria, Total",34.8021,38.9968,2020-05-09,29
 "Taiwan*, Total",23.7,121.0,2020-05-09,361
@@ -27750,7 +27750,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-10,1136
 "Norway, Total",60.472,8.4689,2020-05-10,32
 "Oman, Total",21.0,57.0,2020-05-10,1117
-"Pakistan, Total",30.3753,69.3451,2020-05-10,8063
+"Pakistan, Total",30.3753,69.3451,2020-05-10,8555
 "Panama, Total",8.538,-80.7821,2020-05-10,4687
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-10,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-10,165
@@ -27779,7 +27779,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-10,321
 "Sudan, Total",12.8628,30.2176,2020-05-10,149
 "Suriname, Total",3.9193,-56.0278,2020-05-10,9
-"Sweden, Total",63.0,16.0,2020-05-10,4971
+"Sweden, Total",63.0,16.0,2020-05-10,0
 "Switzerland, Total",46.8182,8.2275,2020-05-10,26600
 "Syria, Total",34.8021,38.9968,2020-05-10,29
 "Taiwan*, Total",23.7,121.0,2020-05-10,366
@@ -28003,7 +28003,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-11,1200
 "Norway, Total",60.472,8.4689,2020-05-11,32
 "Oman, Total",21.0,57.0,2020-05-11,1250
-"Pakistan, Total",30.3753,69.3451,2020-05-11,8555
+"Pakistan, Total",30.3753,69.3451,2020-05-11,8812
 "Panama, Total",8.538,-80.7821,2020-05-11,4687
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-11,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-11,170
@@ -28032,7 +28032,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-11,343
 "Sudan, Total",12.8628,30.2176,2020-05-11,162
 "Suriname, Total",3.9193,-56.0278,2020-05-11,9
-"Sweden, Total",63.0,16.0,2020-05-11,4971
+"Sweden, Total",63.0,16.0,2020-05-11,0
 "Switzerland, Total",46.8182,8.2275,2020-05-11,26800
 "Syria, Total",34.8021,38.9968,2020-05-11,29
 "Taiwan*, Total",23.7,121.0,2020-05-11,368
@@ -28256,7 +28256,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-12,1205
 "Norway, Total",60.472,8.4689,2020-05-12,32
 "Oman, Total",21.0,57.0,2020-05-12,1250
-"Pakistan, Total",30.3753,69.3451,2020-05-12,8812
+"Pakistan, Total",30.3753,69.3451,2020-05-12,8899
 "Panama, Total",8.538,-80.7821,2020-05-12,6021
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-12,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-12,173
@@ -28285,7 +28285,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-12,366
 "Sudan, Total",12.8628,30.2176,2020-05-12,173
 "Suriname, Total",3.9193,-56.0278,2020-05-12,9
-"Sweden, Total",63.0,16.0,2020-05-12,4971
+"Sweden, Total",63.0,16.0,2020-05-12,0
 "Switzerland, Total",46.8182,8.2275,2020-05-12,26800
 "Syria, Total",34.8021,38.9968,2020-05-12,29
 "Taiwan*, Total",23.7,121.0,2020-05-12,372
@@ -28509,7 +28509,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-13,1229
 "Norway, Total",60.472,8.4689,2020-05-13,32
 "Oman, Total",21.0,57.0,2020-05-13,1289
-"Pakistan, Total",30.3753,69.3451,2020-05-13,8899
+"Pakistan, Total",30.3753,69.3451,2020-05-13,9695
 "Panama, Total",8.538,-80.7821,2020-05-13,6067
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-13,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-13,182
@@ -28538,7 +28538,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-13,382
 "Sudan, Total",12.8628,30.2176,2020-05-13,198
 "Suriname, Total",3.9193,-56.0278,2020-05-13,9
-"Sweden, Total",63.0,16.0,2020-05-13,4971
+"Sweden, Total",63.0,16.0,2020-05-13,0
 "Switzerland, Total",46.8182,8.2275,2020-05-13,27100
 "Syria, Total",34.8021,38.9968,2020-05-13,29
 "Taiwan*, Total",23.7,121.0,2020-05-13,375
@@ -28762,7 +28762,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-14,1235
 "Norway, Total",60.472,8.4689,2020-05-14,32
 "Oman, Total",21.0,57.0,2020-05-14,1303
-"Pakistan, Total",30.3753,69.3451,2020-05-14,9695
+"Pakistan, Total",30.3753,69.3451,2020-05-14,10880
 "Panama, Total",8.538,-80.7821,2020-05-14,6080
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-14,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-14,184
@@ -28791,7 +28791,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-14,445
 "Sudan, Total",12.8628,30.2176,2020-05-14,198
 "Suriname, Total",3.9193,-56.0278,2020-05-14,9
-"Sweden, Total",63.0,16.0,2020-05-14,4971
+"Sweden, Total",63.0,16.0,2020-05-14,0
 "Switzerland, Total",46.8182,8.2275,2020-05-14,27100
 "Syria, Total",34.8021,38.9968,2020-05-14,29
 "Taiwan*, Total",23.7,121.0,2020-05-14,383
@@ -29044,7 +29044,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-15,477
 "Sudan, Total",12.8628,30.2176,2020-05-15,205
 "Suriname, Total",3.9193,-56.0278,2020-05-15,9
-"Sweden, Total",63.0,16.0,2020-05-15,4971
+"Sweden, Total",63.0,16.0,2020-05-15,0
 "Switzerland, Total",46.8182,8.2275,2020-05-15,27100
 "Syria, Total",34.8021,38.9968,2020-05-15,36
 "Taiwan*, Total",23.7,121.0,2020-05-15,387
@@ -29268,7 +29268,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-16,1267
 "Norway, Total",60.472,8.4689,2020-05-16,32
 "Oman, Total",21.0,57.0,2020-05-16,1436
-"Pakistan, Total",30.3753,69.3451,2020-05-16,10880
+"Pakistan, Total",30.3753,69.3451,2020-05-16,11341
 "Panama, Total",8.538,-80.7821,2020-05-16,6080
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-16,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-16,198
@@ -29297,7 +29297,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-16,520
 "Sudan, Total",12.8628,30.2176,2020-05-16,222
 "Suriname, Total",3.9193,-56.0278,2020-05-16,9
-"Sweden, Total",63.0,16.0,2020-05-16,4971
+"Sweden, Total",63.0,16.0,2020-05-16,0
 "Switzerland, Total",46.8182,8.2275,2020-05-16,27400
 "Syria, Total",34.8021,38.9968,2020-05-16,36
 "Taiwan*, Total",23.7,121.0,2020-05-16,389
@@ -29521,7 +29521,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-17,1293
 "Norway, Total",60.472,8.4689,2020-05-17,32
 "Oman, Total",21.0,57.0,2020-05-17,1465
-"Pakistan, Total",30.3753,69.3451,2020-05-17,11341
+"Pakistan, Total",30.3753,69.3451,2020-05-17,11922
 "Panama, Total",8.538,-80.7821,2020-05-17,6081
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-17,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-17,202
@@ -29550,7 +29550,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-17,538
 "Sudan, Total",12.8628,30.2176,2020-05-17,222
 "Suriname, Total",3.9193,-56.0278,2020-05-17,9
-"Sweden, Total",63.0,16.0,2020-05-17,4971
+"Sweden, Total",63.0,16.0,2020-05-17,0
 "Switzerland, Total",46.8182,8.2275,2020-05-17,27500
 "Syria, Total",34.8021,38.9968,2020-05-17,36
 "Taiwan*, Total",23.7,121.0,2020-05-17,395
@@ -29774,7 +29774,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-18,1301
 "Norway, Total",60.472,8.4689,2020-05-18,32
 "Oman, Total",21.0,57.0,2020-05-18,1496
-"Pakistan, Total",30.3753,69.3451,2020-05-18,11922
+"Pakistan, Total",30.3753,69.3451,2020-05-18,12489
 "Panama, Total",8.538,-80.7821,2020-05-18,6081
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-18,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-18,219
@@ -29803,7 +29803,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-18,559
 "Sudan, Total",12.8628,30.2176,2020-05-18,247
 "Suriname, Total",3.9193,-56.0278,2020-05-18,9
-"Sweden, Total",63.0,16.0,2020-05-18,4971
+"Sweden, Total",63.0,16.0,2020-05-18,0
 "Switzerland, Total",46.8182,8.2275,2020-05-18,27600
 "Syria, Total",34.8021,38.9968,2020-05-18,36
 "Taiwan*, Total",23.7,121.0,2020-05-18,398
@@ -30027,7 +30027,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-19,1351
 "Norway, Total",60.472,8.4689,2020-05-19,32
 "Oman, Total",21.0,57.0,2020-05-19,1574
-"Pakistan, Total",30.3753,69.3451,2020-05-19,12489
+"Pakistan, Total",30.3753,69.3451,2020-05-19,13101
 "Panama, Total",8.538,-80.7821,2020-05-19,6194
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-19,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-19,230
@@ -30056,7 +30056,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-19,569
 "Sudan, Total",12.8628,30.2176,2020-05-19,286
 "Suriname, Total",3.9193,-56.0278,2020-05-19,9
-"Sweden, Total",63.0,16.0,2020-05-19,4971
+"Sweden, Total",63.0,16.0,2020-05-19,0
 "Switzerland, Total",46.8182,8.2275,2020-05-19,27700
 "Syria, Total",34.8021,38.9968,2020-05-19,36
 "Taiwan*, Total",23.7,121.0,2020-05-19,398
@@ -30280,7 +30280,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-20,1367
 "Norway, Total",60.472,8.4689,2020-05-20,32
 "Oman, Total",21.0,57.0,2020-05-20,1661
-"Pakistan, Total",30.3753,69.3451,2020-05-20,13101
+"Pakistan, Total",30.3753,69.3451,2020-05-20,14155
 "Panama, Total",8.538,-80.7821,2020-05-20,6194
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-20,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-20,242
@@ -30309,7 +30309,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-20,584
 "Sudan, Total",12.8628,30.2176,2020-05-20,286
 "Suriname, Total",3.9193,-56.0278,2020-05-20,9
-"Sweden, Total",63.0,16.0,2020-05-20,4971
+"Sweden, Total",63.0,16.0,2020-05-20,0
 "Switzerland, Total",46.8182,8.2275,2020-05-20,27800
 "Syria, Total",34.8021,38.9968,2020-05-20,36
 "Taiwan*, Total",23.7,121.0,2020-05-20,398
@@ -30533,7 +30533,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-21,1378
 "Norway, Total",60.472,8.4689,2020-05-21,32
 "Oman, Total",21.0,57.0,2020-05-21,1821
-"Pakistan, Total",30.3753,69.3451,2020-05-21,14155
+"Pakistan, Total",30.3753,69.3451,2020-05-21,15201
 "Panama, Total",8.538,-80.7821,2020-05-21,6245
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-21,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-21,256
@@ -30562,7 +30562,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-21,604
 "Sudan, Total",12.8628,30.2176,2020-05-21,309
 "Suriname, Total",3.9193,-56.0278,2020-05-21,9
-"Sweden, Total",63.0,16.0,2020-05-21,4971
+"Sweden, Total",63.0,16.0,2020-05-21,0
 "Switzerland, Total",46.8182,8.2275,2020-05-21,27900
 "Syria, Total",34.8021,38.9968,2020-05-21,36
 "Taiwan*, Total",23.7,121.0,2020-05-21,398
@@ -30786,7 +30786,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-22,1387
 "Norway, Total",60.472,8.4689,2020-05-22,7727
 "Oman, Total",21.0,57.0,2020-05-22,1821
-"Pakistan, Total",30.3753,69.3451,2020-05-22,15201
+"Pakistan, Total",30.3753,69.3451,2020-05-22,16653
 "Panama, Total",8.538,-80.7821,2020-05-22,6275
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-22,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-22,264
@@ -30815,7 +30815,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-22,620
 "Sudan, Total",12.8628,30.2176,2020-05-22,372
 "Suriname, Total",3.9193,-56.0278,2020-05-22,9
-"Sweden, Total",63.0,16.0,2020-05-22,4971
+"Sweden, Total",63.0,16.0,2020-05-22,0
 "Switzerland, Total",46.8182,8.2275,2020-05-22,27900
 "Syria, Total",34.8021,38.9968,2020-05-22,37
 "Taiwan*, Total",23.7,121.0,2020-05-22,408
@@ -31039,7 +31039,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-23,1411
 "Norway, Total",60.472,8.4689,2020-05-23,7727
 "Oman, Total",21.0,57.0,2020-05-23,1848
-"Pakistan, Total",30.3753,69.3451,2020-05-23,16653
+"Pakistan, Total",30.3753,69.3451,2020-05-23,17198
 "Panama, Total",8.538,-80.7821,2020-05-23,6279
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-23,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-23,298
@@ -31068,7 +31068,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-23,660
 "Sudan, Total",12.8628,30.2176,2020-05-23,424
 "Suriname, Total",3.9193,-56.0278,2020-05-23,9
-"Sweden, Total",63.0,16.0,2020-05-23,4971
+"Sweden, Total",63.0,16.0,2020-05-23,0
 "Switzerland, Total",46.8182,8.2275,2020-05-23,28000
 "Syria, Total",34.8021,38.9968,2020-05-23,37
 "Taiwan*, Total",23.7,121.0,2020-05-23,411
@@ -31292,7 +31292,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-24,1422
 "Norway, Total",60.472,8.4689,2020-05-24,7727
 "Oman, Total",21.0,57.0,2020-05-24,1933
-"Pakistan, Total",30.3753,69.3451,2020-05-24,17198
+"Pakistan, Total",30.3753,69.3451,2020-05-24,17482
 "Panama, Total",8.538,-80.7821,2020-05-24,6279
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-24,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-24,307
@@ -31321,7 +31321,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-24,674
 "Sudan, Total",12.8628,30.2176,2020-05-24,458
 "Suriname, Total",3.9193,-56.0278,2020-05-24,9
-"Sweden, Total",63.0,16.0,2020-05-24,4971
+"Sweden, Total",63.0,16.0,2020-05-24,0
 "Switzerland, Total",46.8182,8.2275,2020-05-24,28100
 "Syria, Total",34.8021,38.9968,2020-05-24,41
 "Taiwan*, Total",23.7,121.0,2020-05-24,414
@@ -31545,7 +31545,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-25,1439
 "Norway, Total",60.472,8.4689,2020-05-25,7727
 "Oman, Total",21.0,57.0,2020-05-25,1933
-"Pakistan, Total",30.3753,69.3451,2020-05-25,17482
+"Pakistan, Total",30.3753,69.3451,2020-05-25,18314
 "Panama, Total",8.538,-80.7821,2020-05-25,6279
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-25,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-25,344
@@ -31574,7 +31574,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-25,695
 "Sudan, Total",12.8628,30.2176,2020-05-25,503
 "Suriname, Total",3.9193,-56.0278,2020-05-25,9
-"Sweden, Total",63.0,16.0,2020-05-25,4971
+"Sweden, Total",63.0,16.0,2020-05-25,0
 "Switzerland, Total",46.8182,8.2275,2020-05-25,28200
 "Syria, Total",34.8021,38.9968,2020-05-25,41
 "Taiwan*, Total",23.7,121.0,2020-05-25,415
@@ -31798,7 +31798,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-26,1453
 "Norway, Total",60.472,8.4689,2020-05-26,7727
 "Oman, Total",21.0,57.0,2020-05-26,2067
-"Pakistan, Total",30.3753,69.3451,2020-05-26,18314
+"Pakistan, Total",30.3753,69.3451,2020-05-26,19142
 "Panama, Total",8.538,-80.7821,2020-05-26,6379
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-26,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-26,382
@@ -31827,7 +31827,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-26,712
 "Sudan, Total",12.8628,30.2176,2020-05-26,503
 "Suriname, Total",3.9193,-56.0278,2020-05-26,9
-"Sweden, Total",63.0,16.0,2020-05-26,4971
+"Sweden, Total",63.0,16.0,2020-05-26,0
 "Switzerland, Total",46.8182,8.2275,2020-05-26,28200
 "Syria, Total",34.8021,38.9968,2020-05-26,41
 "Taiwan*, Total",23.7,121.0,2020-05-26,416
@@ -32051,7 +32051,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-27,1470
 "Norway, Total",60.472,8.4689,2020-05-27,7727
 "Oman, Total",21.0,57.0,2020-05-27,2177
-"Pakistan, Total",30.3753,69.3451,2020-05-27,19142
+"Pakistan, Total",30.3753,69.3451,2020-05-27,20231
 "Panama, Total",8.538,-80.7821,2020-05-27,7379
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-27,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-27,392
@@ -32080,7 +32080,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-27,732
 "Sudan, Total",12.8628,30.2176,2020-05-27,749
 "Suriname, Total",3.9193,-56.0278,2020-05-27,9
-"Sweden, Total",63.0,16.0,2020-05-27,4971
+"Sweden, Total",63.0,16.0,2020-05-27,0
 "Switzerland, Total",46.8182,8.2275,2020-05-27,28300
 "Syria, Total",34.8021,38.9968,2020-05-27,43
 "Taiwan*, Total",23.7,121.0,2020-05-27,419
@@ -32304,7 +32304,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-28,1486
 "Norway, Total",60.472,8.4689,2020-05-28,7727
 "Oman, Total",21.0,57.0,2020-05-28,2177
-"Pakistan, Total",30.3753,69.3451,2020-05-28,20231
+"Pakistan, Total",30.3753,69.3451,2020-05-28,22305
 "Panama, Total",8.538,-80.7821,2020-05-28,7379
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-28,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-28,402
@@ -32333,7 +32333,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-28,745
 "Sudan, Total",12.8628,30.2176,2020-05-28,749
 "Suriname, Total",3.9193,-56.0278,2020-05-28,9
-"Sweden, Total",63.0,16.0,2020-05-28,4971
+"Sweden, Total",63.0,16.0,2020-05-28,0
 "Switzerland, Total",46.8182,8.2275,2020-05-28,28300
 "Syria, Total",34.8021,38.9968,2020-05-28,43
 "Taiwan*, Total",23.7,121.0,2020-05-28,420
@@ -32557,7 +32557,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-29,1516
 "Norway, Total",60.472,8.4689,2020-05-29,7727
 "Oman, Total",21.0,57.0,2020-05-29,2396
-"Pakistan, Total",30.3753,69.3451,2020-05-29,22305
+"Pakistan, Total",30.3753,69.3451,2020-05-29,24131
 "Panama, Total",8.538,-80.7821,2020-05-29,7540
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-29,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-29,413
@@ -32586,7 +32586,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-29,754
 "Sudan, Total",12.8628,30.2176,2020-05-29,816
 "Suriname, Total",3.9193,-56.0278,2020-05-29,9
-"Sweden, Total",63.0,16.0,2020-05-29,4971
+"Sweden, Total",63.0,16.0,2020-05-29,0
 "Switzerland, Total",46.8182,8.2275,2020-05-29,28300
 "Syria, Total",34.8021,38.9968,2020-05-29,43
 "Taiwan*, Total",23.7,121.0,2020-05-29,420
@@ -32810,7 +32810,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-30,1535
 "Norway, Total",60.472,8.4689,2020-05-30,7727
 "Oman, Total",21.0,57.0,2020-05-30,2396
-"Pakistan, Total",30.3753,69.3451,2020-05-30,24131
+"Pakistan, Total",30.3753,69.3451,2020-05-30,25271
 "Panama, Total",8.538,-80.7821,2020-05-30,9414
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-30,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-30,466
@@ -32839,7 +32839,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-30,781
 "Sudan, Total",12.8628,30.2176,2020-05-30,1272
 "Suriname, Total",3.9193,-56.0278,2020-05-30,9
-"Sweden, Total",63.0,16.0,2020-05-30,4971
+"Sweden, Total",63.0,16.0,2020-05-30,0
 "Switzerland, Total",46.8182,8.2275,2020-05-30,28400
 "Syria, Total",34.8021,38.9968,2020-05-30,43
 "Taiwan*, Total",23.7,121.0,2020-05-30,421
@@ -33063,7 +33063,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-05-31,1552
 "Norway, Total",60.472,8.4689,2020-05-31,7727
 "Oman, Total",21.0,57.0,2020-05-31,2682
-"Pakistan, Total",30.3753,69.3451,2020-05-31,25271
+"Pakistan, Total",30.3753,69.3451,2020-05-31,26083
 "Panama, Total",8.538,-80.7821,2020-05-31,9514
 "Papua New Guinea, Total",-6.315,143.9555,2020-05-31,8
 "Paraguay, Total",-23.4425,-58.4438,2020-05-31,477
@@ -33092,7 +33092,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-05-31,801
 "Sudan, Total",12.8628,30.2176,2020-05-31,1423
 "Suriname, Total",3.9193,-56.0278,2020-05-31,9
-"Sweden, Total",63.0,16.0,2020-05-31,4971
+"Sweden, Total",63.0,16.0,2020-05-31,0
 "Switzerland, Total",46.8182,8.2275,2020-05-31,28500
 "Syria, Total",34.8021,38.9968,2020-05-31,46
 "Taiwan*, Total",23.7,121.0,2020-05-31,423
@@ -33316,7 +33316,7 @@ id,lat,lon,Date,Value
 "North Macedonia, Total",41.6086,21.7453,2020-06-01,1569
 "Norway, Total",60.472,8.4689,2020-06-01,7727
 "Oman, Total",21.0,57.0,2020-06-01,2682
-"Pakistan, Total",30.3753,69.3451,2020-06-01,26083
+"Pakistan, Total",30.3753,69.3451,2020-06-01,27110
 "Panama, Total",8.538,-80.7821,2020-06-01,9514
 "Papua New Guinea, Total",-6.315,143.9555,2020-06-01,8
 "Paraguay, Total",-23.4425,-58.4438,2020-06-01,488
@@ -33345,7 +33345,7 @@ id,lat,lon,Date,Value
 "Sri Lanka, Total",7.0,81.0,2020-06-01,811
 "Sudan, Total",12.8628,30.2176,2020-06-01,1522
 "Suriname, Total",3.9193,-56.0278,2020-06-01,9
-"Sweden, Total",63.0,16.0,2020-06-01,4971
+"Sweden, Total",63.0,16.0,2020-06-01,0
 "Switzerland, Total",46.8182,8.2275,2020-06-01,28500
 "Syria, Total",34.8021,38.9968,2020-06-01,46
 "Taiwan*, Total",23.7,121.0,2020-06-01,427
@@ -33395,3 +33395,2533 @@ id,lat,lon,Date,Value
 "Comoros, Total",-11.6455,43.3333,2020-06-01,26
 "Tajikistan, Total",38.861034000000004,71.276093,2020-06-01,2089
 "Lesotho, Total",-29.609988,28.233608,2020-06-01,1
+"Afghanistan, Total",33.0,65.0,2020-06-02,1450
+"Albania, Total",41.1533,20.1683,2020-06-02,891
+"Algeria, Total",28.0339,1.6596,2020-06-02,6067
+"Andorra, Total",42.5063,1.5218,2020-06-02,733
+"Angola, Total",-11.2027,17.8739,2020-06-02,18
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-02,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-02,5709
+"Armenia, Total",40.0691,45.0382,2020-06-02,3427
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-02,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-02,2691
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-02,29
+"Australia, Queensland",-28.0167,153.4,2020-06-02,1047
+"Australia, South Australia",-34.9285,138.6007,2020-06-02,435
+"Australia, Tasmania",-41.4545,145.9707,2020-06-02,208
+"Australia, Victoria",-37.8136,144.9631,2020-06-02,1569
+"Australia, Western Australia",-31.9505,115.8605,2020-06-02,553
+"Austria, Total",47.5162,14.5501,2020-06-02,15629
+"Azerbaijan, Total",40.1431,47.5769,2020-06-02,3564
+"Bahamas, Total",25.0343,-77.3963,2020-06-02,49
+"Bahrain, Total",26.0275,50.55,2020-06-02,7407
+"Bangladesh, Total",23.685,90.3563,2020-06-02,11120
+"Barbados, Total",13.1939,-59.5432,2020-06-02,76
+"Belarus, Total",53.7098,27.9534,2020-06-02,19195
+"Belgium, Total",50.8333,4.0,2020-06-02,15934
+"Belize, Total",13.1939,-59.5432,2020-06-02,16
+"Benin, Total",9.3077,2.3158,2020-06-02,148
+"Bhutan, Total",27.5142,90.4336,2020-06-02,9
+"Bolivia, Total",-16.2902,-63.5887,2020-06-02,1298
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-02,1910
+"Brazil, Total",-14.235,-51.9253,2020-06-02,223638
+"Brunei, Total",4.5353,114.7277,2020-06-02,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-02,1123
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-02,720
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-02,237
+"Cambodia, Total",11.55,104.9167,2020-06-02,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-02,3676
+"Canada, Total",56.1304,-106.3468,2020-06-02,50725
+"Central African Republic, Total",6.6111,20.9394,2020-06-02,23
+"Chad, Total",15.4542,18.7322,2020-06-02,562
+"Chile, Total",-35.6751,-71.543,2020-06-02,86173
+"China, Anhui",31.8257,117.2264,2020-06-02,985
+"China, Beijing",40.1824,116.4142,2020-06-02,581
+"China, Chongqing",30.0572,107.874,2020-06-02,573
+"China, Fujian",26.0789,117.9874,2020-06-02,356
+"China, Gansu",37.8099,101.0583,2020-06-02,137
+"China, Guangdong",23.3417,113.4244,2020-06-02,1583
+"China, Guangxi",23.8298,108.7881,2020-06-02,252
+"China, Guizhou",26.8154,106.8748,2020-06-02,145
+"China, Hainan",19.1959,109.7453,2020-06-02,163
+"China, Hebei",39.549,116.1306,2020-06-02,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-02,932
+"China, Henan",33.882,113.61399999999999,2020-06-02,1254
+"China, Hong Kong",22.3,114.2,2020-06-02,1038
+"China, Hubei",30.9756,112.2707,2020-06-02,63620
+"China, Hunan",27.6104,111.7088,2020-06-02,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-02,209
+"China, Jiangsu",32.9711,119.455,2020-06-02,653
+"China, Jiangxi",27.614,115.7221,2020-06-02,936
+"China, Jilin",43.6661,126.1923,2020-06-02,147
+"China, Liaoning",41.2956,122.6085,2020-06-02,147
+"China, Macau",22.1667,113.55,2020-06-02,45
+"China, Ningxia",37.2692,106.1655,2020-06-02,75
+"China, Qinghai",35.7452,95.9956,2020-06-02,18
+"China, Shaanxi",35.1917,108.8701,2020-06-02,305
+"China, Shandong",36.3427,118.1498,2020-06-02,780
+"China, Shanghai",31.201999999999998,121.4491,2020-06-02,661
+"China, Shanxi",37.5777,112.2922,2020-06-02,198
+"China, Sichuan",30.6171,102.7103,2020-06-02,558
+"China, Tianjin",39.3054,117.323,2020-06-02,188
+"China, Tibet",31.6927,88.0924,2020-06-02,1
+"China, Xinjiang",41.1129,85.2401,2020-06-02,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-02,183
+"China, Zhejiang",29.1832,120.0934,2020-06-02,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-02,9689
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-02,179
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-02,482
+"Costa Rica, Total",9.7489,-83.7534,2020-06-02,682
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-02,1501
+"Croatia, Total",45.1,15.2,2020-06-02,2088
+"Diamond Princess, Total",0.0,0.0,2020-06-02,651
+"Cuba, Total",22.0,-80.0,2020-06-02,1827
+"Cyprus, Total",35.1264,33.4299,2020-06-02,790
+"Czechia, Total",49.8175,15.472999999999999,2020-06-02,6686
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-02,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-02,11
+"Denmark, Total",56.2639,9.5018,2020-06-02,10489
+"Djibouti, Total",11.8251,42.5903,2020-06-02,1607
+"Dominica, Total",15.415,-61.371,2020-06-02,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-02,11075
+"Ecuador, Total",-1.8312,-78.1834,2020-06-02,20019
+"Egypt, Total",26.0,30.0,2020-06-02,6827
+"El Salvador, Total",13.7942,-88.8965,2020-06-02,1160
+"Equatorial Guinea, Total",1.5,10.0,2020-06-02,200
+"Eritrea, Total",15.1794,39.7823,2020-06-02,39
+"Estonia, Total",58.5953,25.0136,2020-06-02,1632
+"Eswatini, Total",-26.5225,31.4659,2020-06-02,198
+"Ethiopia, Total",9.145,40.4897,2020-06-02,231
+"Fiji, Total",-17.7134,178.065,2020-06-02,15
+"Finland, Total",64.0,26.0,2020-06-02,5500
+"France, French Guiana",3.9339,-53.1258,2020-06-02,207
+"France, French Polynesia",-17.6797,149.4068,2020-06-02,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-02,138
+"France, Martinique",14.6415,-61.0242,2020-06-02,98
+"France, Mayotte",-12.8275,45.1662,2020-06-02,1473
+"France, New Caledonia",-20.9043,165.618,2020-06-02,18
+"France, Reunion",-21.1351,55.2471,2020-06-02,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-02,6
+"France, St Martin",18.0708,-63.0501,2020-06-02,33
+"France, Total",46.2276,2.2137,2020-06-02,66485
+"Gabon, Total",-0.8037,11.6094,2020-06-02,779
+"Gambia, Total",13.4432,-15.3101,2020-06-02,20
+"Georgia, Total",42.3154,43.3569,2020-06-02,634
+"Germany, Total",51.0,9.0,2020-06-02,166609
+"Ghana, Total",7.9465,-1.0232,2020-06-02,2986
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-02,18
+"Greece, Total",39.0742,21.8243,2020-06-02,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-02,824
+"Guinea, Total",9.9456,-9.6966,2020-06-02,2267
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-02,53
+"Guyana, Total",5.0,-58.75,2020-06-02,70
+"Haiti, Total",18.9712,-72.2852,2020-06-02,24
+"Holy See, Total",41.9029,12.4534,2020-06-02,2
+"Honduras, Total",15.2,-86.2419,2020-06-02,563
+"Hungary, Total",47.1625,19.5033,2020-06-02,2160
+"Iceland, Total",64.9631,-19.0208,2020-06-02,1794
+"India, Total",21.0,78.0,2020-06-02,100285
+"Indonesia, Total",-0.7893,113.9213,2020-06-02,7935
+"Iran, Total",32.0,53.0,2020-06-02,123077
+"Iraq, Total",33.0,44.0,2020-06-02,3508
+"Ireland, Total",53.1424,-7.6921,2020-06-02,22089
+"Israel, Total",31.0,35.0,2020-06-02,14940
+"Italy, Total",43.0,12.0,2020-06-02,160092
+"Jamaica, Total",18.1096,-77.2975,2020-06-02,356
+"Japan, Total",36.0,138.0,2020-06-02,14585
+"Jordan, Total",31.24,36.51,2020-06-02,549
+"Kazakhstan, Total",48.0196,66.9237,2020-06-02,5941
+"Kenya, Total",-0.0236,37.9062,2020-06-02,499
+"Korea, South, Total",36.0,128.0,2020-06-02,10467
+"Kuwait, Total",29.5,47.75,2020-06-02,14281
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-02,1219
+"Latvia, Total",56.8796,24.6032,2020-06-02,760
+"Lebanon, Total",33.8547,35.8623,2020-06-02,719
+"Liberia, Total",6.4281,-9.4295,2020-06-02,167
+"Libya, Total",26.3351,17.228331,2020-06-02,52
+"Liechtenstein, Total",47.14,9.55,2020-06-02,55
+"Lithuania, Total",55.1694,23.8813,2020-06-02,1249
+"Luxembourg, Total",49.8153,6.1296,2020-06-02,3848
+"Madagascar, Total",-18.7669,46.8691,2020-06-02,185
+"Malaysia, Total",2.5,112.5,2020-06-02,6470
+"Maldives, Total",3.2028,73.2207,2020-06-02,608
+"Mali, Total",17.570692,-3.996166000000001,2020-06-02,769
+"Malta, Total",35.9375,14.3754,2020-06-02,554
+"Mauritania, Total",21.0079,10.9408,2020-06-02,55
+"Mauritius, Total",-20.2,57.5,2020-06-02,322
+"Mexico, Total",23.6345,-102.5528,2020-06-02,69749
+"Moldova, Total",47.4116,28.3699,2020-06-02,4738
+"Monaco, Total",43.7333,7.4167,2020-06-02,90
+"Mongolia, Total",46.8625,103.8467,2020-06-02,44
+"Montenegro, Total",42.5,19.3,2020-06-02,315
+"Morocco, Total",31.7917,-7.0926,2020-06-02,6410
+"Mozambique, Total",-18.6657,35.5296,2020-06-02,98
+"Namibia, Total",-22.9576,18.4904,2020-06-02,16
+"Nepal, Total",28.1667,84.25,2020-06-02,266
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-02,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-02,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-02,60
+"Netherlands, Total",52.1326,5.2913,2020-06-02,0
+"New Zealand, Total",-40.9006,174.886,2020-06-02,1481
+"Nicaragua, Total",12.8654,-85.2072,2020-06-02,370
+"Niger, Total",17.6078,8.0817,2020-06-02,848
+"Nigeria, Total",9.082,8.6753,2020-06-02,3240
+"North Macedonia, Total",41.6086,21.7453,2020-06-02,1595
+"Norway, Total",60.472,8.4689,2020-06-02,7727
+"Oman, Total",21.0,57.0,2020-06-02,2812
+"Pakistan, Total",30.3753,69.3451,2020-06-02,28923
+"Panama, Total",8.538,-80.7821,2020-06-02,9514
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-02,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-02,498
+"Peru, Total",-9.19,-75.0152,2020-06-02,69257
+"Philippines, Total",13.0,122.0,2020-06-02,4063
+"Poland, Total",51.9194,19.1451,2020-06-02,11726
+"Portugal, Total",39.3999,-8.2245,2020-06-02,19869
+"Qatar, Total",25.3548,51.1839,2020-06-02,36036
+"Romania, Total",45.9432,24.9668,2020-06-02,13526
+"Russia, Total",60.0,90.0,2020-06-02,186602
+"Rwanda, Total",-1.9403,29.8739,2020-06-02,269
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-02,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-02,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-02,15
+"San Marino, Total",43.9424,12.4578,2020-06-02,384
+"Saudi Arabia, Total",24.0,45.0,2020-06-02,65790
+"Senegal, Total",14.4974,-14.4524,2020-06-02,1954
+"Serbia, Total",44.0165,21.0059,2020-06-02,6766
+"Seychelles, Total",-4.6796,55.492,2020-06-02,11
+"Singapore, Total",1.2833,103.8333,2020-06-02,23175
+"Slovakia, Total",48.669,19.699,2020-06-02,1372
+"Slovenia, Total",46.1512,14.9955,2020-06-02,1358
+"Somalia, Total",5.1521,46.1996,2020-06-02,361
+"South Africa, Total",-30.5595,22.9375,2020-06-02,18313
+"Spain, Total",40.0,-4.0,2020-06-02,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-02,823
+"Sudan, Total",12.8628,30.2176,2020-06-02,1625
+"Suriname, Total",3.9193,-56.0278,2020-06-02,9
+"Sweden, Total",63.0,16.0,2020-06-02,0
+"Switzerland, Total",46.8182,8.2275,2020-06-02,28500
+"Syria, Total",34.8021,38.9968,2020-06-02,50
+"Taiwan*, Total",23.7,121.0,2020-06-02,427
+"Tanzania, Total",-6.369,34.8888,2020-06-02,183
+"Thailand, Total",15.0,101.0,2020-06-02,2966
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-02,24
+"Togo, Total",8.6195,0.8248,2020-06-02,230
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-02,108
+"Tunisia, Total",34.0,9.0,2020-06-02,965
+"Turkey, Total",38.9637,35.2433,2020-06-02,129921
+"Uganda, Total",1.0,32.0,2020-06-02,82
+"Ukraine, Total",48.3794,31.1656,2020-06-02,10461
+"United Arab Emirates, Total",24.0,54.0,2020-06-02,18726
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-02,113
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-02,77
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-02,528
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-02,151
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-02,311
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-02,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-02,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-02,691
+"US, Total",37.0902,-95.7129,2020-06-02,463868
+"Uzbekistan, Total",41.3775,64.5853,2020-06-02,2908
+"Venezuela, Total",6.4238,-66.5897,2020-06-02,334
+"Vietnam, Total",16.0,108.0,2020-06-02,298
+"Zambia, Total",-15.4167,28.2833,2020-06-02,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-02,29
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-02,372
+"Laos, Total",19.856270000000002,102.495496,2020-06-02,16
+"Kosovo, Total",42.602636,20.902977,2020-06-02,829
+"Burma, Total",21.9162,95.956,2020-06-02,143
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-02,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-02,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-02,11
+"MS Zaandam, Total",0.0,0.0,2020-06-02,0
+"Botswana, Total",-22.3285,24.6849,2020-06-02,23
+"Burundi, Total",-3.3731,29.9189,2020-06-02,33
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-02,480
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-02,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-02,42
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-02,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-02,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-02,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-02,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-02,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-02,15
+"Comoros, Total",-11.6455,43.3333,2020-06-02,27
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-02,2217
+"Lesotho, Total",-29.609988,28.233608,2020-06-02,1
+"Afghanistan, Total",33.0,65.0,2020-06-03,1522
+"Albania, Total",41.1533,20.1683,2020-06-03,898
+"Algeria, Total",28.0339,1.6596,2020-06-03,6218
+"Andorra, Total",42.5063,1.5218,2020-06-03,735
+"Angola, Total",-11.2027,17.8739,2020-06-03,18
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-03,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-03,5896
+"Armenia, Total",40.0691,45.0382,2020-06-03,3454
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-03,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-03,2700
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-03,29
+"Australia, Queensland",-28.0167,153.4,2020-06-03,1046
+"Australia, South Australia",-34.9285,138.6007,2020-06-03,435
+"Australia, Tasmania",-41.4545,145.9707,2020-06-03,208
+"Australia, Victoria",-37.8136,144.9631,2020-06-03,1569
+"Australia, Western Australia",-31.9505,115.8605,2020-06-03,557
+"Austria, Total",47.5162,14.5501,2020-06-03,15672
+"Azerbaijan, Total",40.1431,47.5769,2020-06-03,3665
+"Bahamas, Total",25.0343,-77.3963,2020-06-03,55
+"Bahrain, Total",26.0275,50.55,2020-06-03,7410
+"Bangladesh, Total",23.685,90.3563,2020-06-03,11590
+"Barbados, Total",13.1939,-59.5432,2020-06-03,81
+"Belarus, Total",53.7098,27.9534,2020-06-03,20171
+"Belgium, Total",50.8333,4.0,2020-06-03,15959
+"Belize, Total",13.1939,-59.5432,2020-06-03,16
+"Benin, Total",9.3077,2.3158,2020-06-03,148
+"Bhutan, Total",27.5142,90.4336,2020-06-03,9
+"Bolivia, Total",-16.2902,-63.5887,2020-06-03,1507
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-03,1939
+"Brazil, Total",-14.235,-51.9253,2020-06-03,238617
+"Brunei, Total",4.5353,114.7277,2020-06-03,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-03,1206
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-03,753
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-03,238
+"Cambodia, Total",11.55,104.9167,2020-06-03,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-03,3676
+"Canada, Total",56.1304,-106.3468,2020-06-03,51506
+"Central African Republic, Total",6.6111,20.9394,2020-06-03,23
+"Chad, Total",15.4542,18.7322,2020-06-03,590
+"Chile, Total",-35.6751,-71.543,2020-06-03,90748
+"China, Anhui",31.8257,117.2264,2020-06-03,985
+"China, Beijing",40.1824,116.4142,2020-06-03,583
+"China, Chongqing",30.0572,107.874,2020-06-03,573
+"China, Fujian",26.0789,117.9874,2020-06-03,356
+"China, Gansu",37.8099,101.0583,2020-06-03,137
+"China, Guangdong",23.3417,113.4244,2020-06-03,1583
+"China, Guangxi",23.8298,108.7881,2020-06-03,252
+"China, Guizhou",26.8154,106.8748,2020-06-03,145
+"China, Hainan",19.1959,109.7453,2020-06-03,163
+"China, Hebei",39.549,116.1306,2020-06-03,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-03,934
+"China, Henan",33.882,113.61399999999999,2020-06-03,1254
+"China, Hong Kong",22.3,114.2,2020-06-03,1039
+"China, Hubei",30.9756,112.2707,2020-06-03,63620
+"China, Hunan",27.6104,111.7088,2020-06-03,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-03,212
+"China, Jiangsu",32.9711,119.455,2020-06-03,653
+"China, Jiangxi",27.614,115.7221,2020-06-03,931
+"China, Jilin",43.6661,126.1923,2020-06-03,148
+"China, Liaoning",41.2956,122.6085,2020-06-03,147
+"China, Macau",22.1667,113.55,2020-06-03,45
+"China, Ningxia",37.2692,106.1655,2020-06-03,75
+"China, Qinghai",35.7452,95.9956,2020-06-03,18
+"China, Shaanxi",35.1917,108.8701,2020-06-03,305
+"China, Shandong",36.3427,118.1498,2020-06-03,780
+"China, Shanghai",31.201999999999998,121.4491,2020-06-03,661
+"China, Shanxi",37.5777,112.2922,2020-06-03,198
+"China, Sichuan",30.6171,102.7103,2020-06-03,558
+"China, Tianjin",39.3054,117.323,2020-06-03,188
+"China, Tibet",31.6927,88.0924,2020-06-03,1
+"China, Xinjiang",41.1129,85.2401,2020-06-03,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-03,183
+"China, Zhejiang",29.1832,120.0934,2020-06-03,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-03,11171
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-03,179
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-03,492
+"Costa Rica, Total",9.7489,-83.7534,2020-06-03,685
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-03,1530
+"Croatia, Total",45.1,15.2,2020-06-03,2095
+"Diamond Princess, Total",0.0,0.0,2020-06-03,651
+"Cuba, Total",22.0,-80.0,2020-06-03,1830
+"Cyprus, Total",35.1264,33.4299,2020-06-03,790
+"Czechia, Total",49.8175,15.472999999999999,2020-06-03,6749
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-03,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-03,11
+"Denmark, Total",56.2639,9.5018,2020-06-03,10552
+"Djibouti, Total",11.8251,42.5903,2020-06-03,1636
+"Dominica, Total",15.415,-61.371,2020-06-03,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-03,11224
+"Ecuador, Total",-1.8312,-78.1834,2020-06-03,20019
+"Egypt, Total",26.0,30.0,2020-06-03,7350
+"El Salvador, Total",13.7942,-88.8965,2020-06-03,1186
+"Equatorial Guinea, Total",1.5,10.0,2020-06-03,200
+"Eritrea, Total",15.1794,39.7823,2020-06-03,39
+"Estonia, Total",58.5953,25.0136,2020-06-03,1650
+"Eswatini, Total",-26.5225,31.4659,2020-06-03,201
+"Ethiopia, Total",9.145,40.4897,2020-06-03,246
+"Fiji, Total",-17.7134,178.065,2020-06-03,15
+"Finland, Total",64.0,26.0,2020-06-03,5500
+"France, French Guiana",3.9339,-53.1258,2020-06-03,254
+"France, French Polynesia",-17.6797,149.4068,2020-06-03,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-03,138
+"France, Martinique",14.6415,-61.0242,2020-06-03,98
+"France, Mayotte",-12.8275,45.1662,2020-06-03,1523
+"France, New Caledonia",-20.9043,165.618,2020-06-03,18
+"France, Reunion",-21.1351,55.2471,2020-06-03,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-03,6
+"France, St Martin",18.0708,-63.0501,2020-06-03,33
+"France, Total",46.2276,2.2137,2020-06-03,67031
+"Gabon, Total",-0.8037,11.6094,2020-06-03,801
+"Gambia, Total",13.4432,-15.3101,2020-06-03,20
+"Georgia, Total",42.3154,43.3569,2020-06-03,640
+"Germany, Total",51.0,9.0,2020-06-03,167453
+"Ghana, Total",7.9465,-1.0232,2020-06-03,3132
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-03,18
+"Greece, Total",39.0742,21.8243,2020-06-03,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-03,929
+"Guinea, Total",9.9456,-9.6966,2020-06-03,2332
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-03,53
+"Guyana, Total",5.0,-58.75,2020-06-03,70
+"Haiti, Total",18.9712,-72.2852,2020-06-03,24
+"Holy See, Total",41.9029,12.4534,2020-06-03,2
+"Honduras, Total",15.2,-86.2419,2020-06-03,617
+"Hungary, Total",47.1625,19.5033,2020-06-03,2190
+"Iceland, Total",64.9631,-19.0208,2020-06-03,1794
+"India, Total",21.0,78.0,2020-06-03,104071
+"Indonesia, Total",-0.7893,113.9213,2020-06-03,8406
+"Iran, Total",32.0,53.0,2020-06-03,125206
+"Iraq, Total",33.0,44.0,2020-06-03,4095
+"Ireland, Total",53.1424,-7.6921,2020-06-03,22698
+"Israel, Total",31.0,35.0,2020-06-03,14983
+"Italy, Total",43.0,12.0,2020-06-03,160938
+"Jamaica, Total",18.1096,-77.2975,2020-06-03,361
+"Japan, Total",36.0,138.0,2020-06-03,14702
+"Jordan, Total",31.24,36.51,2020-06-03,561
+"Kazakhstan, Total",48.0196,66.9237,2020-06-03,6240
+"Kenya, Total",-0.0236,37.9062,2020-06-03,553
+"Korea, South, Total",36.0,128.0,2020-06-03,10499
+"Kuwait, Total",29.5,47.75,2020-06-03,15750
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-03,1265
+"Latvia, Total",56.8796,24.6032,2020-06-03,760
+"Lebanon, Total",33.8547,35.8623,2020-06-03,724
+"Liberia, Total",6.4281,-9.4295,2020-06-03,169
+"Libya, Total",26.3351,17.228331,2020-06-03,52
+"Liechtenstein, Total",47.14,9.55,2020-06-03,55
+"Lithuania, Total",55.1694,23.8813,2020-06-03,1260
+"Luxembourg, Total",49.8153,6.1296,2020-06-03,3861
+"Madagascar, Total",-18.7669,46.8691,2020-06-03,195
+"Malaysia, Total",2.5,112.5,2020-06-03,6531
+"Maldives, Total",3.2028,73.2207,2020-06-03,644
+"Mali, Total",17.570692,-3.996166000000001,2020-06-03,788
+"Malta, Total",35.9375,14.3754,2020-06-03,562
+"Mauritania, Total",21.0079,10.9408,2020-06-03,57
+"Mauritius, Total",-20.2,57.5,2020-06-03,322
+"Mexico, Total",23.6345,-102.5528,2020-06-03,72680
+"Moldova, Total",47.4116,28.3699,2020-06-03,4863
+"Monaco, Total",43.7333,7.4167,2020-06-03,90
+"Mongolia, Total",46.8625,103.8467,2020-06-03,44
+"Montenegro, Total",42.5,19.3,2020-06-03,315
+"Morocco, Total",31.7917,-7.0926,2020-06-03,6866
+"Mozambique, Total",-18.6657,35.5296,2020-06-03,109
+"Namibia, Total",-22.9576,18.4904,2020-06-03,16
+"Nepal, Total",28.1667,84.25,2020-06-03,278
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-03,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-03,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-03,60
+"Netherlands, Total",52.1326,5.2913,2020-06-03,0
+"New Zealand, Total",-40.9006,174.886,2020-06-03,1481
+"Nicaragua, Total",12.8654,-85.2072,2020-06-03,370
+"Niger, Total",17.6078,8.0817,2020-06-03,857
+"Nigeria, Total",9.082,8.6753,2020-06-03,3329
+"North Macedonia, Total",41.6086,21.7453,2020-06-03,1605
+"Norway, Total",60.472,8.4689,2020-06-03,7727
+"Oman, Total",21.0,57.0,2020-06-03,2845
+"Pakistan, Total",30.3753,69.3451,2020-06-03,30128
+"Panama, Total",8.538,-80.7821,2020-06-03,9519
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-03,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-03,511
+"Peru, Total",-9.19,-75.0152,2020-06-03,72319
+"Philippines, Total",13.0,122.0,2020-06-03,4153
+"Poland, Total",51.9194,19.1451,2020-06-03,12014
+"Portugal, Total",39.3999,-8.2245,2020-06-03,20079
+"Qatar, Total",25.3548,51.1839,2020-06-03,37542
+"Romania, Total",45.9432,24.9668,2020-06-03,13800
+"Russia, Total",60.0,90.0,2020-06-03,195559
+"Rwanda, Total",-1.9403,29.8739,2020-06-03,271
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-03,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-03,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-03,15
+"San Marino, Total",43.9424,12.4578,2020-06-03,391
+"Saudi Arabia, Total",24.0,45.0,2020-06-03,68159
+"Senegal, Total",14.4974,-14.4524,2020-06-03,2063
+"Serbia, Total",44.0165,21.0059,2020-06-03,6852
+"Seychelles, Total",-4.6796,55.492,2020-06-03,11
+"Singapore, Total",1.2833,103.8333,2020-06-03,23582
+"Slovakia, Total",48.669,19.699,2020-06-03,1375
+"Slovenia, Total",46.1512,14.9955,2020-06-03,1358
+"Somalia, Total",5.1521,46.1996,2020-06-03,406
+"South Africa, Total",-30.5595,22.9375,2020-06-03,19682
+"Spain, Total",40.0,-4.0,2020-06-03,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-03,836
+"Sudan, Total",12.8628,30.2176,2020-06-03,1711
+"Suriname, Total",3.9193,-56.0278,2020-06-03,9
+"Sweden, Total",63.0,16.0,2020-06-03,0
+"Switzerland, Total",46.8182,8.2275,2020-06-03,28600
+"Syria, Total",34.8021,38.9968,2020-06-03,53
+"Taiwan*, Total",23.7,121.0,2020-06-03,428
+"Tanzania, Total",-6.369,34.8888,2020-06-03,183
+"Thailand, Total",15.0,101.0,2020-06-03,2968
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-03,24
+"Togo, Total",8.6195,0.8248,2020-06-03,236
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-03,108
+"Tunisia, Total",34.0,9.0,2020-06-03,965
+"Turkey, Total",38.9637,35.2433,2020-06-03,130852
+"Uganda, Total",1.0,32.0,2020-06-03,82
+"Ukraine, Total",48.3794,31.1656,2020-06-03,10838
+"United Arab Emirates, Total",24.0,54.0,2020-06-03,19153
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-03,113
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-03,78
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-03,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-03,153
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-03,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-03,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-03,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-03,698
+"US, Total",37.0902,-95.7129,2020-06-03,479258
+"Uzbekistan, Total",41.3775,64.5853,2020-06-03,3014
+"Venezuela, Total",6.4238,-66.5897,2020-06-03,334
+"Vietnam, Total",16.0,108.0,2020-06-03,302
+"Zambia, Total",-15.4167,28.2833,2020-06-03,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-03,29
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-03,372
+"Laos, Total",19.856270000000002,102.495496,2020-06-03,18
+"Kosovo, Total",42.602636,20.902977,2020-06-03,871
+"Burma, Total",21.9162,95.956,2020-06-03,145
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-03,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-03,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-03,11
+"MS Zaandam, Total",0.0,0.0,2020-06-03,0
+"Botswana, Total",-22.3285,24.6849,2020-06-03,23
+"Burundi, Total",-3.3731,29.9189,2020-06-03,33
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-03,491
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-03,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-03,51
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-03,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-03,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-03,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-03,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-03,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-03,17
+"Comoros, Total",-11.6455,43.3333,2020-06-03,27
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-03,2347
+"Lesotho, Total",-29.609988,28.233608,2020-06-03,2
+"Afghanistan, Total",33.0,65.0,2020-06-04,1585
+"Albania, Total",41.1533,20.1683,2020-06-04,898
+"Algeria, Total",28.0339,1.6596,2020-06-04,6297
+"Andorra, Total",42.5063,1.5218,2020-06-04,738
+"Angola, Total",-11.2027,17.8739,2020-06-04,18
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-04,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-04,5993
+"Armenia, Total",40.0691,45.0382,2020-06-04,3468
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-04,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-04,2714
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-04,29
+"Australia, Queensland",-28.0167,153.4,2020-06-04,1049
+"Australia, South Australia",-34.9285,138.6007,2020-06-04,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-04,208
+"Australia, Victoria",-37.8136,144.9631,2020-06-04,1586
+"Australia, Western Australia",-31.9505,115.8605,2020-06-04,557
+"Austria, Total",47.5162,14.5501,2020-06-04,15717
+"Azerbaijan, Total",40.1431,47.5769,2020-06-04,3737
+"Bahamas, Total",25.0343,-77.3963,2020-06-04,55
+"Bahrain, Total",26.0275,50.55,2020-06-04,7728
+"Bangladesh, Total",23.685,90.3563,2020-06-04,12161
+"Barbados, Total",13.1939,-59.5432,2020-06-04,81
+"Belarus, Total",53.7098,27.9534,2020-06-04,21162
+"Belgium, Total",50.8333,4.0,2020-06-04,16048
+"Belize, Total",13.1939,-59.5432,2020-06-04,16
+"Benin, Total",9.3077,2.3158,2020-06-04,151
+"Bhutan, Total",27.5142,90.4336,2020-06-04,9
+"Bolivia, Total",-16.2902,-63.5887,2020-06-04,1658
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-04,1951
+"Brazil, Total",-14.235,-51.9253,2020-06-04,254963
+"Brunei, Total",4.5353,114.7277,2020-06-04,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-04,1322
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-04,760
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-04,239
+"Cambodia, Total",11.55,104.9167,2020-06-04,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-04,3705
+"Canada, Total",56.1304,-106.3468,2020-06-04,52184
+"Central African Republic, Total",6.6111,20.9394,2020-06-04,23
+"Chad, Total",15.4542,18.7322,2020-06-04,633
+"Chile, Total",-35.6751,-71.543,2020-06-04,95631
+"China, Anhui",31.8257,117.2264,2020-06-04,985
+"China, Beijing",40.1824,116.4142,2020-06-04,583
+"China, Chongqing",30.0572,107.874,2020-06-04,573
+"China, Fujian",26.0789,117.9874,2020-06-04,356
+"China, Gansu",37.8099,101.0583,2020-06-04,137
+"China, Guangdong",23.3417,113.4244,2020-06-04,1584
+"China, Guangxi",23.8298,108.7881,2020-06-04,252
+"China, Guizhou",26.8154,106.8748,2020-06-04,145
+"China, Hainan",19.1959,109.7453,2020-06-04,163
+"China, Hebei",39.549,116.1306,2020-06-04,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-04,934
+"China, Henan",33.882,113.61399999999999,2020-06-04,1254
+"China, Hong Kong",22.3,114.2,2020-06-04,1042
+"China, Hubei",30.9756,112.2707,2020-06-04,63623
+"China, Hunan",27.6104,111.7088,2020-06-04,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-04,213
+"China, Jiangsu",32.9711,119.455,2020-06-04,653
+"China, Jiangxi",27.614,115.7221,2020-06-04,931
+"China, Jilin",43.6661,126.1923,2020-06-04,149
+"China, Liaoning",41.2956,122.6085,2020-06-04,147
+"China, Macau",22.1667,113.55,2020-06-04,45
+"China, Ningxia",37.2692,106.1655,2020-06-04,75
+"China, Qinghai",35.7452,95.9956,2020-06-04,18
+"China, Shaanxi",35.1917,108.8701,2020-06-04,305
+"China, Shandong",36.3427,118.1498,2020-06-04,780
+"China, Shanghai",31.201999999999998,121.4491,2020-06-04,662
+"China, Shanxi",37.5777,112.2922,2020-06-04,198
+"China, Sichuan",30.6171,102.7103,2020-06-04,558
+"China, Tianjin",39.3054,117.323,2020-06-04,189
+"China, Tibet",31.6927,88.0924,2020-06-04,1
+"China, Xinjiang",41.1129,85.2401,2020-06-04,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-04,183
+"China, Zhejiang",29.1832,120.0934,2020-06-04,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-04,12319
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-04,179
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-04,495
+"Costa Rica, Total",9.7489,-83.7534,2020-06-04,687
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-04,1584
+"Croatia, Total",45.1,15.2,2020-06-04,2105
+"Diamond Princess, Total",0.0,0.0,2020-06-04,651
+"Cuba, Total",22.0,-80.0,2020-06-04,1839
+"Cyprus, Total",35.1264,33.4299,2020-06-04,790
+"Czechia, Total",49.8175,15.472999999999999,2020-06-04,6809
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-04,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-04,13
+"Denmark, Total",56.2639,9.5018,2020-06-04,10620
+"Djibouti, Total",11.8251,42.5903,2020-06-04,1685
+"Dominica, Total",15.415,-61.371,2020-06-04,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-04,11474
+"Ecuador, Total",-1.8312,-78.1834,2020-06-04,20019
+"Egypt, Total",26.0,30.0,2020-06-04,7756
+"El Salvador, Total",13.7942,-88.8965,2020-06-04,1214
+"Equatorial Guinea, Total",1.5,10.0,2020-06-04,200
+"Eritrea, Total",15.1794,39.7823,2020-06-04,39
+"Estonia, Total",58.5953,25.0136,2020-06-04,1663
+"Eswatini, Total",-26.5225,31.4659,2020-06-04,201
+"Ethiopia, Total",9.145,40.4897,2020-06-04,250
+"Fiji, Total",-17.7134,178.065,2020-06-04,18
+"Finland, Total",64.0,26.0,2020-06-04,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-04,296
+"France, French Polynesia",-17.6797,149.4068,2020-06-04,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-04,138
+"France, Martinique",14.6415,-61.0242,2020-06-04,98
+"France, Mayotte",-12.8275,45.1662,2020-06-04,1523
+"France, New Caledonia",-20.9043,165.618,2020-06-04,18
+"France, Reunion",-21.1351,55.2471,2020-06-04,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-04,6
+"France, St Martin",18.0708,-63.0501,2020-06-04,33
+"France, Total",46.2276,2.2137,2020-06-04,67510
+"Gabon, Total",-0.8037,11.6094,2020-06-04,818
+"Gambia, Total",13.4432,-15.3101,2020-06-04,20
+"Georgia, Total",42.3154,43.3569,2020-06-04,644
+"Germany, Total",51.0,9.0,2020-06-04,167909
+"Ghana, Total",7.9465,-1.0232,2020-06-04,3189
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-04,18
+"Greece, Total",39.0742,21.8243,2020-06-04,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-04,979
+"Guinea, Total",9.9456,-9.6966,2020-06-04,2512
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-04,53
+"Guyana, Total",5.0,-58.75,2020-06-04,77
+"Haiti, Total",18.9712,-72.2852,2020-06-04,24
+"Holy See, Total",41.9029,12.4534,2020-06-04,2
+"Honduras, Total",15.2,-86.2419,2020-06-04,648
+"Hungary, Total",47.1625,19.5033,2020-06-04,2205
+"Iceland, Total",64.9631,-19.0208,2020-06-04,1794
+"India, Total",21.0,78.0,2020-06-04,108450
+"Indonesia, Total",-0.7893,113.9213,2020-06-04,8892
+"Iran, Total",32.0,53.0,2020-06-04,127485
+"Iraq, Total",33.0,44.0,2020-06-04,4338
+"Ireland, Total",53.1424,-7.6921,2020-06-04,22698
+"Israel, Total",31.0,35.0,2020-06-04,15013
+"Italy, Total",43.0,12.0,2020-06-04,161895
+"Jamaica, Total",18.1096,-77.2975,2020-06-04,368
+"Japan, Total",36.0,138.0,2020-06-04,14785
+"Jordan, Total",31.24,36.51,2020-06-04,566
+"Kazakhstan, Total",48.0196,66.9237,2020-06-04,6606
+"Kenya, Total",-0.0236,37.9062,2020-06-04,592
+"Korea, South, Total",36.0,128.0,2020-06-04,10506
+"Kuwait, Total",29.5,47.75,2020-06-04,17223
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-04,1292
+"Latvia, Total",56.8796,24.6032,2020-06-04,760
+"Lebanon, Total",33.8547,35.8623,2020-06-04,731
+"Liberia, Total",6.4281,-9.4295,2020-06-04,175
+"Libya, Total",26.3351,17.228331,2020-06-04,52
+"Liechtenstein, Total",47.14,9.55,2020-06-04,55
+"Lithuania, Total",55.1694,23.8813,2020-06-04,1273
+"Luxembourg, Total",49.8153,6.1296,2020-06-04,3874
+"Madagascar, Total",-18.7669,46.8691,2020-06-04,200
+"Malaysia, Total",2.5,112.5,2020-06-04,6559
+"Maldives, Total",3.2028,73.2207,2020-06-04,648
+"Mali, Total",17.570692,-3.996166000000001,2020-06-04,806
+"Malta, Total",35.9375,14.3754,2020-06-04,576
+"Mauritania, Total",21.0079,10.9408,2020-06-04,65
+"Mauritius, Total",-20.2,57.5,2020-06-04,322
+"Mexico, Total",23.6345,-102.5528,2020-06-04,74758
+"Moldova, Total",47.4116,28.3699,2020-06-04,5009
+"Monaco, Total",43.7333,7.4167,2020-06-04,92
+"Mongolia, Total",46.8625,103.8467,2020-06-04,65
+"Montenegro, Total",42.5,19.3,2020-06-04,315
+"Morocco, Total",31.7917,-7.0926,2020-06-04,7195
+"Mozambique, Total",-18.6657,35.5296,2020-06-04,114
+"Namibia, Total",-22.9576,18.4904,2020-06-04,16
+"Nepal, Total",28.1667,84.25,2020-06-04,290
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-04,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-04,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-04,60
+"Netherlands, Total",52.1326,5.2913,2020-06-04,0
+"New Zealand, Total",-40.9006,174.886,2020-06-04,1481
+"Nicaragua, Total",12.8654,-85.2072,2020-06-04,370
+"Niger, Total",17.6078,8.0817,2020-06-04,860
+"Nigeria, Total",9.082,8.6753,2020-06-04,3535
+"North Macedonia, Total",41.6086,21.7453,2020-06-04,1621
+"Norway, Total",60.472,8.4689,2020-06-04,8138
+"Oman, Total",21.0,57.0,2020-06-04,3451
+"Pakistan, Total",30.3753,69.3451,2020-06-04,31198
+"Panama, Total",8.538,-80.7821,2020-06-04,9619
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-04,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-04,511
+"Peru, Total",-9.19,-75.0152,2020-06-04,76228
+"Philippines, Total",13.0,122.0,2020-06-04,4248
+"Poland, Total",51.9194,19.1451,2020-06-04,12227
+"Portugal, Total",39.3999,-8.2245,2020-06-04,20323
+"Qatar, Total",25.3548,51.1839,2020-06-04,39468
+"Romania, Total",45.9432,24.9668,2020-06-04,13919
+"Russia, Total",60.0,90.0,2020-06-04,204197
+"Rwanda, Total",-1.9403,29.8739,2020-06-04,280
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-04,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-04,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-04,15
+"San Marino, Total",43.9424,12.4578,2020-06-04,408
+"Saudi Arabia, Total",24.0,45.0,2020-06-04,68965
+"Senegal, Total",14.4974,-14.4524,2020-06-04,2162
+"Serbia, Total",44.0165,21.0059,2020-06-04,6910
+"Seychelles, Total",-4.6796,55.492,2020-06-04,11
+"Singapore, Total",1.2833,103.8333,2020-06-04,23904
+"Slovakia, Total",48.669,19.699,2020-06-04,1376
+"Slovenia, Total",46.1512,14.9955,2020-06-04,1359
+"Somalia, Total",5.1521,46.1996,2020-06-04,418
+"South Africa, Total",-30.5595,22.9375,2020-06-04,21311
+"Spain, Total",40.0,-4.0,2020-06-04,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-04,839
+"Sudan, Total",12.8628,30.2176,2020-06-04,1825
+"Suriname, Total",3.9193,-56.0278,2020-06-04,9
+"Sweden, Total",63.0,16.0,2020-06-04,0
+"Switzerland, Total",46.8182,8.2275,2020-06-04,28600
+"Syria, Total",34.8021,38.9968,2020-06-04,53
+"Taiwan*, Total",23.7,121.0,2020-06-04,428
+"Tanzania, Total",-6.369,34.8888,2020-06-04,183
+"Thailand, Total",15.0,101.0,2020-06-04,2968
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-04,24
+"Togo, Total",8.6195,0.8248,2020-06-04,239
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-04,108
+"Tunisia, Total",34.0,9.0,2020-06-04,968
+"Turkey, Total",38.9637,35.2433,2020-06-04,131778
+"Uganda, Total",1.0,32.0,2020-06-04,82
+"Ukraine, Total",48.3794,31.1656,2020-06-04,11468
+"United Arab Emirates, Total",24.0,54.0,2020-06-04,19572
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-04,113
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-04,85
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-04,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-04,153
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-04,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-04,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-04,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-04,709
+"US, Total",37.0902,-95.7129,2020-06-04,485002
+"Uzbekistan, Total",41.3775,64.5853,2020-06-04,3087
+"Venezuela, Total",6.4238,-66.5897,2020-06-04,334
+"Vietnam, Total",16.0,108.0,2020-06-04,302
+"Zambia, Total",-15.4167,28.2833,2020-06-04,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-04,31
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-04,377
+"Laos, Total",19.856270000000002,102.495496,2020-06-04,18
+"Kosovo, Total",42.602636,20.902977,2020-06-04,871
+"Burma, Total",21.9162,95.956,2020-06-04,148
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-04,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-04,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-04,11
+"MS Zaandam, Total",0.0,0.0,2020-06-04,0
+"Botswana, Total",-22.3285,24.6849,2020-06-04,23
+"Burundi, Total",-3.3731,29.9189,2020-06-04,33
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-04,491
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-04,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-04,51
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-04,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-04,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-04,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-04,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-04,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-04,17
+"Comoros, Total",-11.6455,43.3333,2020-06-04,55
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-04,2401
+"Lesotho, Total",-29.609988,28.233608,2020-06-04,2
+"Afghanistan, Total",33.0,65.0,2020-06-05,1762
+"Albania, Total",41.1533,20.1683,2020-06-05,910
+"Algeria, Total",28.0339,1.6596,2020-06-05,6453
+"Andorra, Total",42.5063,1.5218,2020-06-05,741
+"Angola, Total",-11.2027,17.8739,2020-06-05,21
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-05,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-05,6088
+"Armenia, Total",40.0691,45.0382,2020-06-05,3513
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-05,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-05,2719
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-05,29
+"Australia, Queensland",-28.0167,153.4,2020-06-05,1049
+"Australia, South Australia",-34.9285,138.6007,2020-06-05,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-05,208
+"Australia, Victoria",-37.8136,144.9631,2020-06-05,1586
+"Australia, Western Australia",-31.9505,115.8605,2020-06-05,557
+"Austria, Total",47.5162,14.5501,2020-06-05,15742
+"Azerbaijan, Total",40.1431,47.5769,2020-06-05,3871
+"Bahamas, Total",25.0343,-77.3963,2020-06-05,55
+"Bahrain, Total",26.0275,50.55,2020-06-05,8585
+"Bangladesh, Total",23.685,90.3563,2020-06-05,12804
+"Barbados, Total",13.1939,-59.5432,2020-06-05,81
+"Belarus, Total",53.7098,27.9534,2020-06-05,22066
+"Belgium, Total",50.8333,4.0,2020-06-05,16112
+"Belize, Total",13.1939,-59.5432,2020-06-05,16
+"Benin, Total",9.3077,2.3158,2020-06-05,151
+"Bhutan, Total",27.5142,90.4336,2020-06-05,11
+"Bolivia, Total",-16.2902,-63.5887,2020-06-05,1739
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-05,1968
+"Brazil, Total",-14.235,-51.9253,2020-06-05,266940
+"Brunei, Total",4.5353,114.7277,2020-06-05,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-05,1390
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-05,760
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-05,239
+"Cambodia, Total",11.55,104.9167,2020-06-05,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-05,4575
+"Canada, Total",56.1304,-106.3468,2020-06-05,53074
+"Central African Republic, Total",6.6111,20.9394,2020-06-05,29
+"Chad, Total",15.4542,18.7322,2020-06-05,657
+"Chile, Total",-35.6751,-71.543,2020-06-05,99358
+"China, Anhui",31.8257,117.2264,2020-06-05,985
+"China, Beijing",40.1824,116.4142,2020-06-05,583
+"China, Chongqing",30.0572,107.874,2020-06-05,573
+"China, Fujian",26.0789,117.9874,2020-06-05,356
+"China, Gansu",37.8099,101.0583,2020-06-05,137
+"China, Guangdong",23.3417,113.4244,2020-06-05,1584
+"China, Guangxi",23.8298,108.7881,2020-06-05,252
+"China, Guizhou",26.8154,106.8748,2020-06-05,145
+"China, Hainan",19.1959,109.7453,2020-06-05,163
+"China, Hebei",39.549,116.1306,2020-06-05,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-05,934
+"China, Henan",33.882,113.61399999999999,2020-06-05,1254
+"China, Hong Kong",22.3,114.2,2020-06-05,1045
+"China, Hubei",30.9756,112.2707,2020-06-05,63623
+"China, Hunan",27.6104,111.7088,2020-06-05,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-05,213
+"China, Jiangsu",32.9711,119.455,2020-06-05,653
+"China, Jiangxi",27.614,115.7221,2020-06-05,931
+"China, Jilin",43.6661,126.1923,2020-06-05,150
+"China, Liaoning",41.2956,122.6085,2020-06-05,147
+"China, Macau",22.1667,113.55,2020-06-05,45
+"China, Ningxia",37.2692,106.1655,2020-06-05,75
+"China, Qinghai",35.7452,95.9956,2020-06-05,18
+"China, Shaanxi",35.1917,108.8701,2020-06-05,305
+"China, Shandong",36.3427,118.1498,2020-06-05,780
+"China, Shanghai",31.201999999999998,121.4491,2020-06-05,663
+"China, Shanxi",37.5777,112.2922,2020-06-05,198
+"China, Sichuan",30.6171,102.7103,2020-06-05,558
+"China, Tianjin",39.3054,117.323,2020-06-05,189
+"China, Tibet",31.6927,88.0924,2020-06-05,1
+"China, Xinjiang",41.1129,85.2401,2020-06-05,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-05,183
+"China, Zhejiang",29.1832,120.0934,2020-06-05,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-05,13670
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-05,182
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-05,512
+"Costa Rica, Total",9.7489,-83.7534,2020-06-05,695
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-05,1604
+"Croatia, Total",45.1,15.2,2020-06-05,2113
+"Diamond Princess, Total",0.0,0.0,2020-06-05,651
+"Cuba, Total",22.0,-80.0,2020-06-05,1848
+"Cyprus, Total",35.1264,33.4299,2020-06-05,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-05,6881
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-05,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-05,13
+"Denmark, Total",56.2639,9.5018,2020-06-05,10653
+"Djibouti, Total",11.8251,42.5903,2020-06-05,1707
+"Dominica, Total",15.415,-61.371,2020-06-05,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-05,11736
+"Ecuador, Total",-1.8312,-78.1834,2020-06-05,20568
+"Egypt, Total",26.0,30.0,2020-06-05,8158
+"El Salvador, Total",13.7942,-88.8965,2020-06-05,1249
+"Equatorial Guinea, Total",1.5,10.0,2020-06-05,200
+"Eritrea, Total",15.1794,39.7823,2020-06-05,39
+"Estonia, Total",58.5953,25.0136,2020-06-05,1667
+"Eswatini, Total",-26.5225,31.4659,2020-06-05,221
+"Ethiopia, Total",9.145,40.4897,2020-06-05,262
+"Fiji, Total",-17.7134,178.065,2020-06-05,18
+"Finland, Total",64.0,26.0,2020-06-05,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-05,321
+"France, French Polynesia",-17.6797,149.4068,2020-06-05,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-05,144
+"France, Martinique",14.6415,-61.0242,2020-06-05,98
+"France, Mayotte",-12.8275,45.1662,2020-06-05,1523
+"France, New Caledonia",-20.9043,165.618,2020-06-05,18
+"France, Reunion",-21.1351,55.2471,2020-06-05,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-05,6
+"France, St Martin",18.0708,-63.0501,2020-06-05,33
+"France, Total",46.2276,2.2137,2020-06-05,68007
+"Gabon, Total",-0.8037,11.6094,2020-06-05,833
+"Gambia, Total",13.4432,-15.3101,2020-06-05,21
+"Georgia, Total",42.3154,43.3569,2020-06-05,650
+"Germany, Total",51.0,9.0,2020-06-05,168480
+"Ghana, Total",7.9465,-1.0232,2020-06-05,3457
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-05,22
+"Greece, Total",39.0742,21.8243,2020-06-05,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-05,1053
+"Guinea, Total",9.9456,-9.6966,2020-06-05,2667
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-05,153
+"Guyana, Total",5.0,-58.75,2020-06-05,77
+"Haiti, Total",18.9712,-72.2852,2020-06-05,24
+"Holy See, Total",41.9029,12.4534,2020-06-05,2
+"Honduras, Total",15.2,-86.2419,2020-06-05,677
+"Hungary, Total",47.1625,19.5033,2020-06-05,2245
+"Iceland, Total",64.9631,-19.0208,2020-06-05,1794
+"India, Total",21.0,78.0,2020-06-05,113233
+"Indonesia, Total",-0.7893,113.9213,2020-06-05,9443
+"Iran, Total",32.0,53.0,2020-06-05,129741
+"Iraq, Total",33.0,44.0,2020-06-05,4573
+"Ireland, Total",53.1424,-7.6921,2020-06-05,22698
+"Israel, Total",31.0,35.0,2020-06-05,15026
+"Italy, Total",43.0,12.0,2020-06-05,163781
+"Jamaica, Total",18.1096,-77.2975,2020-06-05,385
+"Japan, Total",36.0,138.0,2020-06-05,14925
+"Jordan, Total",31.24,36.51,2020-06-05,571
+"Kazakhstan, Total",48.0196,66.9237,2020-06-05,6903
+"Kenya, Total",-0.0236,37.9062,2020-06-05,643
+"Korea, South, Total",36.0,128.0,2020-06-05,10531
+"Kuwait, Total",29.5,47.75,2020-06-05,18277
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-05,1340
+"Latvia, Total",56.8796,24.6032,2020-06-05,781
+"Lebanon, Total",33.8547,35.8623,2020-06-05,768
+"Liberia, Total",6.4281,-9.4295,2020-06-05,176
+"Libya, Total",26.3351,17.228331,2020-06-05,52
+"Liechtenstein, Total",47.14,9.55,2020-06-05,55
+"Lithuania, Total",55.1694,23.8813,2020-06-05,1302
+"Luxembourg, Total",49.8153,6.1296,2020-06-05,3885
+"Madagascar, Total",-18.7669,46.8691,2020-06-05,201
+"Malaysia, Total",2.5,112.5,2020-06-05,6610
+"Maldives, Total",3.2028,73.2207,2020-06-05,717
+"Mali, Total",17.570692,-3.996166000000001,2020-06-05,816
+"Malta, Total",35.9375,14.3754,2020-06-05,583
+"Mauritania, Total",21.0079,10.9408,2020-06-05,69
+"Mauritius, Total",-20.2,57.5,2020-06-05,324
+"Mexico, Total",23.6345,-102.5528,2020-06-05,77841
+"Moldova, Total",47.4116,28.3699,2020-06-05,5240
+"Monaco, Total",43.7333,7.4167,2020-06-05,93
+"Mongolia, Total",46.8625,103.8467,2020-06-05,70
+"Montenegro, Total",42.5,19.3,2020-06-05,315
+"Morocco, Total",31.7917,-7.0926,2020-06-05,7268
+"Mozambique, Total",-18.6657,35.5296,2020-06-05,119
+"Namibia, Total",-22.9576,18.4904,2020-06-05,16
+"Nepal, Total",28.1667,84.25,2020-06-05,333
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-05,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-05,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-05,61
+"Netherlands, Total",52.1326,5.2913,2020-06-05,0
+"New Zealand, Total",-40.9006,174.886,2020-06-05,1481
+"Nicaragua, Total",12.8654,-85.2072,2020-06-05,370
+"Niger, Total",17.6078,8.0817,2020-06-05,863
+"Nigeria, Total",9.082,8.6753,2020-06-05,3696
+"North Macedonia, Total",41.6086,21.7453,2020-06-05,1632
+"Norway, Total",60.472,8.4689,2020-06-05,8138
+"Oman, Total",21.0,57.0,2020-06-05,3451
+"Pakistan, Total",30.3753,69.3451,2020-06-05,32581
+"Panama, Total",8.538,-80.7821,2020-06-05,9719
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-05,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-05,516
+"Peru, Total",-9.19,-75.0152,2020-06-05,79214
+"Philippines, Total",13.0,122.0,2020-06-05,4330
+"Poland, Total",51.9194,19.1451,2020-06-05,12410
+"Portugal, Total",39.3999,-8.2245,2020-06-05,20526
+"Qatar, Total",25.3548,51.1839,2020-06-05,40935
+"Romania, Total",45.9432,24.9668,2020-06-05,14145
+"Russia, Total",60.0,90.0,2020-06-05,212237
+"Rwanda, Total",-1.9403,29.8739,2020-06-05,282
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-05,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-05,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-05,15
+"San Marino, Total",43.9424,12.4578,2020-06-05,428
+"Saudi Arabia, Total",24.0,45.0,2020-06-05,70616
+"Senegal, Total",14.4974,-14.4524,2020-06-05,2276
+"Serbia, Total",44.0165,21.0059,2020-06-05,6931
+"Seychelles, Total",-4.6796,55.492,2020-06-05,11
+"Singapore, Total",1.2833,103.8333,2020-06-05,24209
+"Slovakia, Total",48.669,19.699,2020-06-05,1379
+"Slovenia, Total",46.1512,14.9955,2020-06-05,1359
+"Somalia, Total",5.1521,46.1996,2020-06-05,418
+"South Africa, Total",-30.5595,22.9375,2020-06-05,23088
+"Spain, Total",40.0,-4.0,2020-06-05,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-05,858
+"Sudan, Total",12.8628,30.2176,2020-06-05,1924
+"Suriname, Total",3.9193,-56.0278,2020-06-05,9
+"Sweden, Total",63.0,16.0,2020-06-05,0
+"Switzerland, Total",46.8182,8.2275,2020-06-05,28600
+"Syria, Total",34.8021,38.9968,2020-06-05,53
+"Taiwan*, Total",23.7,121.0,2020-06-05,429
+"Tanzania, Total",-6.369,34.8888,2020-06-05,183
+"Thailand, Total",15.0,101.0,2020-06-05,2971
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-05,24
+"Togo, Total",8.6195,0.8248,2020-06-05,240
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-05,108
+"Tunisia, Total",34.0,9.0,2020-06-05,969
+"Turkey, Total",38.9637,35.2433,2020-06-05,133400
+"Uganda, Total",1.0,32.0,2020-06-05,82
+"Ukraine, Total",48.3794,31.1656,2020-06-05,11815
+"United Arab Emirates, Total",24.0,54.0,2020-06-05,20337
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-05,114
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-05,93
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-05,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-05,153
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-05,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-05,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-05,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-05,721
+"US, Total",37.0902,-95.7129,2020-06-05,491706
+"Uzbekistan, Total",41.3775,64.5853,2020-06-05,3247
+"Venezuela, Total",6.4238,-66.5897,2020-06-05,334
+"Vietnam, Total",16.0,108.0,2020-06-05,307
+"Zambia, Total",-15.4167,28.2833,2020-06-05,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-05,33
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-05,377
+"Laos, Total",19.856270000000002,102.495496,2020-06-05,18
+"Kosovo, Total",42.602636,20.902977,2020-06-05,871
+"Burma, Total",21.9162,95.956,2020-06-05,151
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-05,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-05,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-05,11
+"MS Zaandam, Total",0.0,0.0,2020-06-05,0
+"Botswana, Total",-22.3285,24.6849,2020-06-05,23
+"Burundi, Total",-3.3731,29.9189,2020-06-05,33
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-05,580
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-05,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-05,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-05,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-05,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-05,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-05,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-05,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-05,23
+"Comoros, Total",-11.6455,43.3333,2020-06-05,55
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-05,2491
+"Lesotho, Total",-29.609988,28.233608,2020-06-05,2
+"Afghanistan, Total",33.0,65.0,2020-06-06,1830
+"Albania, Total",41.1533,20.1683,2020-06-06,925
+"Algeria, Total",28.0339,1.6596,2020-06-06,6631
+"Andorra, Total",42.5063,1.5218,2020-06-06,741
+"Angola, Total",-11.2027,17.8739,2020-06-06,24
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-06,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-06,6180
+"Armenia, Total",40.0691,45.0382,2020-06-06,3720
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-06,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-06,2723
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-06,29
+"Australia, Queensland",-28.0167,153.4,2020-06-06,1050
+"Australia, South Australia",-34.9285,138.6007,2020-06-06,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-06,209
+"Australia, Victoria",-37.8136,144.9631,2020-06-06,1593
+"Australia, Western Australia",-31.9505,115.8605,2020-06-06,559
+"Austria, Total",47.5162,14.5501,2020-06-06,15789
+"Azerbaijan, Total",40.1431,47.5769,2020-06-06,4024
+"Bahamas, Total",25.0343,-77.3963,2020-06-06,62
+"Bahrain, Total",26.0275,50.55,2020-06-06,9056
+"Bangladesh, Total",23.685,90.3563,2020-06-06,13325
+"Barbados, Total",13.1939,-59.5432,2020-06-06,81
+"Belarus, Total",53.7098,27.9534,2020-06-06,23015
+"Belgium, Total",50.8333,4.0,2020-06-06,16190
+"Belize, Total",13.1939,-59.5432,2020-06-06,16
+"Benin, Total",9.3077,2.3158,2020-06-06,151
+"Bhutan, Total",27.5142,90.4336,2020-06-06,11
+"Bolivia, Total",-16.2902,-63.5887,2020-06-06,1902
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-06,1968
+"Brazil, Total",-14.235,-51.9253,2020-06-06,277149
+"Brunei, Total",4.5353,114.7277,2020-06-06,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-06,1545
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-06,765
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-06,240
+"Cambodia, Total",11.55,104.9167,2020-06-06,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-06,4587
+"Canada, Total",56.1304,-106.3468,2020-06-06,54087
+"Central African Republic, Total",6.6111,20.9394,2020-06-06,37
+"Chad, Total",15.4542,18.7322,2020-06-06,672
+"Chile, Total",-35.6751,-71.543,2020-06-06,103817
+"China, Anhui",31.8257,117.2264,2020-06-06,985
+"China, Beijing",40.1824,116.4142,2020-06-06,583
+"China, Chongqing",30.0572,107.874,2020-06-06,573
+"China, Fujian",26.0789,117.9874,2020-06-06,356
+"China, Gansu",37.8099,101.0583,2020-06-06,137
+"China, Guangdong",23.3417,113.4244,2020-06-06,1584
+"China, Guangxi",23.8298,108.7881,2020-06-06,252
+"China, Guizhou",26.8154,106.8748,2020-06-06,145
+"China, Hainan",19.1959,109.7453,2020-06-06,162
+"China, Hebei",39.549,116.1306,2020-06-06,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-06,934
+"China, Henan",33.882,113.61399999999999,2020-06-06,1254
+"China, Hong Kong",22.3,114.2,2020-06-06,1048
+"China, Hubei",30.9756,112.2707,2020-06-06,63623
+"China, Hunan",27.6104,111.7088,2020-06-06,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-06,213
+"China, Jiangsu",32.9711,119.455,2020-06-06,653
+"China, Jiangxi",27.614,115.7221,2020-06-06,931
+"China, Jilin",43.6661,126.1923,2020-06-06,151
+"China, Liaoning",41.2956,122.6085,2020-06-06,147
+"China, Macau",22.1667,113.55,2020-06-06,45
+"China, Ningxia",37.2692,106.1655,2020-06-06,75
+"China, Qinghai",35.7452,95.9956,2020-06-06,18
+"China, Shaanxi",35.1917,108.8701,2020-06-06,305
+"China, Shandong",36.3427,118.1498,2020-06-06,780
+"China, Shanghai",31.201999999999998,121.4491,2020-06-06,664
+"China, Shanxi",37.5777,112.2922,2020-06-06,198
+"China, Sichuan",30.6171,102.7103,2020-06-06,558
+"China, Tianjin",39.3054,117.323,2020-06-06,189
+"China, Tibet",31.6927,88.0924,2020-06-06,1
+"China, Xinjiang",41.1129,85.2401,2020-06-06,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-06,183
+"China, Zhejiang",29.1832,120.0934,2020-06-06,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-06,13670
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-06,210
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-06,537
+"Costa Rica, Total",9.7489,-83.7534,2020-06-06,701
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-06,1750
+"Croatia, Total",45.1,15.2,2020-06-06,2121
+"Diamond Princess, Total",0.0,0.0,2020-06-06,651
+"Cuba, Total",22.0,-80.0,2020-06-06,1855
+"Cyprus, Total",35.1264,33.4299,2020-06-06,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-06,6885
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-06,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-06,13
+"Denmark, Total",56.2639,9.5018,2020-06-06,10721
+"Djibouti, Total",11.8251,42.5903,2020-06-06,1815
+"Dominica, Total",15.415,-61.371,2020-06-06,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-06,11919
+"Ecuador, Total",-1.8312,-78.1834,2020-06-06,21020
+"Egypt, Total",26.0,30.0,2020-06-06,8538
+"El Salvador, Total",13.7942,-88.8965,2020-06-06,1281
+"Equatorial Guinea, Total",1.5,10.0,2020-06-06,200
+"Eritrea, Total",15.1794,39.7823,2020-06-06,39
+"Estonia, Total",58.5953,25.0136,2020-06-06,1675
+"Eswatini, Total",-26.5225,31.4659,2020-06-06,224
+"Ethiopia, Total",9.145,40.4897,2020-06-06,281
+"Fiji, Total",-17.7134,178.065,2020-06-06,18
+"Finland, Total",64.0,26.0,2020-06-06,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-06,348
+"France, French Polynesia",-17.6797,149.4068,2020-06-06,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-06,144
+"France, Martinique",14.6415,-61.0242,2020-06-06,98
+"France, Mayotte",-12.8275,45.1662,2020-06-06,1523
+"France, New Caledonia",-20.9043,165.618,2020-06-06,18
+"France, Reunion",-21.1351,55.2471,2020-06-06,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-06,6
+"France, St Martin",18.0708,-63.0501,2020-06-06,33
+"France, Total",46.2276,2.2137,2020-06-06,68282
+"Gabon, Total",-0.8037,11.6094,2020-06-06,833
+"Gambia, Total",13.4432,-15.3101,2020-06-06,21
+"Georgia, Total",42.3154,43.3569,2020-06-06,663
+"Germany, Total",51.0,9.0,2020-06-06,168958
+"Ghana, Total",7.9465,-1.0232,2020-06-06,3547
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-06,22
+"Greece, Total",39.0742,21.8243,2020-06-06,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-06,1133
+"Guinea, Total",9.9456,-9.6966,2020-06-06,2857
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-06,153
+"Guyana, Total",5.0,-58.75,2020-06-06,80
+"Haiti, Total",18.9712,-72.2852,2020-06-06,24
+"Holy See, Total",41.9029,12.4534,2020-06-06,12
+"Honduras, Total",15.2,-86.2419,2020-06-06,697
+"Hungary, Total",47.1625,19.5033,2020-06-06,2279
+"Iceland, Total",64.9631,-19.0208,2020-06-06,1794
+"India, Total",21.0,78.0,2020-06-06,118695
+"Indonesia, Total",-0.7893,113.9213,2020-06-06,9907
+"Iran, Total",32.0,53.0,2020-06-06,132038
+"Iraq, Total",33.0,44.0,2020-06-06,4904
+"Ireland, Total",53.1424,-7.6921,2020-06-06,22698
+"Israel, Total",31.0,35.0,2020-06-06,15042
+"Italy, Total",43.0,12.0,2020-06-06,165078
+"Jamaica, Total",18.1096,-77.2975,2020-06-06,404
+"Japan, Total",36.0,138.0,2020-06-06,14927
+"Jordan, Total",31.24,36.51,2020-06-06,586
+"Kazakhstan, Total",48.0196,66.9237,2020-06-06,7135
+"Kenya, Total",-0.0236,37.9062,2020-06-06,706
+"Korea, South, Total",36.0,128.0,2020-06-06,10552
+"Kuwait, Total",29.5,47.75,2020-06-06,19282
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-06,1360
+"Latvia, Total",56.8796,24.6032,2020-06-06,781
+"Lebanon, Total",33.8547,35.8623,2020-06-06,768
+"Liberia, Total",6.4281,-9.4295,2020-06-06,185
+"Libya, Total",26.3351,17.228331,2020-06-06,52
+"Liechtenstein, Total",47.14,9.55,2020-06-06,55
+"Lithuania, Total",55.1694,23.8813,2020-06-06,1321
+"Luxembourg, Total",49.8153,6.1296,2020-06-06,3888
+"Madagascar, Total",-18.7669,46.8691,2020-06-06,212
+"Malaysia, Total",2.5,112.5,2020-06-06,6635
+"Maldives, Total",3.2028,73.2207,2020-06-06,763
+"Mali, Total",17.570692,-3.996166000000001,2020-06-06,845
+"Malta, Total",35.9375,14.3754,2020-06-06,596
+"Mauritania, Total",21.0079,10.9408,2020-06-06,104
+"Mauritius, Total",-20.2,57.5,2020-06-06,324
+"Mexico, Total",23.6345,-102.5528,2020-06-06,80830
+"Moldova, Total",47.4116,28.3699,2020-06-06,5450
+"Monaco, Total",43.7333,7.4167,2020-06-06,93
+"Mongolia, Total",46.8625,103.8467,2020-06-06,75
+"Montenegro, Total",42.5,19.3,2020-06-06,315
+"Morocco, Total",31.7917,-7.0926,2020-06-06,7315
+"Mozambique, Total",-18.6657,35.5296,2020-06-06,126
+"Namibia, Total",-22.9576,18.4904,2020-06-06,16
+"Nepal, Total",28.1667,84.25,2020-06-06,365
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-06,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-06,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-06,61
+"Netherlands, Total",52.1326,5.2913,2020-06-06,0
+"New Zealand, Total",-40.9006,174.886,2020-06-06,1481
+"Nicaragua, Total",12.8654,-85.2072,2020-06-06,370
+"Niger, Total",17.6078,8.0817,2020-06-06,867
+"Nigeria, Total",9.082,8.6753,2020-06-06,3826
+"North Macedonia, Total",41.6086,21.7453,2020-06-06,1640
+"Norway, Total",60.472,8.4689,2020-06-06,8138
+"Oman, Total",21.0,57.0,2020-06-06,3451
+"Pakistan, Total",30.3753,69.3451,2020-06-06,33465
+"Panama, Total",8.538,-80.7821,2020-06-06,10118
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-06,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-06,532
+"Peru, Total",-9.19,-75.0152,2020-06-06,82731
+"Philippines, Total",13.0,122.0,2020-06-06,4441
+"Poland, Total",51.9194,19.1451,2020-06-06,12641
+"Portugal, Total",39.3999,-8.2245,2020-06-06,20807
+"Qatar, Total",25.3548,51.1839,2020-06-06,42527
+"Romania, Total",45.9432,24.9668,2020-06-06,14419
+"Russia, Total",60.0,90.0,2020-06-06,220935
+"Rwanda, Total",-1.9403,29.8739,2020-06-06,283
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-06,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-06,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-06,15
+"San Marino, Total",43.9424,12.4578,2020-06-06,428
+"Saudi Arabia, Total",24.0,45.0,2020-06-06,71791
+"Senegal, Total",14.4974,-14.4524,2020-06-06,2512
+"Serbia, Total",44.0165,21.0059,2020-06-06,11056
+"Seychelles, Total",-4.6796,55.492,2020-06-06,11
+"Singapore, Total",1.2833,103.8333,2020-06-06,24559
+"Slovakia, Total",48.669,19.699,2020-06-06,1379
+"Slovenia, Total",46.1512,14.9955,2020-06-06,1359
+"Somalia, Total",5.1521,46.1996,2020-06-06,431
+"South Africa, Total",-30.5595,22.9375,2020-06-06,24258
+"Spain, Total",40.0,-4.0,2020-06-06,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-06,891
+"Sudan, Total",12.8628,30.2176,2020-06-06,2014
+"Suriname, Total",3.9193,-56.0278,2020-06-06,9
+"Sweden, Total",63.0,16.0,2020-06-06,0
+"Switzerland, Total",46.8182,8.2275,2020-06-06,28700
+"Syria, Total",34.8021,38.9968,2020-06-06,58
+"Taiwan*, Total",23.7,121.0,2020-06-06,429
+"Tanzania, Total",-6.369,34.8888,2020-06-06,183
+"Thailand, Total",15.0,101.0,2020-06-06,2971
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-06,24
+"Togo, Total",8.6195,0.8248,2020-06-06,240
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-06,108
+"Tunisia, Total",34.0,9.0,2020-06-06,977
+"Turkey, Total",38.9637,35.2433,2020-06-06,135322
+"Uganda, Total",1.0,32.0,2020-06-06,82
+"Ukraine, Total",48.3794,31.1656,2020-06-06,12265
+"United Arab Emirates, Total",24.0,54.0,2020-06-06,21061
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-06,114
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-06,93
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-06,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-06,155
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-06,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-06,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-06,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-06,726
+"US, Total",37.0902,-95.7129,2020-06-06,500849
+"Uzbekistan, Total",41.3775,64.5853,2020-06-06,3268
+"Venezuela, Total",6.4238,-66.5897,2020-06-06,385
+"Vietnam, Total",16.0,108.0,2020-06-06,307
+"Zambia, Total",-15.4167,28.2833,2020-06-06,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-06,33
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-06,400
+"Laos, Total",19.856270000000002,102.495496,2020-06-06,18
+"Kosovo, Total",42.602636,20.902977,2020-06-06,871
+"Burma, Total",21.9162,95.956,2020-06-06,156
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-06,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-06,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-06,11
+"MS Zaandam, Total",0.0,0.0,2020-06-06,0
+"Botswana, Total",-22.3285,24.6849,2020-06-06,23
+"Burundi, Total",-3.3731,29.9189,2020-06-06,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-06,600
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-06,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-06,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-06,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-06,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-06,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-06,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-06,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-06,23
+"Comoros, Total",-11.6455,43.3333,2020-06-06,67
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-06,2583
+"Lesotho, Total",-29.609988,28.233608,2020-06-06,2
+"Afghanistan, Total",33.0,65.0,2020-06-07,1875
+"Albania, Total",41.1533,20.1683,2020-06-07,938
+"Algeria, Total",28.0339,1.6596,2020-06-07,6717
+"Andorra, Total",42.5063,1.5218,2020-06-07,744
+"Angola, Total",-11.2027,17.8739,2020-06-07,24
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-07,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-07,6909
+"Armenia, Total",40.0691,45.0382,2020-06-07,4014
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-07,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-07,2724
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-07,29
+"Australia, Queensland",-28.0167,153.4,2020-06-07,1050
+"Australia, South Australia",-34.9285,138.6007,2020-06-07,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-07,209
+"Australia, Victoria",-37.8136,144.9631,2020-06-07,1595
+"Australia, Western Australia",-31.9505,115.8605,2020-06-07,559
+"Austria, Total",47.5162,14.5501,2020-06-07,15793
+"Azerbaijan, Total",40.1431,47.5769,2020-06-07,4149
+"Bahamas, Total",25.0343,-77.3963,2020-06-07,62
+"Bahrain, Total",26.0275,50.55,2020-06-07,9468
+"Bangladesh, Total",23.685,90.3563,2020-06-07,13903
+"Barbados, Total",13.1939,-59.5432,2020-06-07,81
+"Belarus, Total",53.7098,27.9534,2020-06-07,23647
+"Belgium, Total",50.8333,4.0,2020-06-07,16291
+"Belize, Total",13.1939,-59.5432,2020-06-07,16
+"Benin, Total",9.3077,2.3158,2020-06-07,151
+"Bhutan, Total",27.5142,90.4336,2020-06-07,11
+"Bolivia, Total",-16.2902,-63.5887,2020-06-07,2086
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-07,1968
+"Brazil, Total",-14.235,-51.9253,2020-06-07,283952
+"Brunei, Total",4.5353,114.7277,2020-06-07,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-07,1548
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-07,765
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-07,240
+"Cambodia, Total",11.55,104.9167,2020-06-07,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-07,4735
+"Canada, Total",56.1304,-106.3468,2020-06-07,54675
+"Central African Republic, Total",6.6111,20.9394,2020-06-07,38
+"Chad, Total",15.4542,18.7322,2020-06-07,672
+"Chile, Total",-35.6751,-71.543,2020-06-07,108150
+"China, Anhui",31.8257,117.2264,2020-06-07,985
+"China, Beijing",40.1824,116.4142,2020-06-07,583
+"China, Chongqing",30.0572,107.874,2020-06-07,573
+"China, Fujian",26.0789,117.9874,2020-06-07,356
+"China, Gansu",37.8099,101.0583,2020-06-07,137
+"China, Guangdong",23.3417,113.4244,2020-06-07,1585
+"China, Guangxi",23.8298,108.7881,2020-06-07,252
+"China, Guizhou",26.8154,106.8748,2020-06-07,145
+"China, Hainan",19.1959,109.7453,2020-06-07,162
+"China, Hebei",39.549,116.1306,2020-06-07,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-07,934
+"China, Henan",33.882,113.61399999999999,2020-06-07,1254
+"China, Hong Kong",22.3,114.2,2020-06-07,1049
+"China, Hubei",30.9756,112.2707,2020-06-07,63623
+"China, Hunan",27.6104,111.7088,2020-06-07,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-07,218
+"China, Jiangsu",32.9711,119.455,2020-06-07,653
+"China, Jiangxi",27.614,115.7221,2020-06-07,931
+"China, Jilin",43.6661,126.1923,2020-06-07,153
+"China, Liaoning",41.2956,122.6085,2020-06-07,147
+"China, Macau",22.1667,113.55,2020-06-07,45
+"China, Ningxia",37.2692,106.1655,2020-06-07,75
+"China, Qinghai",35.7452,95.9956,2020-06-07,18
+"China, Shaanxi",35.1917,108.8701,2020-06-07,305
+"China, Shandong",36.3427,118.1498,2020-06-07,781
+"China, Shanghai",31.201999999999998,121.4491,2020-06-07,664
+"China, Shanxi",37.5777,112.2922,2020-06-07,198
+"China, Sichuan",30.6171,102.7103,2020-06-07,558
+"China, Tianjin",39.3054,117.323,2020-06-07,189
+"China, Tibet",31.6927,88.0924,2020-06-07,1
+"China, Xinjiang",41.1129,85.2401,2020-06-07,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-07,183
+"China, Zhejiang",29.1832,120.0934,2020-06-07,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-07,14414
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-07,210
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-07,537
+"Costa Rica, Total",9.7489,-83.7534,2020-06-07,704
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-07,1818
+"Croatia, Total",45.1,15.2,2020-06-07,2126
+"Diamond Princess, Total",0.0,0.0,2020-06-07,651
+"Cuba, Total",22.0,-80.0,2020-06-07,1862
+"Cyprus, Total",35.1264,33.4299,2020-06-07,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-07,6891
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-07,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-07,13
+"Denmark, Total",56.2639,9.5018,2020-06-07,10755
+"Djibouti, Total",11.8251,42.5903,2020-06-07,1877
+"Dominica, Total",15.415,-61.371,2020-06-07,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-07,12007
+"Ecuador, Total",-1.8312,-78.1834,2020-06-07,21020
+"Egypt, Total",26.0,30.0,2020-06-07,8961
+"El Salvador, Total",13.7942,-88.8965,2020-06-07,1305
+"Equatorial Guinea, Total",1.5,10.0,2020-06-07,200
+"Eritrea, Total",15.1794,39.7823,2020-06-07,39
+"Estonia, Total",58.5953,25.0136,2020-06-07,1681
+"Eswatini, Total",-26.5225,31.4659,2020-06-07,225
+"Ethiopia, Total",9.145,40.4897,2020-06-07,344
+"Fiji, Total",-17.7134,178.065,2020-06-07,18
+"Finland, Total",64.0,26.0,2020-06-07,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-07,383
+"France, French Polynesia",-17.6797,149.4068,2020-06-07,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-07,144
+"France, Martinique",14.6415,-61.0242,2020-06-07,98
+"France, Mayotte",-12.8275,45.1662,2020-06-07,1523
+"France, New Caledonia",-20.9043,165.618,2020-06-07,19
+"France, Reunion",-21.1351,55.2471,2020-06-07,411
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-07,6
+"France, St Martin",18.0708,-63.0501,2020-06-07,33
+"France, Total",46.2276,2.2137,2020-06-07,68283
+"Gabon, Total",-0.8037,11.6094,2020-06-07,833
+"Gambia, Total",13.4432,-15.3101,2020-06-07,21
+"Georgia, Total",42.3154,43.3569,2020-06-07,674
+"Germany, Total",51.0,9.0,2020-06-07,169224
+"Ghana, Total",7.9465,-1.0232,2020-06-07,3636
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-07,22
+"Greece, Total",39.0742,21.8243,2020-06-07,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-07,1261
+"Guinea, Total",9.9456,-9.6966,2020-06-07,2877
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-07,153
+"Guyana, Total",5.0,-58.75,2020-06-07,80
+"Haiti, Total",18.9712,-72.2852,2020-06-07,24
+"Holy See, Total",41.9029,12.4534,2020-06-07,12
+"Honduras, Total",15.2,-86.2419,2020-06-07,712
+"Hungary, Total",47.1625,19.5033,2020-06-07,2279
+"Iceland, Total",64.9631,-19.0208,2020-06-07,1794
+"India, Total",21.0,78.0,2020-06-07,123848
+"Indonesia, Total",-0.7893,113.9213,2020-06-07,10498
+"Iran, Total",32.0,53.0,2020-06-07,134349
+"Iraq, Total",33.0,44.0,2020-06-07,5186
+"Ireland, Total",53.1424,-7.6921,2020-06-07,22698
+"Israel, Total",31.0,35.0,2020-06-07,15091
+"Italy, Total",43.0,12.0,2020-06-07,165837
+"Jamaica, Total",18.1096,-77.2975,2020-06-07,405
+"Japan, Total",36.0,138.0,2020-06-07,14990
+"Jordan, Total",31.24,36.51,2020-06-07,607
+"Kazakhstan, Total",48.0196,66.9237,2020-06-07,7376
+"Kenya, Total",-0.0236,37.9062,2020-06-07,752
+"Korea, South, Total",36.0,128.0,2020-06-07,10563
+"Kuwait, Total",29.5,47.75,2020-06-07,20205
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-07,1425
+"Latvia, Total",56.8796,24.6032,2020-06-07,781
+"Lebanon, Total",33.8547,35.8623,2020-06-07,768
+"Liberia, Total",6.4281,-9.4295,2020-06-07,194
+"Libya, Total",26.3351,17.228331,2020-06-07,52
+"Liechtenstein, Total",47.14,9.55,2020-06-07,55
+"Lithuania, Total",55.1694,23.8813,2020-06-07,1328
+"Luxembourg, Total",49.8153,6.1296,2020-06-07,3899
+"Madagascar, Total",-18.7669,46.8691,2020-06-07,233
+"Malaysia, Total",2.5,112.5,2020-06-07,6674
+"Maldives, Total",3.2028,73.2207,2020-06-07,827
+"Mali, Total",17.570692,-3.996166000000001,2020-06-07,873
+"Malta, Total",35.9375,14.3754,2020-06-07,596
+"Mauritania, Total",21.0079,10.9408,2020-06-07,108
+"Mauritius, Total",-20.2,57.5,2020-06-07,324
+"Mexico, Total",23.6345,-102.5528,2020-06-07,83775
+"Moldova, Total",47.4116,28.3699,2020-06-07,5638
+"Monaco, Total",43.7333,7.4167,2020-06-07,93
+"Mongolia, Total",46.8625,103.8467,2020-06-07,75
+"Montenegro, Total",42.5,19.3,2020-06-07,315
+"Morocco, Total",31.7917,-7.0926,2020-06-07,7364
+"Mozambique, Total",-18.6657,35.5296,2020-06-07,127
+"Namibia, Total",-22.9576,18.4904,2020-06-07,16
+"Nepal, Total",28.1667,84.25,2020-06-07,467
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-07,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-07,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-07,61
+"Netherlands, Total",52.1326,5.2913,2020-06-07,0
+"New Zealand, Total",-40.9006,174.886,2020-06-07,1482
+"Nicaragua, Total",12.8654,-85.2072,2020-06-07,370
+"Niger, Total",17.6078,8.0817,2020-06-07,867
+"Nigeria, Total",9.082,8.6753,2020-06-07,3959
+"North Macedonia, Total",41.6086,21.7453,2020-06-07,1646
+"Norway, Total",60.472,8.4689,2020-06-07,8138
+"Oman, Total",21.0,57.0,2020-06-07,3451
+"Pakistan, Total",30.3753,69.3451,2020-06-07,34355
+"Panama, Total",8.538,-80.7821,2020-06-07,10218
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-07,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-07,575
+"Peru, Total",-9.19,-75.0152,2020-06-07,86219
+"Philippines, Total",13.0,122.0,2020-06-07,4530
+"Poland, Total",51.9194,19.1451,2020-06-07,12855
+"Portugal, Total",39.3999,-8.2245,2020-06-07,20995
+"Qatar, Total",25.3548,51.1839,2020-06-07,44338
+"Romania, Total",45.9432,24.9668,2020-06-07,14638
+"Russia, Total",60.0,90.0,2020-06-07,226272
+"Rwanda, Total",-1.9403,29.8739,2020-06-07,290
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-07,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-07,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-07,16
+"San Marino, Total",43.9424,12.4578,2020-06-07,428
+"Saudi Arabia, Total",24.0,45.0,2020-06-07,72817
+"Senegal, Total",14.4974,-14.4524,2020-06-07,2588
+"Serbia, Total",44.0165,21.0059,2020-06-07,11348
+"Seychelles, Total",-4.6796,55.492,2020-06-07,11
+"Singapore, Total",1.2833,103.8333,2020-06-07,24886
+"Slovakia, Total",48.669,19.699,2020-06-07,1389
+"Slovenia, Total",46.1512,14.9955,2020-06-07,1359
+"Somalia, Total",5.1521,46.1996,2020-06-07,441
+"South Africa, Total",-30.5595,22.9375,2020-06-07,24364
+"Spain, Total",40.0,-4.0,2020-06-07,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-07,941
+"Sudan, Total",12.8628,30.2176,2020-06-07,2014
+"Suriname, Total",3.9193,-56.0278,2020-06-07,9
+"Sweden, Total",63.0,16.0,2020-06-07,0
+"Switzerland, Total",46.8182,8.2275,2020-06-07,28700
+"Syria, Total",34.8021,38.9968,2020-06-07,58
+"Taiwan*, Total",23.7,121.0,2020-06-07,430
+"Tanzania, Total",-6.369,34.8888,2020-06-07,183
+"Thailand, Total",15.0,101.0,2020-06-07,2972
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-07,24
+"Togo, Total",8.6195,0.8248,2020-06-07,248
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-07,108
+"Tunisia, Total",34.0,9.0,2020-06-07,982
+"Turkey, Total",38.9637,35.2433,2020-06-07,137969
+"Uganda, Total",1.0,32.0,2020-06-07,96
+"Ukraine, Total",48.3794,31.1656,2020-06-07,12513
+"United Arab Emirates, Total",24.0,54.0,2020-06-07,21806
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-07,114
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-07,93
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-07,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-07,164
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-07,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-07,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-07,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-07,730
+"US, Total",37.0902,-95.7129,2020-06-07,506367
+"Uzbekistan, Total",41.3775,64.5853,2020-06-07,3354
+"Venezuela, Total",6.4238,-66.5897,2020-06-07,487
+"Vietnam, Total",16.0,108.0,2020-06-07,307
+"Zambia, Total",-15.4167,28.2833,2020-06-07,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-07,34
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-07,403
+"Laos, Total",19.856270000000002,102.495496,2020-06-07,18
+"Kosovo, Total",42.602636,20.902977,2020-06-07,871
+"Burma, Total",21.9162,95.956,2020-06-07,156
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-07,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-07,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-07,11
+"MS Zaandam, Total",0.0,0.0,2020-06-07,0
+"Botswana, Total",-22.3285,24.6849,2020-06-07,23
+"Burundi, Total",-3.3731,29.9189,2020-06-07,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-07,608
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-07,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-07,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-07,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-07,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-07,6
+"Western Sahara, Total",24.2155,-12.8858,2020-06-07,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-07,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-07,23
+"Comoros, Total",-11.6455,43.3333,2020-06-07,67
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-07,2673
+"Lesotho, Total",-29.609988,28.233608,2020-06-07,2
+"Afghanistan, Total",33.0,65.0,2020-06-08,2171
+"Albania, Total",41.1533,20.1683,2020-06-08,945
+"Algeria, Total",28.0339,1.6596,2020-06-08,6799
+"Andorra, Total",42.5063,1.5218,2020-06-08,751
+"Angola, Total",-11.2027,17.8739,2020-06-08,38
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-08,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-08,7305
+"Armenia, Total",40.0691,45.0382,2020-06-08,4099
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-08,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-08,2729
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-08,29
+"Australia, Queensland",-28.0167,153.4,2020-06-08,1051
+"Australia, South Australia",-34.9285,138.6007,2020-06-08,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-08,209
+"Australia, Victoria",-37.8136,144.9631,2020-06-08,1602
+"Australia, Western Australia",-31.9505,115.8605,2020-06-08,560
+"Austria, Total",47.5162,14.5501,2020-06-08,15839
+"Azerbaijan, Total",40.1431,47.5769,2020-06-08,4377
+"Bahamas, Total",25.0343,-77.3963,2020-06-08,64
+"Bahrain, Total",26.0275,50.55,2020-06-08,10326
+"Bangladesh, Total",23.685,90.3563,2020-06-08,14560
+"Barbados, Total",13.1939,-59.5432,2020-06-08,81
+"Belarus, Total",53.7098,27.9534,2020-06-08,23880
+"Belgium, Total",50.8333,4.0,2020-06-08,16315
+"Belize, Total",13.1939,-59.5432,2020-06-08,16
+"Benin, Total",9.3077,2.3158,2020-06-08,186
+"Bhutan, Total",27.5142,90.4336,2020-06-08,14
+"Bolivia, Total",-16.2902,-63.5887,2020-06-08,2159
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-08,2023
+"Brazil, Total",-14.235,-51.9253,2020-06-08,378257
+"Brunei, Total",4.5353,114.7277,2020-06-08,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-08,1587
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-08,765
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-08,266
+"Cambodia, Total",11.55,104.9167,2020-06-08,123
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-08,4748
+"Canada, Total",56.1304,-106.3468,2020-06-08,55343
+"Central African Republic, Total",6.6111,20.9394,2020-06-08,38
+"Chad, Total",15.4542,18.7322,2020-06-08,685
+"Chile, Total",-35.6751,-71.543,2020-06-08,112248
+"China, Anhui",31.8257,117.2264,2020-06-08,985
+"China, Beijing",40.1824,116.4142,2020-06-08,584
+"China, Chongqing",30.0572,107.874,2020-06-08,573
+"China, Fujian",26.0789,117.9874,2020-06-08,356
+"China, Gansu",37.8099,101.0583,2020-06-08,137
+"China, Guangdong",23.3417,113.4244,2020-06-08,1586
+"China, Guangxi",23.8298,108.7881,2020-06-08,252
+"China, Guizhou",26.8154,106.8748,2020-06-08,145
+"China, Hainan",19.1959,109.7453,2020-06-08,162
+"China, Hebei",39.549,116.1306,2020-06-08,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-08,934
+"China, Henan",33.882,113.61399999999999,2020-06-08,1254
+"China, Hong Kong",22.3,114.2,2020-06-08,1049
+"China, Hubei",30.9756,112.2707,2020-06-08,63623
+"China, Hunan",27.6104,111.7088,2020-06-08,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-08,226
+"China, Jiangsu",32.9711,119.455,2020-06-08,653
+"China, Jiangxi",27.614,115.7221,2020-06-08,931
+"China, Jilin",43.6661,126.1923,2020-06-08,153
+"China, Liaoning",41.2956,122.6085,2020-06-08,147
+"China, Macau",22.1667,113.55,2020-06-08,45
+"China, Ningxia",37.2692,106.1655,2020-06-08,75
+"China, Qinghai",35.7452,95.9956,2020-06-08,18
+"China, Shaanxi",35.1917,108.8701,2020-06-08,305
+"China, Shandong",36.3427,118.1498,2020-06-08,781
+"China, Shanghai",31.201999999999998,121.4491,2020-06-08,664
+"China, Shanxi",37.5777,112.2922,2020-06-08,198
+"China, Sichuan",30.6171,102.7103,2020-06-08,558
+"China, Tianjin",39.3054,117.323,2020-06-08,189
+"China, Tibet",31.6927,88.0924,2020-06-08,1
+"China, Xinjiang",41.1129,85.2401,2020-06-08,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-08,183
+"China, Zhejiang",29.1832,120.0934,2020-06-08,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-08,16459
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-08,210
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-08,537
+"Costa Rica, Total",9.7489,-83.7534,2020-06-08,712
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-08,1869
+"Croatia, Total",45.1,15.2,2020-06-08,2128
+"Diamond Princess, Total",0.0,0.0,2020-06-08,651
+"Cuba, Total",22.0,-80.0,2020-06-08,1868
+"Cyprus, Total",35.1264,33.4299,2020-06-08,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-08,6994
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-08,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-08,13
+"Denmark, Total",56.2639,9.5018,2020-06-08,10792
+"Djibouti, Total",11.8251,42.5903,2020-06-08,2013
+"Dominica, Total",15.415,-61.371,2020-06-08,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-08,12158
+"Ecuador, Total",-1.8312,-78.1834,2020-06-08,21020
+"Egypt, Total",26.0,30.0,2020-06-08,9375
+"El Salvador, Total",13.7942,-88.8965,2020-06-08,1379
+"Equatorial Guinea, Total",1.5,10.0,2020-06-08,200
+"Eritrea, Total",15.1794,39.7823,2020-06-08,39
+"Estonia, Total",58.5953,25.0136,2020-06-08,1683
+"Eswatini, Total",-26.5225,31.4659,2020-06-08,229
+"Ethiopia, Total",9.145,40.4897,2020-06-08,361
+"Fiji, Total",-17.7134,178.065,2020-06-08,18
+"Finland, Total",64.0,26.0,2020-06-08,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-08,400
+"France, French Polynesia",-17.6797,149.4068,2020-06-08,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-08,144
+"France, Martinique",14.6415,-61.0242,2020-06-08,98
+"France, Mayotte",-12.8275,45.1662,2020-06-08,1654
+"France, New Caledonia",-20.9043,165.618,2020-06-08,20
+"France, Reunion",-21.1351,55.2471,2020-06-08,447
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-08,6
+"France, St Martin",18.0708,-63.0501,2020-06-08,33
+"France, Total",46.2276,2.2137,2020-06-08,68319
+"Gabon, Total",-0.8037,11.6094,2020-06-08,833
+"Gambia, Total",13.4432,-15.3101,2020-06-08,21
+"Georgia, Total",42.3154,43.3569,2020-06-08,683
+"Germany, Total",51.0,9.0,2020-06-08,169556
+"Ghana, Total",7.9465,-1.0232,2020-06-08,3645
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-08,22
+"Greece, Total",39.0742,21.8243,2020-06-08,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-08,1323
+"Guinea, Total",9.9456,-9.6966,2020-06-08,2918
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-08,153
+"Guyana, Total",5.0,-58.75,2020-06-08,84
+"Haiti, Total",18.9712,-72.2852,2020-06-08,24
+"Holy See, Total",41.9029,12.4534,2020-06-08,12
+"Honduras, Total",15.2,-86.2419,2020-06-08,740
+"Hungary, Total",47.1625,19.5033,2020-06-08,2284
+"Iceland, Total",64.9631,-19.0208,2020-06-08,1794
+"India, Total",21.0,78.0,2020-06-08,129095
+"Indonesia, Total",-0.7893,113.9213,2020-06-08,10904
+"Iran, Total",32.0,53.0,2020-06-08,136360
+"Iraq, Total",33.0,44.0,2020-06-08,5572
+"Ireland, Total",53.1424,-7.6921,2020-06-08,22698
+"Israel, Total",31.0,35.0,2020-06-08,15102
+"Italy, Total",43.0,12.0,2020-06-08,166584
+"Jamaica, Total",18.1096,-77.2975,2020-06-08,405
+"Japan, Total",36.0,138.0,2020-06-08,15043
+"Jordan, Total",31.24,36.51,2020-06-08,627
+"Kazakhstan, Total",48.0196,66.9237,2020-06-08,7376
+"Kenya, Total",-0.0236,37.9062,2020-06-08,849
+"Korea, South, Total",36.0,128.0,2020-06-08,10589
+"Kuwait, Total",29.5,47.75,2020-06-08,21242
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-08,1445
+"Latvia, Total",56.8796,24.6032,2020-06-08,781
+"Lebanon, Total",33.8547,35.8623,2020-06-08,779
+"Liberia, Total",6.4281,-9.4295,2020-06-08,195
+"Libya, Total",26.3351,17.228331,2020-06-08,57
+"Liechtenstein, Total",47.14,9.55,2020-06-08,55
+"Lithuania, Total",55.1694,23.8813,2020-06-08,1331
+"Luxembourg, Total",49.8153,6.1296,2020-06-08,3901
+"Madagascar, Total",-18.7669,46.8691,2020-06-08,254
+"Malaysia, Total",2.5,112.5,2020-06-08,6694
+"Maldives, Total",3.2028,73.2207,2020-06-08,925
+"Mali, Total",17.570692,-3.996166000000001,2020-06-08,916
+"Malta, Total",35.9375,14.3754,2020-06-08,596
+"Mauritania, Total",21.0079,10.9408,2020-06-08,119
+"Mauritius, Total",-20.2,57.5,2020-06-08,324
+"Mexico, Total",23.6345,-102.5528,2020-06-08,87633
+"Moldova, Total",47.4116,28.3699,2020-06-08,5738
+"Monaco, Total",43.7333,7.4167,2020-06-08,93
+"Mongolia, Total",46.8625,103.8467,2020-06-08,75
+"Montenegro, Total",42.5,19.3,2020-06-08,315
+"Morocco, Total",31.7917,-7.0926,2020-06-08,7408
+"Mozambique, Total",-18.6657,35.5296,2020-06-08,131
+"Namibia, Total",-22.9576,18.4904,2020-06-08,16
+"Nepal, Total",28.1667,84.25,2020-06-08,488
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-08,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-08,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-08,61
+"Netherlands, Total",52.1326,5.2913,2020-06-08,0
+"New Zealand, Total",-40.9006,174.886,2020-06-08,1482
+"Nicaragua, Total",12.8654,-85.2072,2020-06-08,370
+"Niger, Total",17.6078,8.0817,2020-06-08,869
+"Nigeria, Total",9.082,8.6753,2020-06-08,4040
+"North Macedonia, Total",41.6086,21.7453,2020-06-08,1653
+"Norway, Total",60.472,8.4689,2020-06-08,8138
+"Oman, Total",21.0,57.0,2020-06-08,3793
+"Pakistan, Total",30.3753,69.3451,2020-06-08,35018
+"Panama, Total",8.538,-80.7821,2020-06-08,10401
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-08,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-08,603
+"Peru, Total",-9.19,-75.0152,2020-06-08,89556
+"Philippines, Total",13.0,122.0,2020-06-08,4637
+"Poland, Total",51.9194,19.1451,2020-06-08,12998
+"Portugal, Total",39.3999,-8.2245,2020-06-08,21156
+"Qatar, Total",25.3548,51.1839,2020-06-08,45935
+"Romania, Total",45.9432,24.9668,2020-06-08,14826
+"Russia, Total",60.0,90.0,2020-06-08,230226
+"Rwanda, Total",-1.9403,29.8739,2020-06-08,297
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-08,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-08,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-08,16
+"San Marino, Total",43.9424,12.4578,2020-06-08,478
+"Saudi Arabia, Total",24.0,45.0,2020-06-08,74524
+"Senegal, Total",14.4974,-14.4524,2020-06-08,2699
+"Serbia, Total",44.0165,21.0059,2020-06-08,11189
+"Seychelles, Total",-4.6796,55.492,2020-06-08,11
+"Singapore, Total",1.2833,103.8333,2020-06-08,25368
+"Slovakia, Total",48.669,19.699,2020-06-08,1396
+"Slovenia, Total",46.1512,14.9955,2020-06-08,1359
+"Somalia, Total",5.1521,46.1996,2020-06-08,470
+"South Africa, Total",-30.5595,22.9375,2020-06-08,26099
+"Spain, Total",40.0,-4.0,2020-06-08,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-08,990
+"Sudan, Total",12.8628,30.2176,2020-06-08,2059
+"Suriname, Total",3.9193,-56.0278,2020-06-08,9
+"Sweden, Total",63.0,16.0,2020-06-08,0
+"Switzerland, Total",46.8182,8.2275,2020-06-08,28700
+"Syria, Total",34.8021,38.9968,2020-06-08,62
+"Taiwan*, Total",23.7,121.0,2020-06-08,430
+"Tanzania, Total",-6.369,34.8888,2020-06-08,183
+"Thailand, Total",15.0,101.0,2020-06-08,2973
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-08,24
+"Togo, Total",8.6195,0.8248,2020-06-08,251
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-08,109
+"Tunisia, Total",34.0,9.0,2020-06-08,982
+"Turkey, Total",38.9637,35.2433,2020-06-08,141380
+"Uganda, Total",1.0,32.0,2020-06-08,103
+"Ukraine, Total",48.3794,31.1656,2020-06-08,12657
+"United Arab Emirates, Total",24.0,54.0,2020-06-08,22275
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-08,120
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-08,102
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-08,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-08,165
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-08,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-08,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-08,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-08,738
+"US, Total",37.0902,-95.7129,2020-06-08,518522
+"Uzbekistan, Total",41.3775,64.5853,2020-06-08,3357
+"Venezuela, Total",6.4238,-66.5897,2020-06-08,487
+"Vietnam, Total",16.0,108.0,2020-06-08,316
+"Zambia, Total",-15.4167,28.2833,2020-06-08,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-08,46
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-08,404
+"Laos, Total",19.856270000000002,102.495496,2020-06-08,18
+"Kosovo, Total",42.602636,20.902977,2020-06-08,912
+"Burma, Total",21.9162,95.956,2020-06-08,159
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-08,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-08,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-08,11
+"MS Zaandam, Total",0.0,0.0,2020-06-08,0
+"Botswana, Total",-22.3285,24.6849,2020-06-08,24
+"Burundi, Total",-3.3731,29.9189,2020-06-08,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-08,611
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-08,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-08,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-08,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-08,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-08,15
+"Western Sahara, Total",24.2155,-12.8858,2020-06-08,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-08,68
+"Yemen, Total",15.552726999999999,48.516388,2020-06-08,23
+"Comoros, Total",-11.6455,43.3333,2020-06-08,67
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-08,2763
+"Lesotho, Total",-29.609988,28.233608,2020-06-08,2
+"Afghanistan, Total",33.0,65.0,2020-06-09,2651
+"Albania, Total",41.1533,20.1683,2020-06-09,960
+"Algeria, Total",28.0339,1.6596,2020-06-09,6951
+"Andorra, Total",42.5063,1.5218,2020-06-09,757
+"Angola, Total",-11.2027,17.8739,2020-06-09,38
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-09,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-09,7568
+"Armenia, Total",40.0691,45.0382,2020-06-09,4451
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-09,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-09,2735
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-09,29
+"Australia, Queensland",-28.0167,153.4,2020-06-09,1051
+"Australia, South Australia",-34.9285,138.6007,2020-06-09,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-09,209
+"Australia, Victoria",-37.8136,144.9631,2020-06-09,1616
+"Australia, Western Australia",-31.9505,115.8605,2020-06-09,560
+"Austria, Total",47.5162,14.5501,2020-06-09,15875
+"Azerbaijan, Total",40.1431,47.5769,2020-06-09,4606
+"Bahamas, Total",25.0343,-77.3963,2020-06-09,64
+"Bahrain, Total",26.0275,50.55,2020-06-09,10606
+"Bangladesh, Total",23.685,90.3563,2020-06-09,15337
+"Barbados, Total",13.1939,-59.5432,2020-06-09,81
+"Belarus, Total",53.7098,27.9534,2020-06-09,24506
+"Belgium, Total",50.8333,4.0,2020-06-09,16324
+"Belize, Total",13.1939,-59.5432,2020-06-09,16
+"Benin, Total",9.3077,2.3158,2020-06-09,188
+"Bhutan, Total",27.5142,90.4336,2020-06-09,17
+"Bolivia, Total",-16.2902,-63.5887,2020-06-09,2190
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-09,2049
+"Brazil, Total",-14.235,-51.9253,2020-06-09,396737
+"Brunei, Total",4.5353,114.7277,2020-06-09,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-09,1623
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-09,765
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-09,270
+"Cambodia, Total",11.55,104.9167,2020-06-09,125
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-09,4794
+"Canada, Total",56.1304,-106.3468,2020-06-09,56117
+"Central African Republic, Total",6.6111,20.9394,2020-06-09,38
+"Chad, Total",15.4542,18.7322,2020-06-09,706
+"Chile, Total",-35.6751,-71.543,2020-06-09,117361
+"China, Anhui",31.8257,117.2264,2020-06-09,985
+"China, Beijing",40.1824,116.4142,2020-06-09,584
+"China, Chongqing",30.0572,107.874,2020-06-09,573
+"China, Fujian",26.0789,117.9874,2020-06-09,356
+"China, Gansu",37.8099,101.0583,2020-06-09,137
+"China, Guangdong",23.3417,113.4244,2020-06-09,1587
+"China, Guangxi",23.8298,108.7881,2020-06-09,252
+"China, Guizhou",26.8154,106.8748,2020-06-09,145
+"China, Hainan",19.1959,109.7453,2020-06-09,162
+"China, Hebei",39.549,116.1306,2020-06-09,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-09,934
+"China, Henan",33.882,113.61399999999999,2020-06-09,1254
+"China, Hong Kong",22.3,114.2,2020-06-09,1050
+"China, Hubei",30.9756,112.2707,2020-06-09,63623
+"China, Hunan",27.6104,111.7088,2020-06-09,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-09,230
+"China, Jiangsu",32.9711,119.455,2020-06-09,653
+"China, Jiangxi",27.614,115.7221,2020-06-09,931
+"China, Jilin",43.6661,126.1923,2020-06-09,153
+"China, Liaoning",41.2956,122.6085,2020-06-09,147
+"China, Macau",22.1667,113.55,2020-06-09,45
+"China, Ningxia",37.2692,106.1655,2020-06-09,75
+"China, Qinghai",35.7452,95.9956,2020-06-09,18
+"China, Shaanxi",35.1917,108.8701,2020-06-09,305
+"China, Shandong",36.3427,118.1498,2020-06-09,781
+"China, Shanghai",31.201999999999998,121.4491,2020-06-09,665
+"China, Shanxi",37.5777,112.2922,2020-06-09,198
+"China, Sichuan",30.6171,102.7103,2020-06-09,558
+"China, Tianjin",39.3054,117.323,2020-06-09,189
+"China, Tibet",31.6927,88.0924,2020-06-09,1
+"China, Xinjiang",41.1129,85.2401,2020-06-09,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-09,183
+"China, Zhejiang",29.1832,120.0934,2020-06-09,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-09,16459
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-09,221
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-09,539
+"Costa Rica, Total",9.7489,-83.7534,2020-06-09,717
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-09,2045
+"Croatia, Total",45.1,15.2,2020-06-09,2130
+"Diamond Princess, Total",0.0,0.0,2020-06-09,651
+"Cuba, Total",22.0,-80.0,2020-06-09,1880
+"Cyprus, Total",35.1264,33.4299,2020-06-09,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-09,7053
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-09,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-09,13
+"Denmark, Total",56.2639,9.5018,2020-06-09,10849
+"Djibouti, Total",11.8251,42.5903,2020-06-09,2139
+"Dominica, Total",15.415,-61.371,2020-06-09,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-09,12208
+"Ecuador, Total",-1.8312,-78.1834,2020-06-09,21020
+"Egypt, Total",26.0,30.0,2020-06-09,9786
+"El Salvador, Total",13.7942,-88.8965,2020-06-09,1419
+"Equatorial Guinea, Total",1.5,10.0,2020-06-09,200
+"Eritrea, Total",15.1794,39.7823,2020-06-09,39
+"Estonia, Total",58.5953,25.0136,2020-06-09,1684
+"Eswatini, Total",-26.5225,31.4659,2020-06-09,232
+"Ethiopia, Total",9.145,40.4897,2020-06-09,379
+"Fiji, Total",-17.7134,178.065,2020-06-09,18
+"Finland, Total",64.0,26.0,2020-06-09,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-09,427
+"France, French Polynesia",-17.6797,149.4068,2020-06-09,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-09,144
+"France, Martinique",14.6415,-61.0242,2020-06-09,98
+"France, Mayotte",-12.8275,45.1662,2020-06-09,1654
+"France, New Caledonia",-20.9043,165.618,2020-06-09,20
+"France, Reunion",-21.1351,55.2471,2020-06-09,447
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-09,6
+"France, St Martin",18.0708,-63.0501,2020-06-09,33
+"France, Total",46.2276,2.2137,2020-06-09,68736
+"Gabon, Total",-0.8037,11.6094,2020-06-09,938
+"Gambia, Total",13.4432,-15.3101,2020-06-09,21
+"Georgia, Total",42.3154,43.3569,2020-06-09,686
+"Germany, Total",51.0,9.0,2020-06-09,170129
+"Ghana, Total",7.9465,-1.0232,2020-06-09,3755
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-09,22
+"Greece, Total",39.0742,21.8243,2020-06-09,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-09,1413
+"Guinea, Total",9.9456,-9.6966,2020-06-09,2942
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-09,153
+"Guyana, Total",5.0,-58.75,2020-06-09,86
+"Haiti, Total",18.9712,-72.2852,2020-06-09,24
+"Holy See, Total",41.9029,12.4534,2020-06-09,12
+"Honduras, Total",15.2,-86.2419,2020-06-09,787
+"Hungary, Total",47.1625,19.5033,2020-06-09,2324
+"Iceland, Total",64.9631,-19.0208,2020-06-09,1794
+"India, Total",21.0,78.0,2020-06-09,134670
+"Indonesia, Total",-0.7893,113.9213,2020-06-09,11414
+"Iran, Total",32.0,53.0,2020-06-09,138457
+"Iraq, Total",33.0,44.0,2020-06-09,5831
+"Ireland, Total",53.1424,-7.6921,2020-06-09,22698
+"Israel, Total",31.0,35.0,2020-06-09,15159
+"Italy, Total",43.0,12.0,2020-06-09,168646
+"Jamaica, Total",18.1096,-77.2975,2020-06-09,405
+"Japan, Total",36.0,138.0,2020-06-09,15141
+"Jordan, Total",31.24,36.51,2020-06-09,657
+"Kazakhstan, Total",48.0196,66.9237,2020-06-09,8015
+"Kenya, Total",-0.0236,37.9062,2020-06-09,873
+"Korea, South, Total",36.0,128.0,2020-06-09,10611
+"Kuwait, Total",29.5,47.75,2020-06-09,22162
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-09,1483
+"Latvia, Total",56.8796,24.6032,2020-06-09,794
+"Lebanon, Total",33.8547,35.8623,2020-06-09,795
+"Liberia, Total",6.4281,-9.4295,2020-06-09,199
+"Libya, Total",26.3351,17.228331,2020-06-09,58
+"Liechtenstein, Total",47.14,9.55,2020-06-09,55
+"Lithuania, Total",55.1694,23.8813,2020-06-09,1338
+"Luxembourg, Total",49.8153,6.1296,2020-06-09,3902
+"Madagascar, Total",-18.7669,46.8691,2020-06-09,274
+"Malaysia, Total",2.5,112.5,2020-06-09,6975
+"Maldives, Total",3.2028,73.2207,2020-06-09,1010
+"Mali, Total",17.570692,-3.996166000000001,2020-06-09,931
+"Malta, Total",35.9375,14.3754,2020-06-09,597
+"Mauritania, Total",21.0079,10.9408,2020-06-09,139
+"Mauritius, Total",-20.2,57.5,2020-06-09,324
+"Mexico, Total",23.6345,-102.5528,2020-06-09,90748
+"Moldova, Total",47.4116,28.3699,2020-06-09,5797
+"Monaco, Total",43.7333,7.4167,2020-06-09,93
+"Mongolia, Total",46.8625,103.8467,2020-06-09,87
+"Montenegro, Total",42.5,19.3,2020-06-09,315
+"Morocco, Total",31.7917,-7.0926,2020-06-09,7493
+"Mozambique, Total",-18.6657,35.5296,2020-06-09,136
+"Namibia, Total",-22.9576,18.4904,2020-06-09,16
+"Nepal, Total",28.1667,84.25,2020-06-09,584
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-09,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-09,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-09,61
+"Netherlands, Total",52.1326,5.2913,2020-06-09,0
+"New Zealand, Total",-40.9006,174.886,2020-06-09,1482
+"Nicaragua, Total",12.8654,-85.2072,2020-06-09,953
+"Niger, Total",17.6078,8.0817,2020-06-09,871
+"Nigeria, Total",9.082,8.6753,2020-06-09,4206
+"North Macedonia, Total",41.6086,21.7453,2020-06-09,1658
+"Norway, Total",60.472,8.4689,2020-06-09,8138
+"Oman, Total",21.0,57.0,2020-06-09,4152
+"Pakistan, Total",30.3753,69.3451,2020-06-09,36308
+"Panama, Total",8.538,-80.7821,2020-06-09,10561
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-09,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-09,604
+"Peru, Total",-9.19,-75.0152,2020-06-09,92929
+"Philippines, Total",13.0,122.0,2020-06-09,4736
+"Poland, Total",51.9194,19.1451,2020-06-09,13196
+"Portugal, Total",39.3999,-8.2245,2020-06-09,21339
+"Qatar, Total",25.3548,51.1839,2020-06-09,47569
+"Romania, Total",45.9432,24.9668,2020-06-09,14910
+"Russia, Total",60.0,90.0,2020-06-09,241917
+"Rwanda, Total",-1.9403,29.8739,2020-06-09,300
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-09,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-09,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-09,25
+"San Marino, Total",43.9424,12.4578,2020-06-09,483
+"Saudi Arabia, Total",24.0,45.0,2020-06-09,76339
+"Senegal, Total",14.4974,-14.4524,2020-06-09,2809
+"Serbia, Total",44.0165,21.0059,2020-06-09,11268
+"Seychelles, Total",-4.6796,55.492,2020-06-09,11
+"Singapore, Total",1.2833,103.8333,2020-06-09,25877
+"Slovakia, Total",48.669,19.699,2020-06-09,1402
+"Slovenia, Total",46.1512,14.9955,2020-06-09,1359
+"Somalia, Total",5.1521,46.1996,2020-06-09,489
+"South Africa, Total",-30.5595,22.9375,2020-06-09,29006
+"Spain, Total",40.0,-4.0,2020-06-09,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-09,1057
+"Sudan, Total",12.8628,30.2176,2020-06-09,2127
+"Suriname, Total",3.9193,-56.0278,2020-06-09,9
+"Sweden, Total",63.0,16.0,2020-06-09,0
+"Switzerland, Total",46.8182,8.2275,2020-06-09,28700
+"Syria, Total",34.8021,38.9968,2020-06-09,62
+"Taiwan*, Total",23.7,121.0,2020-06-09,431
+"Tanzania, Total",-6.369,34.8888,2020-06-09,183
+"Thailand, Total",15.0,101.0,2020-06-09,2973
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-09,24
+"Togo, Total",8.6195,0.8248,2020-06-09,260
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-09,109
+"Tunisia, Total",34.0,9.0,2020-06-09,982
+"Turkey, Total",38.9637,35.2433,2020-06-09,144598
+"Uganda, Total",1.0,32.0,2020-06-09,118
+"Ukraine, Total",48.3794,31.1656,2020-06-09,12892
+"United Arab Emirates, Total",24.0,54.0,2020-06-09,22740
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-09,120
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-09,104
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-09,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-09,165
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-09,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-09,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-09,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-09,754
+"US, Total",37.0902,-95.7129,2020-06-09,524855
+"Uzbekistan, Total",41.3775,64.5853,2020-06-09,3459
+"Venezuela, Total",6.4238,-66.5897,2020-06-09,487
+"Vietnam, Total",16.0,108.0,2020-06-09,316
+"Zambia, Total",-15.4167,28.2833,2020-06-09,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-09,46
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-09,404
+"Laos, Total",19.856270000000002,102.495496,2020-06-09,19
+"Kosovo, Total",42.602636,20.902977,2020-06-09,912
+"Burma, Total",21.9162,95.956,2020-06-09,159
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-09,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-09,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-09,11
+"MS Zaandam, Total",0.0,0.0,2020-06-09,0
+"Botswana, Total",-22.3285,24.6849,2020-06-09,24
+"Burundi, Total",-3.3731,29.9189,2020-06-09,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-09,621
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-09,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-09,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-09,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-09,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-09,15
+"Western Sahara, Total",24.2155,-12.8858,2020-06-09,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-09,76
+"Yemen, Total",15.552726999999999,48.516388,2020-06-09,23
+"Comoros, Total",-11.6455,43.3333,2020-06-09,67
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-09,2815
+"Lesotho, Total",-29.609988,28.233608,2020-06-09,2
+"Afghanistan, Total",33.0,65.0,2020-06-10,3013
+"Albania, Total",41.1533,20.1683,2020-06-10,980
+"Algeria, Total",28.0339,1.6596,2020-06-10,7074
+"Andorra, Total",42.5063,1.5218,2020-06-10,759
+"Angola, Total",-11.2027,17.8739,2020-06-10,40
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-10,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-10,7991
+"Armenia, Total",40.0691,45.0382,2020-06-10,5226
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-10,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-10,2738
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-10,29
+"Australia, Queensland",-28.0167,153.4,2020-06-10,1051
+"Australia, South Australia",-34.9285,138.6007,2020-06-10,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-10,209
+"Australia, Victoria",-37.8136,144.9631,2020-06-10,1621
+"Australia, Western Australia",-31.9505,115.8605,2020-06-10,571
+"Austria, Total",47.5162,14.5501,2020-06-10,15910
+"Azerbaijan, Total",40.1431,47.5769,2020-06-10,4720
+"Bahamas, Total",25.0343,-77.3963,2020-06-10,67
+"Bahrain, Total",26.0275,50.55,2020-06-10,11109
+"Bangladesh, Total",23.685,90.3563,2020-06-10,15900
+"Barbados, Total",13.1939,-59.5432,2020-06-10,83
+"Belarus, Total",53.7098,27.9534,2020-06-10,25667
+"Belgium, Total",50.8333,4.0,2020-06-10,16392
+"Belize, Total",13.1939,-59.5432,2020-06-10,16
+"Benin, Total",9.3077,2.3158,2020-06-10,188
+"Bhutan, Total",27.5142,90.4336,2020-06-10,18
+"Bolivia, Total",-16.2902,-63.5887,2020-06-10,2261
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-10,2063
+"Brazil, Total",-14.235,-51.9253,2020-06-10,413916
+"Brunei, Total",4.5353,114.7277,2020-06-10,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-10,1664
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-10,765
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-10,294
+"Cambodia, Total",11.55,104.9167,2020-06-10,125
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-10,4836
+"Canada, Total",56.1304,-106.3468,2020-06-10,57215
+"Central African Republic, Total",6.6111,20.9394,2020-06-10,38
+"Chad, Total",15.4542,18.7322,2020-06-10,706
+"Chile, Total",-35.6751,-71.543,2020-06-10,121780
+"China, Anhui",31.8257,117.2264,2020-06-10,985
+"China, Beijing",40.1824,116.4142,2020-06-10,584
+"China, Chongqing",30.0572,107.874,2020-06-10,573
+"China, Fujian",26.0789,117.9874,2020-06-10,356
+"China, Gansu",37.8099,101.0583,2020-06-10,137
+"China, Guangdong",23.3417,113.4244,2020-06-10,1588
+"China, Guangxi",23.8298,108.7881,2020-06-10,252
+"China, Guizhou",26.8154,106.8748,2020-06-10,145
+"China, Hainan",19.1959,109.7453,2020-06-10,162
+"China, Hebei",39.549,116.1306,2020-06-10,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-10,934
+"China, Henan",33.882,113.61399999999999,2020-06-10,1254
+"China, Hong Kong",22.3,114.2,2020-06-10,1051
+"China, Hubei",30.9756,112.2707,2020-06-10,63623
+"China, Hunan",27.6104,111.7088,2020-06-10,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-10,230
+"China, Jiangsu",32.9711,119.455,2020-06-10,653
+"China, Jiangxi",27.614,115.7221,2020-06-10,931
+"China, Jilin",43.6661,126.1923,2020-06-10,153
+"China, Liaoning",41.2956,122.6085,2020-06-10,147
+"China, Macau",22.1667,113.55,2020-06-10,45
+"China, Ningxia",37.2692,106.1655,2020-06-10,75
+"China, Qinghai",35.7452,95.9956,2020-06-10,18
+"China, Shaanxi",35.1917,108.8701,2020-06-10,306
+"China, Shandong",36.3427,118.1498,2020-06-10,781
+"China, Shanghai",31.201999999999998,121.4491,2020-06-10,665
+"China, Shanxi",37.5777,112.2922,2020-06-10,198
+"China, Sichuan",30.6171,102.7103,2020-06-10,560
+"China, Tianjin",39.3054,117.323,2020-06-10,189
+"China, Tibet",31.6927,88.0924,2020-06-10,1
+"China, Xinjiang",41.1129,85.2401,2020-06-10,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-10,183
+"China, Zhejiang",29.1832,120.0934,2020-06-10,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-10,16566
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-10,221
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-10,565
+"Costa Rica, Total",9.7489,-83.7534,2020-06-10,722
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-10,2174
+"Croatia, Total",45.1,15.2,2020-06-10,2130
+"Diamond Princess, Total",0.0,0.0,2020-06-10,651
+"Cuba, Total",22.0,-80.0,2020-06-10,1886
+"Cyprus, Total",35.1264,33.4299,2020-06-10,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-10,7111
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-10,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-10,13
+"Denmark, Total",56.2639,9.5018,2020-06-10,10904
+"Djibouti, Total",11.8251,42.5903,2020-06-10,2260
+"Dominica, Total",15.415,-61.371,2020-06-10,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-10,12318
+"Ecuador, Total",-1.8312,-78.1834,2020-06-10,21862
+"Egypt, Total",26.0,30.0,2020-06-10,10289
+"El Salvador, Total",13.7942,-88.8965,2020-06-10,1438
+"Equatorial Guinea, Total",1.5,10.0,2020-06-10,200
+"Eritrea, Total",15.1794,39.7823,2020-06-10,39
+"Estonia, Total",58.5953,25.0136,2020-06-10,1690
+"Eswatini, Total",-26.5225,31.4659,2020-06-10,236
+"Ethiopia, Total",9.145,40.4897,2020-06-10,401
+"Fiji, Total",-17.7134,178.065,2020-06-10,18
+"Finland, Total",64.0,26.0,2020-06-10,5800
+"France, French Guiana",3.9339,-53.1258,2020-06-10,457
+"France, French Polynesia",-17.6797,149.4068,2020-06-10,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-10,144
+"France, Martinique",14.6415,-61.0242,2020-06-10,98
+"France, Mayotte",-12.8275,45.1662,2020-06-10,1654
+"France, New Caledonia",-20.9043,165.618,2020-06-10,20
+"France, Reunion",-21.1351,55.2471,2020-06-10,447
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-10,6
+"France, St Martin",18.0708,-63.0501,2020-06-10,33
+"France, Total",46.2276,2.2137,2020-06-10,69032
+"Gabon, Total",-0.8037,11.6094,2020-06-10,978
+"Gambia, Total",13.4432,-15.3101,2020-06-10,22
+"Georgia, Total",42.3154,43.3569,2020-06-10,690
+"Germany, Total",51.0,9.0,2020-06-10,170630
+"Ghana, Total",7.9465,-1.0232,2020-06-10,3755
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-10,22
+"Greece, Total",39.0742,21.8243,2020-06-10,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-10,1504
+"Guinea, Total",9.9456,-9.6966,2020-06-10,2942
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-10,153
+"Guyana, Total",5.0,-58.75,2020-06-10,92
+"Haiti, Total",18.9712,-72.2852,2020-06-10,24
+"Holy See, Total",41.9029,12.4534,2020-06-10,12
+"Honduras, Total",15.2,-86.2419,2020-06-10,809
+"Hungary, Total",47.1625,19.5033,2020-06-10,2355
+"Iceland, Total",64.9631,-19.0208,2020-06-10,1794
+"India, Total",21.0,78.0,2020-06-10,135206
+"Indonesia, Total",-0.7893,113.9213,2020-06-10,12129
+"Iran, Total",32.0,53.0,2020-06-10,140590
+"Iraq, Total",33.0,44.0,2020-06-10,6214
+"Ireland, Total",53.1424,-7.6921,2020-06-10,22698
+"Israel, Total",31.0,35.0,2020-06-10,15168
+"Italy, Total",43.0,12.0,2020-06-10,169939
+"Jamaica, Total",18.1096,-77.2975,2020-06-10,407
+"Japan, Total",36.0,138.0,2020-06-10,15217
+"Jordan, Total",31.24,36.51,2020-06-10,663
+"Kazakhstan, Total",48.0196,66.9237,2020-06-10,8345
+"Kenya, Total",-0.0236,37.9062,2020-06-10,1048
+"Korea, South, Total",36.0,128.0,2020-06-10,10654
+"Kuwait, Total",29.5,47.75,2020-06-10,23288
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-10,1572
+"Latvia, Total",56.8796,24.6032,2020-06-10,794
+"Lebanon, Total",33.8547,35.8623,2020-06-10,832
+"Liberia, Total",6.4281,-9.4295,2020-06-10,200
+"Libya, Total",26.3351,17.228331,2020-06-10,59
+"Liechtenstein, Total",47.14,9.55,2020-06-10,55
+"Lithuania, Total",55.1694,23.8813,2020-06-10,1369
+"Luxembourg, Total",49.8153,6.1296,2020-06-10,3904
+"Madagascar, Total",-18.7669,46.8691,2020-06-10,296
+"Malaysia, Total",2.5,112.5,2020-06-10,7014
+"Maldives, Total",3.2028,73.2207,2020-06-10,1121
+"Mali, Total",17.570692,-3.996166000000001,2020-06-10,948
+"Malta, Total",35.9375,14.3754,2020-06-10,597
+"Mauritania, Total",21.0079,10.9408,2020-06-10,142
+"Mauritius, Total",-20.2,57.5,2020-06-10,325
+"Mexico, Total",23.6345,-102.5528,2020-06-10,93930
+"Moldova, Total",47.4116,28.3699,2020-06-10,5930
+"Monaco, Total",43.7333,7.4167,2020-06-10,93
+"Mongolia, Total",46.8625,103.8467,2020-06-10,89
+"Montenegro, Total",42.5,19.3,2020-06-10,315
+"Morocco, Total",31.7917,-7.0926,2020-06-10,7565
+"Mozambique, Total",-18.6657,35.5296,2020-06-10,138
+"Namibia, Total",-22.9576,18.4904,2020-06-10,17
+"Nepal, Total",28.1667,84.25,2020-06-10,674
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-10,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-10,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-10,61
+"Netherlands, Total",52.1326,5.2913,2020-06-10,0
+"New Zealand, Total",-40.9006,174.886,2020-06-10,1482
+"Nicaragua, Total",12.8654,-85.2072,2020-06-10,953
+"Niger, Total",17.6078,8.0817,2020-06-10,876
+"Nigeria, Total",9.082,8.6753,2020-06-10,4351
+"North Macedonia, Total",41.6086,21.7453,2020-06-10,1664
+"Norway, Total",60.472,8.4689,2020-06-10,8138
+"Oman, Total",21.0,57.0,2020-06-10,5640
+"Pakistan, Total",30.3753,69.3451,2020-06-10,36308
+"Panama, Total",8.538,-80.7821,2020-06-10,10977
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-10,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-10,619
+"Peru, Total",-9.19,-75.0152,2020-06-10,98031
+"Philippines, Total",13.0,122.0,2020-06-10,4895
+"Poland, Total",51.9194,19.1451,2020-06-10,13411
+"Portugal, Total",39.3999,-8.2245,2020-06-10,21742
+"Qatar, Total",25.3548,51.1839,2020-06-10,49413
+"Romania, Total",45.9432,24.9668,2020-06-10,15103
+"Russia, Total",60.0,90.0,2020-06-10,252295
+"Rwanda, Total",-1.9403,29.8739,2020-06-10,307
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-10,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-10,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-10,25
+"San Marino, Total",43.9424,12.4578,2020-06-10,496
+"Saudi Arabia, Total",24.0,45.0,2020-06-10,77954
+"Senegal, Total",14.4974,-14.4524,2020-06-10,2885
+"Serbia, Total",44.0165,21.0059,2020-06-10,11348
+"Seychelles, Total",-4.6796,55.492,2020-06-10,11
+"Singapore, Total",1.2833,103.8333,2020-06-10,26532
+"Slovakia, Total",48.669,19.699,2020-06-10,1404
+"Slovenia, Total",46.1512,14.9955,2020-06-10,1359
+"Somalia, Total",5.1521,46.1996,2020-06-10,506
+"South Africa, Total",-30.5595,22.9375,2020-06-10,31505
+"Spain, Total",40.0,-4.0,2020-06-10,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-10,1122
+"Sudan, Total",12.8628,30.2176,2020-06-10,2202
+"Suriname, Total",3.9193,-56.0278,2020-06-10,9
+"Sweden, Total",63.0,16.0,2020-06-10,0
+"Switzerland, Total",46.8182,8.2275,2020-06-10,28700
+"Syria, Total",34.8021,38.9968,2020-06-10,68
+"Taiwan*, Total",23.7,121.0,2020-06-10,431
+"Tanzania, Total",-6.369,34.8888,2020-06-10,183
+"Thailand, Total",15.0,101.0,2020-06-10,2981
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-10,24
+"Togo, Total",8.6195,0.8248,2020-06-10,265
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-10,109
+"Tunisia, Total",34.0,9.0,2020-06-10,983
+"Turkey, Total",38.9637,35.2433,2020-06-10,146839
+"Uganda, Total",1.0,32.0,2020-06-10,119
+"Ukraine, Total",48.3794,31.1656,2020-06-10,13257
+"United Arab Emirates, Total",24.0,54.0,2020-06-10,24017
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-10,125
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-10,107
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-10,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-10,169
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-10,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-10,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-10,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-10,758
+"US, Total",37.0902,-95.7129,2020-06-10,533504
+"Uzbekistan, Total",41.3775,64.5853,2020-06-10,3532
+"Venezuela, Total",6.4238,-66.5897,2020-06-10,487
+"Vietnam, Total",16.0,108.0,2020-06-10,320
+"Zambia, Total",-15.4167,28.2833,2020-06-10,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-10,49
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-10,410
+"Laos, Total",19.856270000000002,102.495496,2020-06-10,19
+"Kosovo, Total",42.602636,20.902977,2020-06-10,913
+"Burma, Total",21.9162,95.956,2020-06-10,165
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-10,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-10,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-10,11
+"MS Zaandam, Total",0.0,0.0,2020-06-10,0
+"Botswana, Total",-22.3285,24.6849,2020-06-10,24
+"Burundi, Total",-3.3731,29.9189,2020-06-10,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-10,637
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-10,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-10,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-10,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-10,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-10,15
+"Western Sahara, Total",24.2155,-12.8858,2020-06-10,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-10,135
+"Yemen, Total",15.552726999999999,48.516388,2020-06-10,23
+"Comoros, Total",-11.6455,43.3333,2020-06-10,97
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-10,2947
+"Lesotho, Total",-29.609988,28.233608,2020-06-10,2
+"Afghanistan, Total",33.0,65.0,2020-06-11,3326
+"Albania, Total",41.1533,20.1683,2020-06-11,1001
+"Algeria, Total",28.0339,1.6596,2020-06-11,7255
+"Andorra, Total",42.5063,1.5218,2020-06-11,780
+"Angola, Total",-11.2027,17.8739,2020-06-11,41
+"Antigua and Barbuda, Total",17.0608,-61.7964,2020-06-11,20
+"Argentina, Total",-38.4161,-63.6167,2020-06-11,8332
+"Armenia, Total",40.0691,45.0382,2020-06-11,5466
+"Australia, Australian Capital Territory",-35.4735,149.0124,2020-06-11,104
+"Australia, New South Wales",-33.8688,151.2093,2020-06-11,2743
+"Australia, Northern Territory",-12.4634,130.8456,2020-06-11,29
+"Australia, Queensland",-28.0167,153.4,2020-06-11,1051
+"Australia, South Australia",-34.9285,138.6007,2020-06-11,436
+"Australia, Tasmania",-41.4545,145.9707,2020-06-11,212
+"Australia, Victoria",-37.8136,144.9631,2020-06-11,1632
+"Australia, Western Australia",-31.9505,115.8605,2020-06-11,575
+"Austria, Total",47.5162,14.5501,2020-06-11,15949
+"Azerbaijan, Total",40.1431,47.5769,2020-06-11,4930
+"Bahamas, Total",25.0343,-77.3963,2020-06-11,68
+"Bahrain, Total",26.0275,50.55,2020-06-11,11487
+"Bangladesh, Total",23.685,90.3563,2020-06-11,16747
+"Barbados, Total",13.1939,-59.5432,2020-06-11,83
+"Belarus, Total",53.7098,27.9534,2020-06-11,26643
+"Belgium, Total",50.8333,4.0,2020-06-11,16453
+"Belize, Total",13.1939,-59.5432,2020-06-11,16
+"Benin, Total",9.3077,2.3158,2020-06-11,188
+"Bhutan, Total",27.5142,90.4336,2020-06-11,19
+"Bolivia, Total",-16.2902,-63.5887,2020-06-11,2372
+"Bosnia and Herzegovina, Total",43.9159,17.6791,2020-06-11,2100
+"Brazil, Total",-14.235,-51.9253,2020-06-11,429965
+"Brunei, Total",4.5353,114.7277,2020-06-11,138
+"Bulgaria, Total",42.7339,25.4858,2020-06-11,1688
+"Burkina Faso, Total",12.2383,-1.5616,2020-06-11,790
+"Cabo Verde, Total",16.5388,-23.0418,2020-06-11,294
+"Cambodia, Total",11.55,104.9167,2020-06-11,125
+"Cameroon, Total",3.8480000000000003,11.5021,2020-06-11,4836
+"Canada, Total",56.1304,-106.3468,2020-06-11,58131
+"Central African Republic, Total",6.6111,20.9394,2020-06-11,38
+"Chad, Total",15.4542,18.7322,2020-06-11,706
+"Chile, Total",-35.6751,-71.543,2020-06-11,126444
+"China, Anhui",31.8257,117.2264,2020-06-11,985
+"China, Beijing",40.1824,116.4142,2020-06-11,584
+"China, Chongqing",30.0572,107.874,2020-06-11,573
+"China, Fujian",26.0789,117.9874,2020-06-11,356
+"China, Gansu",37.8099,101.0583,2020-06-11,137
+"China, Guangdong",23.3417,113.4244,2020-06-11,1589
+"China, Guangxi",23.8298,108.7881,2020-06-11,252
+"China, Guizhou",26.8154,106.8748,2020-06-11,145
+"China, Hainan",19.1959,109.7453,2020-06-11,162
+"China, Hebei",39.549,116.1306,2020-06-11,322
+"China, Heilongjiang",47.861999999999995,127.7615,2020-06-11,934
+"China, Henan",33.882,113.61399999999999,2020-06-11,1254
+"China, Hong Kong",22.3,114.2,2020-06-11,1055
+"China, Hubei",30.9756,112.2707,2020-06-11,63623
+"China, Hunan",27.6104,111.7088,2020-06-11,1015
+"China, Inner Mongolia",44.0935,113.9448,2020-06-11,231
+"China, Jiangsu",32.9711,119.455,2020-06-11,653
+"China, Jiangxi",27.614,115.7221,2020-06-11,931
+"China, Jilin",43.6661,126.1923,2020-06-11,153
+"China, Liaoning",41.2956,122.6085,2020-06-11,147
+"China, Macau",22.1667,113.55,2020-06-11,45
+"China, Ningxia",37.2692,106.1655,2020-06-11,75
+"China, Qinghai",35.7452,95.9956,2020-06-11,18
+"China, Shaanxi",35.1917,108.8701,2020-06-11,306
+"China, Shandong",36.3427,118.1498,2020-06-11,781
+"China, Shanghai",31.201999999999998,121.4491,2020-06-11,666
+"China, Shanxi",37.5777,112.2922,2020-06-11,198
+"China, Sichuan",30.6171,102.7103,2020-06-11,561
+"China, Tianjin",39.3054,117.323,2020-06-11,189
+"China, Tibet",31.6927,88.0924,2020-06-11,1
+"China, Xinjiang",41.1129,85.2401,2020-06-11,73
+"China, Yunnan",24.974,101.48700000000001,2020-06-11,183
+"China, Zhejiang",29.1832,120.0934,2020-06-11,1267
+"Colombia, Total",4.5709,-74.2973,2020-06-11,17366
+"Congo (Brazzaville), Total",-4.0383,21.7587,2020-06-11,221
+"Congo (Kinshasa), Total",-4.0383,21.7587,2020-06-11,567
+"Costa Rica, Total",9.7489,-83.7534,2020-06-11,722
+"Cote d'Ivoire, Total",7.54,-5.5471,2020-06-11,2212
+"Croatia, Total",45.1,15.2,2020-06-11,2132
+"Diamond Princess, Total",0.0,0.0,2020-06-11,651
+"Cuba, Total",22.0,-80.0,2020-06-11,1893
+"Cyprus, Total",35.1264,33.4299,2020-06-11,807
+"Czechia, Total",49.8175,15.472999999999999,2020-06-11,7166
+"Denmark, Faroe Islands",61.8926,-6.9118,2020-06-11,187
+"Denmark, Greenland",71.7069,-42.6043,2020-06-11,13
+"Denmark, Total",56.2639,9.5018,2020-06-11,10955
+"Djibouti, Total",11.8251,42.5903,2020-06-11,2519
+"Dominica, Total",15.415,-61.371,2020-06-11,16
+"Dominican Republic, Total",18.7357,-70.1627,2020-06-11,12541
+"Ecuador, Total",-1.8312,-78.1834,2020-06-11,21862
+"Egypt, Total",26.0,30.0,2020-06-11,10691
+"El Salvador, Total",13.7942,-88.8965,2020-06-11,1504
+"Equatorial Guinea, Total",1.5,10.0,2020-06-11,200
+"Eritrea, Total",15.1794,39.7823,2020-06-11,39
+"Estonia, Total",58.5953,25.0136,2020-06-11,1697
+"Eswatini, Total",-26.5225,31.4659,2020-06-11,238
+"Ethiopia, Total",9.145,40.4897,2020-06-11,434
+"Fiji, Total",-17.7134,178.065,2020-06-11,18
+"Finland, Total",64.0,26.0,2020-06-11,6200
+"France, French Guiana",3.9339,-53.1258,2020-06-11,462
+"France, French Polynesia",-17.6797,149.4068,2020-06-11,60
+"France, Guadeloupe",16.25,-61.5833,2020-06-11,144
+"France, Martinique",14.6415,-61.0242,2020-06-11,98
+"France, Mayotte",-12.8275,45.1662,2020-06-11,1654
+"France, New Caledonia",-20.9043,165.618,2020-06-11,20
+"France, Reunion",-21.1351,55.2471,2020-06-11,447
+"France, Saint Barthelemy",17.9,-62.8333,2020-06-11,6
+"France, St Martin",18.0708,-63.0501,2020-06-11,33
+"France, Total",46.2276,2.2137,2020-06-11,69344
+"Gabon, Total",-0.8037,11.6094,2020-06-11,1024
+"Gambia, Total",13.4432,-15.3101,2020-06-11,22
+"Georgia, Total",42.3154,43.3569,2020-06-11,694
+"Germany, Total",51.0,9.0,2020-06-11,170961
+"Ghana, Total",7.9465,-1.0232,2020-06-11,3824
+"Grenada, Total",12.1165,-61.678999999999995,2020-06-11,22
+"Greece, Total",39.0742,21.8243,2020-06-11,1374
+"Guatemala, Total",15.7835,-90.2308,2020-06-11,1567
+"Guinea, Total",9.9456,-9.6966,2020-06-11,3033
+"Guinea-Bissau, Total",11.8037,-15.1804,2020-06-11,153
+"Guyana, Total",5.0,-58.75,2020-06-11,92
+"Haiti, Total",18.9712,-72.2852,2020-06-11,24
+"Holy See, Total",41.9029,12.4534,2020-06-11,12
+"Honduras, Total",15.2,-86.2419,2020-06-11,837
+"Hungary, Total",47.1625,19.5033,2020-06-11,2391
+"Iceland, Total",64.9631,-19.0208,2020-06-11,1794
+"India, Total",21.0,78.0,2020-06-11,147195
+"Indonesia, Total",-0.7893,113.9213,2020-06-11,12636
+"Iran, Total",32.0,53.0,2020-06-11,142663
+"Iraq, Total",33.0,44.0,2020-06-11,6568
+"Ireland, Total",53.1424,-7.6921,2020-06-11,22698
+"Israel, Total",31.0,35.0,2020-06-11,15250
+"Italy, Total",43.0,12.0,2020-06-11,171338
+"Jamaica, Total",18.1096,-77.2975,2020-06-11,408
+"Japan, Total",36.0,138.0,2020-06-11,15233
+"Jordan, Total",31.24,36.51,2020-06-11,670
+"Kazakhstan, Total",48.0196,66.9237,2020-06-11,8593
+"Kenya, Total",-0.0236,37.9062,2020-06-11,1092
+"Korea, South, Total",36.0,128.0,2020-06-11,10669
+"Kuwait, Total",29.5,47.75,2020-06-11,24137
+"Kyrgyzstan, Total",41.2044,74.7661,2020-06-11,1668
+"Latvia, Total",56.8796,24.6032,2020-06-11,818
+"Lebanon, Total",33.8547,35.8623,2020-06-11,845
+"Liberia, Total",6.4281,-9.4295,2020-06-11,206
+"Libya, Total",26.3351,17.228331,2020-06-11,59
+"Liechtenstein, Total",47.14,9.55,2020-06-11,55
+"Lithuania, Total",55.1694,23.8813,2020-06-11,1372
+"Luxembourg, Total",49.8153,6.1296,2020-06-11,3910
+"Madagascar, Total",-18.7669,46.8691,2020-06-11,312
+"Malaysia, Total",2.5,112.5,2020-06-11,7065
+"Maldives, Total",3.2028,73.2207,2020-06-11,1153
+"Mali, Total",17.570692,-3.996166000000001,2020-06-11,989
+"Malta, Total",35.9375,14.3754,2020-06-11,600
+"Mauritania, Total",21.0079,10.9408,2020-06-11,250
+"Mauritius, Total",-20.2,57.5,2020-06-11,325
+"Mexico, Total",23.6345,-102.5528,2020-06-11,97198
+"Moldova, Total",47.4116,28.3699,2020-06-11,6072
+"Monaco, Total",43.7333,7.4167,2020-06-11,93
+"Mongolia, Total",46.8625,103.8467,2020-06-11,95
+"Montenegro, Total",42.5,19.3,2020-06-11,315
+"Morocco, Total",31.7917,-7.0926,2020-06-11,7583
+"Mozambique, Total",-18.6657,35.5296,2020-06-11,144
+"Namibia, Total",-22.9576,18.4904,2020-06-11,17
+"Nepal, Total",28.1667,84.25,2020-06-11,861
+"Netherlands, Aruba",12.5186,-70.0358,2020-06-11,98
+"Netherlands, Curacao",12.1696,-68.99,2020-06-11,15
+"Netherlands, Sint Maarten",18.0425,-63.0548,2020-06-11,61
+"Netherlands, Total",52.1326,5.2913,2020-06-11,0
+"New Zealand, Total",-40.9006,174.886,2020-06-11,1482
+"Nicaragua, Total",12.8654,-85.2072,2020-06-11,953
+"Niger, Total",17.6078,8.0817,2020-06-11,878
+"Nigeria, Total",9.082,8.6753,2020-06-11,4494
+"North Macedonia, Total",41.6086,21.7453,2020-06-11,1682
+"Norway, Total",60.472,8.4689,2020-06-11,8138
+"Oman, Total",21.0,57.0,2020-06-11,6623
+"Pakistan, Total",30.3753,69.3451,2020-06-11,40247
+"Panama, Total",8.538,-80.7821,2020-06-11,10977
+"Papua New Guinea, Total",-6.315,143.9555,2020-06-11,8
+"Paraguay, Total",-23.4425,-58.4438,2020-06-11,624
+"Peru, Total",-9.19,-75.0152,2020-06-11,102429
+"Philippines, Total",13.0,122.0,2020-06-11,5165
+"Poland, Total",51.9194,19.1451,2020-06-11,13696
+"Portugal, Total",39.3999,-8.2245,2020-06-11,22002
+"Qatar, Total",25.3548,51.1839,2020-06-11,51331
+"Romania, Total",45.9432,24.9668,2020-06-11,15283
+"Russia, Total",60.0,90.0,2020-06-11,260649
+"Rwanda, Total",-1.9403,29.8739,2020-06-11,313
+"Saint Kitts and Nevis, Total",17.357822,-62.782998,2020-06-11,15
+"Saint Lucia, Total",13.9094,-60.9789,2020-06-11,18
+"Saint Vincent and the Grenadines, Total",12.9843,-61.2872,2020-06-11,25
+"San Marino, Total",43.9424,12.4578,2020-06-11,496
+"Saudi Arabia, Total",24.0,45.0,2020-06-11,80019
+"Senegal, Total",14.4974,-14.4524,2020-06-11,2994
+"Serbia, Total",44.0165,21.0059,2020-06-11,11362
+"Seychelles, Total",-4.6796,55.492,2020-06-11,11
+"Singapore, Total",1.2833,103.8333,2020-06-11,27286
+"Slovakia, Total",48.669,19.699,2020-06-11,1409
+"Slovenia, Total",46.1512,14.9955,2020-06-11,1359
+"Somalia, Total",5.1521,46.1996,2020-06-11,532
+"South Africa, Total",-30.5595,22.9375,2020-06-11,33252
+"Spain, Total",40.0,-4.0,2020-06-11,150376
+"Sri Lanka, Total",7.0,81.0,2020-06-11,1150
+"Sudan, Total",12.8628,30.2176,2020-06-11,2278
+"Suriname, Total",3.9193,-56.0278,2020-06-11,9
+"Sweden, Total",63.0,16.0,2020-06-11,0
+"Switzerland, Total",46.8182,8.2275,2020-06-11,28800
+"Syria, Total",34.8021,38.9968,2020-06-11,68
+"Taiwan*, Total",23.7,121.0,2020-06-11,431
+"Tanzania, Total",-6.369,34.8888,2020-06-11,183
+"Thailand, Total",15.0,101.0,2020-06-11,2987
+"Timor-Leste, Total",-8.8742,125.7275,2020-06-11,24
+"Togo, Total",8.6195,0.8248,2020-06-11,271
+"Trinidad and Tobago, Total",10.6918,-61.2225,2020-06-11,109
+"Tunisia, Total",34.0,9.0,2020-06-11,989
+"Turkey, Total",38.9637,35.2433,2020-06-11,147860
+"Uganda, Total",1.0,32.0,2020-06-11,161
+"Ukraine, Total",48.3794,31.1656,2020-06-11,13642
+"United Arab Emirates, Total",24.0,54.0,2020-06-11,25234
+"United Kingdom, Bermuda",32.3078,-64.7505,2020-06-11,127
+"United Kingdom, Cayman Islands",19.3133,-81.2546,2020-06-11,112
+"United Kingdom, Channel Islands",49.3723,-2.3644,2020-06-11,512
+"United Kingdom, Gibraltar",36.1408,-5.3536,2020-06-11,171
+"United Kingdom, Isle of Man",54.2361,-4.5481,2020-06-11,312
+"United Kingdom, Montserrat",16.7425,-62.1874,2020-06-11,10
+"United Kingdom, Total",55.3781,-3.4360000000000004,2020-06-11,0
+"Uruguay, Total",-32.5228,-55.7658,2020-06-11,772
+"US, Total",37.0902,-95.7129,2020-06-11,540292
+"Uzbekistan, Total",41.3775,64.5853,2020-06-11,3637
+"Venezuela, Total",6.4238,-66.5897,2020-06-11,487
+"Vietnam, Total",16.0,108.0,2020-06-11,321
+"Zambia, Total",-15.4167,28.2833,2020-06-11,912
+"Zimbabwe, Total",-20.0,30.0,2020-06-11,51
+"West Bank and Gaza, Total",31.9522,35.2332,2020-06-11,410
+"Laos, Total",19.856270000000002,102.495496,2020-06-11,19
+"Kosovo, Total",42.602636,20.902977,2020-06-11,921
+"Burma, Total",21.9162,95.956,2020-06-11,165
+"United Kingdom, Anguilla",18.2206,-63.0686,2020-06-11,3
+"United Kingdom, British Virgin Islands",18.4207,-64.64,2020-06-11,7
+"United Kingdom, Turks and Caicos Islands",21.69400000000001,-71.7979,2020-06-11,11
+"MS Zaandam, Total",0.0,0.0,2020-06-11,0
+"Botswana, Total",-22.3285,24.6849,2020-06-11,24
+"Burundi, Total",-3.3731,29.9189,2020-06-11,45
+"Sierra Leone, Total",8.460555000000001,-11.779889,2020-06-11,642
+"Netherlands, Bonaire, Sint Eustatius and Saba",12.1784,-68.2385,2020-06-11,7
+"Malawi, Total",-13.254307999999998,34.301525,2020-06-11,55
+"United Kingdom, Falkland Islands (Malvinas)",-51.7963,-59.5236,2020-06-11,13
+"France, Saint Pierre and Miquelon",46.8852,-56.3159,2020-06-11,1
+"South Sudan, Total",6.8770000000000024,31.307,2020-06-11,48
+"Western Sahara, Total",24.2155,-12.8858,2020-06-11,6
+"Sao Tome and Principe, Total",0.18636,6.613081,2020-06-11,146
+"Yemen, Total",15.552726999999999,48.516388,2020-06-11,23
+"Comoros, Total",-11.6455,43.3333,2020-06-11,97
+"Tajikistan, Total",38.861034000000004,71.276093,2020-06-11,3062
+"Lesotho, Total",-29.609988,28.233608,2020-06-11,2
