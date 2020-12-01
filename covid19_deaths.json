@@ -2,16 +2,16 @@
     "autoPlay": true,
     "viewerMode": "2d",
     "initialCamera": {
-    "west": -140,
-    "east": 180,
-    "north": 67,
-    "south": -67
+    "west": -127,
+    "east": -61,
+    "north": 50,
+    "south": 24
   },
     "homeCamera": {
-    "west": -140,
-    "east": 180,
-    "north": 67,
-    "south": -67
+    "west": -127,
+    "east": -61,
+    "north": 50,
+    "south": 24
   },
     "catalog": [
         {
