@@ -17,7 +17,7 @@
         {
             "name": "COVID19 Deaths in US",
             "type": "csv",
-            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/US_covid_deat.csv",
+            "url": "https://raw.githubusercontent.com/zdefne-usgs/covid_dashboard/master/US_covid_deat2.csv",
             "description": "A spatiotemporal map of deaths from COVID19. Thanks to these sources who provided the open source data and the tools: <p><a href=\"https://github.com/CSSEGISandData/COVID-19\">2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE</a></p> <p><a href=\"friedrichknuth/covid_dashboard\">COVID-19 Interactive Jupyter Notebooks </a></p>     <p><a href=\"https://terria.io\">TerriaJS</a></p>      <p> <a href=\"https://www.linkedin.com/in/zaferdefne/\">Zafer Defne</a> prepared this voluntarily, and during his free time while keeping social distance with fellow human beings. He still has hope.</p>",
             "hideSource" : true,
             "isPromoted": true,
